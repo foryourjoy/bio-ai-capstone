@@ -1,0 +1,2730 @@
+﻿Scaffold,Transcription Start,Strand,Name,Gene,Product
+NC_007604,65,+,-,Synpcc7942_0001,DNA polymerase III subunit beta
+NC_007604,1262,+,-,Synpcc7942_0002,hypothetical protein
+NC_007604,2173,+,-,Synpcc7942_0003,phosphoribosylformylglycinamidine synthase II
+NC_007604,4596,+,-,Synpcc7942_0004,amidophosphoribosyltransferase
+NC_007604,7706,-,-,Synpcc7942_0005,hypothetical protein
+NC_007604,8192,-,-,Synpcc7942_0006,hypothetical protein
+NC_007604,8539,-,-,Synpcc7942_0007,hypothetical protein
+NC_007604,8859,-,-,Synpcc7942_0008,hypothetical protein
+NC_007604,8964,+,-,Synpcc7942_0009,argininosuccinate synthase
+NC_007604,10878,-,-,Synpcc7942_0010,hypothetical protein
+NC_007604,11474,-,-,Synpcc7942_0011,hypothetical protein
+NC_007604,11989,-,rpsF,Synpcc7942_0012,30S ribosomal protein S6
+NC_007604,12321,+,-,Synpcc7942_0013,hypothetical protein
+NC_007604,13411,-,-,Synpcc7942_0014,hypothetical protein
+NC_007604,14248,-,-,Synpcc7942_0015,hydroxylase
+NC_007604,15020,+,-,Synpcc7942_0016,hypothetical protein
+NC_007604,16193,-,-,Synpcc7942_0017,keto-hydroxyglutarate-aldolase/keto-deoxy-phosphogluconate aldolase
+NC_007604,18392,-,glyS,Synpcc7942_0018,glycyl-tRNA synthetase subunit beta
+NC_007604,18615,+,-,Synpcc7942_0019,sulfite reductase subunit beta
+NC_007604,20490,+,-,Synpcc7942_0020,hypothetical protein
+NC_007604,21874,-,-,Synpcc7942_0021,cobalt-precorrin-6x reductase
+NC_007604,23049,-,-,Synpcc7942_0022,hypothetical protein
+NC_007604,24121,-,-,Synpcc7942_0023,calcium/proton exchanger
+NC_007604,25371,-,-,Synpcc7942_0024,hypothetical protein
+NC_007604,25416,+,-,Synpcc7942_0025,hypothetical protein
+NC_007604,28059,-,-,Synpcc7942_0026,hypothetical protein
+NC_007604,28184,+,-,Synpcc7942_0027,8-amino-7-oxononanoate synthase
+NC_007604,29347,+,-,Synpcc7942_0028,hypothetical protein
+NC_007604,30012,+,-,Synpcc7942_0029,hypothetical protein
+NC_007604,30834,+,-,Synpcc7942_0030,dethiobiotin synthase
+NC_007604,31464,+,-,Synpcc7942_0031,aminotransferase
+NC_007604,33202,-,-,Synpcc7942_0032,hypothetical protein
+NC_007604,33506,-,-,Synpcc7942_0033,hypothetical protein
+NC_007604,33685,+,-,Synpcc7942_0034,N-acetylornithine aminotransferase
+NC_007604,35115,-,-,Synpcc7942_0035,hypothetical protein
+NC_007604,35341,+,-,Synpcc7942_0036,hypothetical protein
+NC_007604,36326,-,-,Synpcc7942_0037,hypothetical protein
+NC_007604,36479,+,-,Synpcc7942_0038,mutator MutT protein
+NC_007604,37130,+,-,Synpcc7942_0039,6-phosphogluconate dehydrogenase
+NC_007604,38630,+,-,Synpcc7942_0040,dihydroneopterin aldolase dihydroneopterin aldolase
+NC_007604,39441,+,-,Synpcc7942_0041,transport protein
+NC_007604,41091,-,rpmB,Synpcc7942_0042,50S ribosomal protein L28
+NC_007604,41496,-,-,Synpcc7942_0043,hypothetical protein
+NC_007604,41495,+,-,Synpcc7942_0044,hypothetical protein
+NC_007604,43572,+,-,Synpcc7942_0045,TPR repeat-containing protein
+NC_007604,45164,+,-,Synpcc7942_0046,ubiquinone/menaquinone biosynthesis methylase-like protein
+NC_007604,46515,+,-,Synpcc7942_0047,TPR repeat-containing protein
+NC_007604,49361,-,-,Synpcc7942_0048,pilin polypeptide PilA-like protein
+NC_007604,49984,-,-,Synpcc7942_0049,pilin polypeptide PilA-like protein
+NC_007604,50024,+,-,Synpcc7942_0050,hypothetical protein
+NC_007604,54507,-,-,Synpcc7942_0051,TPR repeat-containing protein
+NC_007604,55030,-,-,Synpcc7942_0052,hypothetical protein
+NC_007604,56352,-,-,Synpcc7942_0053,hypothetical protein
+NC_007604,57190,-,-,Synpcc7942_0054,hypothetical protein
+NC_007604,57908,-,-,Synpcc7942_0055,hypothetical protein
+NC_007604,59071,-,-,Synpcc7942_0056,perosamine synthetase
+NC_007604,60304,-,-,Synpcc7942_0057,C-3 methyl transferase
+NC_007604,60846,-,-,Synpcc7942_0058,"dTDP-4-dehydrorhamnose 3,5-epimerase"
+NC_007604,61112,-,-,Synpcc7942_0059,hypothetical protein
+NC_007604,61369,-,-,Synpcc7942_0060,hypothetical protein
+NC_007604,62472,-,-,Synpcc7942_0061,"CDP-glucose 4,6-dehydratase"
+NC_007604,63278,-,-,Synpcc7942_0062,glucose-1-phosphate cytidylyltransferase
+NC_007604,64706,-,-,Synpcc7942_0063,dual specificity protein phosphatase
+NC_007604,64870,-,-,Synpcc7942_0064,hypothetical protein
+NC_007604,65562,-,infC,Synpcc7942_0065,translation initiation factor IF-3
+NC_007604,67172,-,-,Synpcc7942_0066,hypothetical protein
+NC_007604,67986,-,-,Synpcc7942_0067,ABC transporter permease
+NC_007604,68980,-,-,Synpcc7942_0068,ATPase
+NC_007604,69001,+,-,Synpcc7942_0069,hypothetical protein
+NC_007604,69938,-,-,Synpcc7942_0070,hypothetical protein
+NC_007604,71139,-,-,Synpcc7942_0071,pleiotropic regulatory protein-like protein
+NC_007604,71960,-,-,Synpcc7942_0072,hypothetical protein
+NC_007604,73196,-,-,Synpcc7942_0073,4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+NC_007604,73659,-,-,Synpcc7942_0074,hypothetical protein
+NC_007604,73775,+,-,Synpcc7942_0075,aminopeptidase
+NC_007604,75091,+,-,Synpcc7942_0076,extracellular solute-binding protein
+NC_007604,75853,+,-,Synpcc7942_0077,XRE family transcriptional regulator
+NC_007604,77063,-,-,Synpcc7942_0078,hypothetical protein
+NC_007604,77584,-,-,Synpcc7942_0079,hypothetical protein
+NC_007604,78872,-,-,Synpcc7942_0080,ABC transporter permease
+NC_007604,79268,-,-,Synpcc7942_0081,RNA-binding S4
+NC_007604,79265,+,-,Synpcc7942_0082,ATPase
+NC_007604,81023,+,-,Synpcc7942_0083,hypothetical protein
+NC_007604,81217,+,-,Synpcc7942_0084,hypothetical protein
+NC_007604,82865,-,-,Synpcc7942_0085,HAD family hydrolase
+NC_007604,84963,-,-,Synpcc7942_0086,isoamylase
+NC_007604,86475,-,-,Synpcc7942_0087,hypothetical protein
+NC_007604,86547,+,-,Synpcc7942_0088,hypothetical protein
+NC_007604,87796,-,-,Synpcc7942_R0025,Asn tRNA
+NC_007604,88615,-,-,Synpcc7942_0089,carboxymethylenebutenolidase
+NC_007604,88735,+,-,Synpcc7942_0090,GntR family transcriptional regulator
+NC_007604,90453,-,-,Synpcc7942_0091,hypothetical protein
+NC_007604,90930,-,-,Synpcc7942_0092,hypothetical protein
+NC_007604,90962,+,-,Synpcc7942_0093,thymidylate kinase
+NC_007604,91676,+,-,Synpcc7942_0094,DNA polymerase III subunit delta'
+NC_007604,93339,-,-,Synpcc7942_0095,two component transcriptional regulator
+NC_007604,93729,-,crm,Crm,circadian rhythmicity modulator
+NC_007604,94285,-,-,Synpcc7942_0096,hypothetical protein
+NC_007604,98166,-,cobN,Synpcc7942_0097,cobaltochelatase subunit CobN
+NC_007604,100086,-,-,Synpcc7942_0098,pyruvate kinase
+NC_007604,100202,+,-,Synpcc7942_0099,hypothetical protein
+NC_007604,101082,-,-,Synpcc7942_0100,hypothetical protein
+NC_007604,101217,+,-,Synpcc7942_0101,type 2 NADH dehydrogenase
+NC_007604,102674,+,-,Synpcc7942_0102,hypothetical protein
+NC_007604,103645,-,-,Synpcc7942_0103,ankyrin
+NC_007604,104414,-,-,Synpcc7942_0104,hypothetical protein
+NC_007604,106377,-,nadE,Synpcc7942_0105,NAD synthetase
+NC_007604,106952,-,nadD,Synpcc7942_0106,nicotinic acid mononucleotide adenylyltransferase
+NC_007604,108383,-,-,Synpcc7942_0107,small GTP-binding protein domain-containing protein
+NC_007604,108556,+,-,Synpcc7942_0108,sulfiredoxin
+NC_007604,108877,+,-,Synpcc7942_0109,DNA-binding ferritin-like protein
+NC_007604,109390,+,-,Synpcc7942_0110,XRE family transcriptional regulator
+NC_007604,110012,+,-,Synpcc7942_0111,DnaK protein-like protein
+NC_007604,111686,+,-,Synpcc7942_0112,deoxyribodipyrimidine photo-lyase type I
+NC_007604,113196,+,petL,Synpcc7942_0113,cytochrome b6-f complex subunit PetL
+NC_007604,113295,+,-,Synpcc7942_0114,hypothetical protein
+NC_007604,114146,-,-,Synpcc7942_0115,hypothetical protein
+NC_007604,114299,+,-,Synpcc7942_0116,fructokinase
+NC_007604,115391,+,-,Synpcc7942_0117,thiol methyltransferase 1-like protein
+NC_007604,116943,+,gatB,Synpcc7942_0118,aspartyl/glutamyl-tRNA amidotransferase subunit B
+NC_007604,119292,-,-,Synpcc7942_0119,hypothetical protein
+NC_007604,119993,-,-,Synpcc7942_0120,cytosine/adenosine deaminase-like protein
+NC_007604,121239,-,-,Synpcc7942_0121,hypothetical protein
+NC_007604,121282,+,-,Synpcc7942_R0026,Cys tRNA
+NC_007604,123573,-,-,Synpcc7942_0122,hypothetical protein
+NC_007604,123897,-,-,Synpcc7942_0123,hypothetical protein
+NC_007604,123940,+,-,Synpcc7942_R0027,Cys tRNA
+NC_007604,124669,-,-,Synpcc7942_0124,thiol methyltransferase 1-like protein
+NC_007604,125367,-,hisB,Synpcc7942_0125,imidazoleglycerol-phosphate dehydratase
+NC_007604,126158,-,-,Synpcc7942_0126,enoyl-ACP reductase
+NC_007604,126367,+,-,Synpcc7942_0127,Crp/Fnr family transcriptional regulator
+NC_007604,127151,+,-,Synpcc7942_0128,hypothetical protein
+NC_007604,128446,+,-,Synpcc7942_0129,"resolvase, RNase H-like fold"
+NC_007604,129409,-,-,Synpcc7942_0130,hypothetical protein
+NC_007604,132495,-,-,Synpcc7942_0131,cyclic nucleotide-binding protein
+NC_007604,133770,-,-,Synpcc7942_0132,hypothetical protein
+NC_007604,133915,+,-,Synpcc7942_0133,hypothetical protein
+NC_007604,134745,+,-,Synpcc7942_0134,hypothetical protein
+NC_007604,136651,-,-,Synpcc7942_0135,ubiquinone/menaquinone biosynthesis methylase-like protein
+NC_007604,138013,-,-,Synpcc7942_0136,phage integrase
+NC_007604,138115,+,hemH,Synpcc7942_0137,ferrochelatase
+NC_007604,139416,+,-,Synpcc7942_0138,metalloendopeptidase-like protein
+NC_007604,140150,+,-,Synpcc7942_0139,acetolactate synthase 3 catalytic subunit
+NC_007604,142631,-,-,Synpcc7942_0140,hypothetical protein
+NC_007604,143562,-,secF,Synpcc7942_0141,preprotein translocase subunit SecF
+NC_007604,144979,-,secD,Synpcc7942_0142,preprotein translocase subunit SecD
+NC_007604,146127,-,-,Synpcc7942_0143,pyruvate/2-oxoglutarate dehydrogenase complex dehydrogenase (E1) component
+NC_007604,146268,+,-,Synpcc7942_0144,hypothetical protein
+NC_007604,147205,-,-,Synpcc7942_0145,hypothetical protein
+NC_007604,147160,+,-,Synpcc7942_0146,hypothetical protein
+NC_007604,148503,-,-,Synpcc7942_0147,hypothetical protein
+NC_007604,148646,+,-,Synpcc7942_0148,hypothetical protein
+NC_007604,150744,-,-,Synpcc7942_0149,methylated-DNA--protein-cysteine methyltransferase
+NC_007604,151918,-,-,Synpcc7942_0150,dolichyl-phosphate beta-D-mannosyltransferase
+NC_007604,152358,+,-,Synpcc7942_0151,response regulator receiver modulated diguanylate cyclase
+NC_007604,156011,-,mraY,Synpcc7942_0152,phospho-N-acetylmuramoyl-pentapeptide-transferase
+NC_007604,156307,-,-,Synpcc7942_0153,hypothetical protein
+NC_007604,156340,+,-,Synpcc7942_0154,hypothetical protein
+NC_007604,156954,+,-,Synpcc7942_0155,hypothetical protein
+NC_007604,158852,-,-,Synpcc7942_0156,phosphoglucomutase
+NC_007604,159562,-,-,Synpcc7942_0157,hypothetical protein
+NC_007604,161197,-,-,Synpcc7942_0158,hypothetical protein
+NC_007604,161632,-,-,Synpcc7942_0159,hypothetical protein
+NC_007604,161726,+,era,Synpcc7942_0160,GTP-binding protein Era
+NC_007604,162759,+,-,Synpcc7942_0161,hypothetical protein
+NC_007604,163405,+,-,Synpcc7942_0162,hypothetical protein
+NC_007604,163761,+,-,Synpcc7942_0163,hypothetical protein
+NC_007604,164548,+,-,Synpcc7942_0164,Iojap-like protein
+NC_007604,164986,+,-,Synpcc7942_0165,hypothetical protein
+NC_007604,165483,+,-,Synpcc7942_0166,hypothetical protein
+NC_007604,166532,+,-,Synpcc7942_R0028,Met tRNA
+NC_007604,166925,-,-,Synpcc7942_0167,hypothetical protein
+NC_007604,167065,+,-,Synpcc7942_0168,hypothetical protein
+NC_007604,168157,+,-,Synpcc7942_0169,"glutamate-ammonia ligase, glutamine synthetase type III"
+NC_007604,170498,+,-,Synpcc7942_0170,hypothetical protein
+NC_007604,170797,+,-,Synpcc7942_0171,cysteine synthase A
+NC_007604,171912,+,-,Synpcc7942_0172,hypothetical protein
+NC_007604,173071,-,-,Synpcc7942_0173,3'-phosphoadenosine 5'-phosphosulfate 3'-phosphatase
+NC_007604,173111,+,-,Synpcc7942_0174,hypothetical protein
+NC_007604,173986,+,-,Synpcc7942_0175,hypothetical protein
+NC_007604,174295,+,-,Synpcc7942_0176,hypothetical protein
+NC_007604,175497,-,-,Synpcc7942_0177,ABC transporter permease component-like protein
+NC_007604,176471,-,-,Synpcc7942_0178,ATPase
+NC_007604,176742,+,-,Synpcc7942_0179,secretion chaperone CsaA
+NC_007604,178422,-,-,Synpcc7942_0180,hypothetical protein
+NC_007604,179824,-,-,Synpcc7942_0181,ATPase
+NC_007604,180881,-,-,Synpcc7942_0182,hypothetical protein
+NC_007604,181078,+,-,Synpcc7942_0183,hypothetical protein
+NC_007604,181464,+,-,Synpcc7942_0184,phosphate permease
+NC_007604,182620,+,-,Synpcc7942_0185,gamma-glutamyltransferase
+NC_007604,184160,+,-,Synpcc7942_0186,DNA polymerase
+NC_007604,185461,-,-,Synpcc7942_0187,hypothetical protein
+NC_007604,185682,+,-,Synpcc7942_0188,diguanylate cyclase/phosphodiesterase
+NC_007604,189258,-,guaA,Synpcc7942_0189,GMP synthase
+NC_007604,190397,-,cbiD,Synpcc7942_0190,cobalt-precorrin-6A synthase
+NC_007604,190472,+,-,Synpcc7942_0191,Serine--glyoxylate transaminase
+NC_007604,192186,-,-,Synpcc7942_0192,hypothetical protein
+NC_007604,192471,-,-,Synpcc7942_0193,hypothetical protein
+NC_007604,195516,-,-,Synpcc7942_0194,DNA polymerase I
+NC_007604,195630,+,-,Synpcc7942_0195,hypothetical protein
+NC_007604,197575,-,-,Synpcc7942_0196,"Beta-carotene 15,15'-dioxygenase"
+NC_007604,198933,-,-,Synpcc7942_0197,folate/biopterin transporter
+NC_007604,200429,-,-,Synpcc7942_0198,type 2 NADH dehydrogenase
+NC_007604,201352,-,-,Synpcc7942_0199,hypothetical protein
+NC_007604,201888,-,-,Synpcc7942_0200,hypothetical protein
+NC_007604,202641,-,-,Synpcc7942_0201,hypothetical protein
+NC_007604,204089,-,-,Synpcc7942_0202,Cbb3-type cytochrome oxidase subunit 1-like protein
+NC_007604,205589,-,-,Synpcc7942_0203,5-amino-6-(5-phosphoribosylamino)uracil reductase
+NC_007604,206046,-,-,Synpcc7942_0204,hypothetical protein
+NC_007604,206198,+,-,Synpcc7942_0205,bifunctional nicotinamide mononucleotide adenylyltransferase/ADP-ribose pyrophosphatase
+NC_007604,207362,+,-,Synpcc7942_0206,nicotinate phosphoribosyltransferase
+NC_007604,208813,+,-,Synpcc7942_0207,hypothetical protein
+NC_007604,209056,+,-,Synpcc7942_0208,TPR repeat-containing protein
+NC_007604,212450,-,-,Synpcc7942_0209,Maf-like protein
+NC_007604,212496,+,-,Synpcc7942_0210,hypothetical protein
+NC_007604,212909,+,-,Synpcc7942_0211,cobyric acid synthase
+NC_007604,214471,+,-,Synpcc7942_0212,chorismate synthase
+NC_007604,216188,-,-,Synpcc7942_0213,hypothetical protein
+NC_007604,216509,+,-,Synpcc7942_0214,hypothetical protein
+NC_007604,217813,-,-,Synpcc7942_0215,hypothetical protein
+NC_007604,219131,-,-,Synpcc7942_0216,zinc-binding oxidoreductase
+NC_007604,219113,+,-,Synpcc7942_0217,phosphatase-like protein
+NC_007604,219927,+,-,Synpcc7942_R0029,Pro tRNA
+NC_007604,220191,-,-,Synpcc7942_0218,hypothetical protein
+NC_007604,220637,-,-,Synpcc7942_0219,hypothetical protein
+NC_007604,221397,-,-,Synpcc7942_0220,cell division inhibitor MinD
+NC_007604,221486,+,glk,Synpcc7942_0221,glucokinase
+NC_007604,222532,+,-,Synpcc7942_0222,hypothetical protein
+NC_007604,223805,-,-,Synpcc7942_0223,hypothetical protein
+NC_007604,223962,-,psbN,Synpcc7942_0224,photosystem II reaction center protein N
+NC_007604,224056,+,psbH,Synpcc7942_0225,photosystem II reaction center protein H
+NC_007604,224264,+,tatA,Synpcc7942_0226,twin-arginine translocation protein TatA
+NC_007604,224629,+,-,Synpcc7942_0227,peptidyl-tRNA hydrolase
+NC_007604,225284,+,-,Synpcc7942_0228,hypothetical protein
+NC_007604,225658,+,-,Synpcc7942_0229,hypothetical protein
+NC_007604,227309,-,-,Synpcc7942_0230,hypothetical protein
+NC_007604,227931,-,-,Synpcc7942_0231,acetyltransferase
+NC_007604,229285,-,-,Synpcc7942_0232,3-phosphoshikimate 1-carboxyvinyltransferase
+NC_007604,230055,-,-,Synpcc7942_0233,hypothetical protein
+NC_007604,231150,-,-,Synpcc7942_0234,hypothetical protein
+NC_007604,231162,+,-,Synpcc7942_0235,cyclic nucleotide-binding protein
+NC_007604,232018,+,-,Synpcc7942_0236,cyclic nucleotide-binding protein
+NC_007604,233143,-,-,Synpcc7942_0237,hypothetical protein
+NC_007604,234324,-,-,Synpcc7942_0238,hypothetical protein
+NC_007604,234815,-,-,Synpcc7942_0239,cytochrome C6 soluble cytochrome f
+NC_007604,235342,-,-,Synpcc7942_0240,hypothetical protein
+NC_007604,235487,+,-,Synpcc7942_0241,23S rRNA (uracil-5-)-methyltransferase RumA
+NC_007604,238275,-,-,Synpcc7942_0242,K+-dependent Na+/Ca+ exchanger related-protein
+NC_007604,238522,-,-,Synpcc7942_0243,high light inducible polypeptide HliC
+NC_007604,241156,-,-,Synpcc7942_0244,glycogen/starch/alpha-glucan phosphorylase
+NC_007604,242229,-,-,Synpcc7942_0245,glyceraldehyde-3-phosphate dehydrogenase
+NC_007604,242365,+,-,Synpcc7942_0246,extracellular solute-binding protein
+NC_007604,243507,+,-,Synpcc7942_0247,ABC-type permease for basic amino acids and glutamine
+NC_007604,244642,+,-,Synpcc7942_0248,amino acid ABC transporter permease
+NC_007604,245851,+,-,Synpcc7942_0249,ATPase
+NC_007604,246639,+,-,Synpcc7942_0250,hypothetical protein
+NC_007604,247110,+,-,Synpcc7942_0251,exonuclease
+NC_007604,248170,-,-,Synpcc7942_0252,hypothetical protein
+NC_007604,248629,-,-,Synpcc7942_0253,hypothetical protein
+NC_007604,248803,+,-,Synpcc7942_0254,DNA gyrase subunit A
+NC_007604,252783,-,-,Synpcc7942_0255,ATPase
+NC_007604,252873,+,-,Synpcc7942_0256,"peptidase M20D, amidohydrolase"
+NC_007604,254845,-,-,Synpcc7942_0257,hypothetical protein
+NC_007604,254894,+,-,Synpcc7942_0258,hypothetical protein
+NC_007604,255474,+,-,Synpcc7942_0259,hypothetical protein
+NC_007604,258435,-,-,Synpcc7942_0260,ATPase
+NC_007604,259358,-,-,Synpcc7942_0261,ribosomal-protein-alanine acetyltransferase
+NC_007604,259226,+,-,Synpcc7942_0262,diaminopimelate decarboxylase
+NC_007604,260700,+,-,Synpcc7942_0263,hypothetical protein
+NC_007604,261617,+,-,Synpcc7942_0264,undecaprenyl pyrophosphate synthase
+NC_007604,262660,-,-,Synpcc7942_0265,hypothetical protein
+NC_007604,263195,-,-,Synpcc7942_0266,molecular chaperone DnaJ
+NC_007604,263414,+,gidB,Synpcc7942_0267,16S rRNA methyltransferase GidB
+NC_007604,264964,-,-,Synpcc7942_0268,hypothetical protein
+NC_007604,265857,-,-,Synpcc7942_0269,hypothetical protein
+NC_007604,265975,+,-,Synpcc7942_0270,TPR repeat-containing protein
+NC_007604,267165,+,-,Synpcc7942_0271,uroporphyrinogen-III C-methyltransferase
+NC_007604,267889,+,-,Synpcc7942_0272,uroporphyrinogen-III synthase
+NC_007604,268662,+,coaE,Synpcc7942_0273,dephospho-CoA kinase
+NC_007604,269324,+,-,Synpcc7942_0274,hypothetical protein
+NC_007604,269657,+,-,Synpcc7942_0275,hypothetical protein
+NC_007604,271473,-,-,Synpcc7942_0276,glycolate oxidase subunit GlcD
+NC_007604,273532,-,ligA,Synpcc7942_0277,NAD-dependent DNA ligase LigA
+NC_007604,273657,+,-,Synpcc7942_0278,bidirectional hydrogenase complex protein HoxE
+NC_007604,274154,+,-,Synpcc7942_0279,NADH dehydrogenase (quinone)
+NC_007604,277033,-,-,Synpcc7942_0280,competence damage-inducible protein A
+NC_007604,278116,-,-,Synpcc7942_0281,glycosyltransferase
+NC_007604,279467,-,glyA,Synpcc7942_0282,serine hydroxymethyltransferase
+NC_007604,280623,-,-,Synpcc7942_0283,dihydrouridine synthase TIM-barrel protein nifR3
+NC_007604,280701,+,-,Synpcc7942_0284,carbon dioxide concentrating mechanism protein CcmK
+NC_007604,281049,+,-,Synpcc7942_0285,carbon dioxide concentrating mechanism protein CcmK
+NC_007604,281480,+,-,Synpcc7942_0286,hypothetical protein
+NC_007604,281897,+,-,Synpcc7942_0287,hypothetical protein
+NC_007604,283962,-,glmU,Synpcc7942_0288,bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase
+NC_007604,284148,+,secA,Synpcc7942_0289,preprotein translocase subunit SecA
+NC_007604,287003,+,-,Synpcc7942_0290,dihydroorotate dehydrogenase 2
+NC_007604,288232,-,-,Synpcc7942_R0030,Ala tRNA
+NC_007604,288312,+,-,Synpcc7942_0291,hypothetical protein
+NC_007604,288534,+,-,Synpcc7942_0292,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate synthase
+NC_007604,290095,-,-,Synpcc7942_0293,hypothetical protein
+NC_007604,290243,+,-,Synpcc7942_0294,photosystem II manganese-stabilizing polypeptide
+NC_007604,291417,+,sat,Synpcc7942_0295,sulfate adenylyltransferase
+NC_007604,292720,+,-,Synpcc7942_0296,hypothetical protein
+NC_007604,294850,+,-,Synpcc7942_0297,FtsH peptidase
+NC_007604,297627,-,-,Synpcc7942_0298,hypothetical protein
+NC_007604,298373,-,-,Synpcc7942_0299,rod shape-determining protein MreC
+NC_007604,299444,-,-,Synpcc7942_0300,rod shape-determining protein MreB
+NC_007604,299628,+,-,Synpcc7942_0301,single-stranded DNA-binding protein
+NC_007604,301447,-,-,Synpcc7942_0302,phospholipase D/transphosphatidylase
+NC_007604,301543,+,-,Synpcc7942_0303,response regulator receiver domain-containing protein
+NC_007604,302833,+,-,Synpcc7942_0304,hypothetical protein
+NC_007604,303815,+,-,Synpcc7942_0305,hypothetical protein
+NC_007604,304347,-,-,Synpcc7942_0306,hypothetical protein
+NC_007604,305936,-,-,Synpcc7942_0307,Na+/H+ antiporter
+NC_007604,307138,-,-,Synpcc7942_0308,CO2 hydration protein
+NC_007604,309103,-,-,Synpcc7942_0309,NAD(P)H-quinone oxidoreductase subunit F
+NC_007604,310417,-,-,Synpcc7942_0310,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+NC_007604,311253,-,ksgA,Synpcc7942_0311,dimethyladenosine transferase
+NC_007604,311708,-,-,Synpcc7942_0312,hypothetical protein
+NC_007604,311762,+,-,Synpcc7942_0313,hypothetical protein
+NC_007604,313032,-,-,Synpcc7942_0314,succinate dehydrogenase subunit C
+NC_007604,314431,-,-,Synpcc7942_0315,adenylosuccinate lyase
+NC_007604,314723,-,-,Synpcc7942_0316,hypothetical protein
+NC_007604,314897,+,-,Synpcc7942_0317,hypothetical protein
+NC_007604,315642,+,-,Synpcc7942_0318,hypothetical protein
+NC_007604,316162,+,-,Synpcc7942_0319,hemolysin A
+NC_007604,317010,+,-,Synpcc7942_0320,UDP-galactose 4-epimerase
+NC_007604,318572,-,-,Synpcc7942_0321,nitrogen regulatory protein P-II
+NC_007604,320049,-,-,Synpcc7942_0322,c-type cytochrome biogenesis protein
+NC_007604,320804,-,-,Synpcc7942_0323,cytochrome c biogenesis protein-like protein
+NC_007604,322008,-,-,Synpcc7942_0324,cell division protein FtsW
+NC_007604,322344,-,-,Synpcc7942_0325,LC 7.8 apoprotein (core components of the phycobilisomes)
+NC_007604,322886,-,-,Synpcc7942_0326,allophycocyanin subunit beta
+NC_007604,323440,-,-,Synpcc7942_0327,allophycocyanin alpha chain
+NC_007604,325984,-,-,Synpcc7942_0328,phycobilisome core-membrane linker polypeptide
+NC_007604,326113,+,-,Synpcc7942_0329,hypothetical protein
+NC_007604,327394,+,-,Synpcc7942_0330,hypothetical protein
+NC_007604,327926,+,-,Synpcc7942_0331,ATP synthase F0F1 subunit A
+NC_007604,328738,+,-,Synpcc7942_0332,ATP synthase F0F1 subunit C
+NC_007604,329108,+,-,Synpcc7942_0333,ATP synthase F0F1 subunit B'
+NC_007604,329764,+,-,Synpcc7942_0334,ATP synthase F0F1 subunit B
+NC_007604,330289,+,-,Synpcc7942_0335,ATP synthase F0F1 subunit delta
+NC_007604,330832,+,-,Synpcc7942_0336,ATP synthase F0F1 subunit alpha
+NC_007604,332406,+,-,Synpcc7942_0337,ATP synthase F0F1 subunit gamma
+NC_007604,333517,+,-,Synpcc7942_0338,ferredoxin (2Fe-2S)
+NC_007604,333995,+,-,Synpcc7942_0339,hypothetical protein
+NC_007604,335071,+,-,Synpcc7942_0340,hypothetical protein
+NC_007604,335633,+,-,Synpcc7942_0341,hypothetical protein
+NC_007604,336363,+,-,Synpcc7942_0342,hypothetical protein
+NC_007604,336591,+,-,Synpcc7942_0343,photosystem II 11 kD protein
+NC_007604,338459,-,-,Synpcc7942_0344,peptidase
+NC_007604,339306,-,-,Synpcc7942_0345,biotin--acetyl-CoA-carboxylase ligase
+NC_007604,339352,+,-,Synpcc7942_0346,hypothetical protein
+NC_007604,340239,+,-,Synpcc7942_0347,hypothetical protein
+NC_007604,341859,-,recA,Synpcc7942_0348,recombinase A
+NC_007604,342557,-,-,Synpcc7942_0349,hypothetical protein
+NC_007604,342793,+,-,Synpcc7942_0350,ATPase
+NC_007604,343699,+,-,Synpcc7942_0351,ABC transport system substrate-binding protein
+NC_007604,345431,-,-,Synpcc7942_0352,methionine sulfoxide reductase B
+NC_007604,345470,+,-,Synpcc7942_0353,Na+-dependent transporter-like protein
+NC_007604,348460,-,-,Synpcc7942_0354,Beta-glucosidase-like glycosidase
+NC_007604,348871,-,rbfA,Synpcc7942_0355,ribosome-binding factor A
+NC_007604,349146,-,-,Synpcc7942_0356,hypothetical protein
+NC_007604,351278,-,-,Synpcc7942_0357,inorganic carbon transporter
+NC_007604,351950,-,trmB,Synpcc7942_0358,tRNA (guanine-N(7)-)-methyltransferase
+NC_007604,352026,+,-,Synpcc7942_0359,hypothetical protein
+NC_007604,354299,-,-,Synpcc7942_0360,hypothetical protein
+NC_007604,354510,+,-,Synpcc7942_0361,hypothetical protein
+NC_007604,354800,+,-,Synpcc7942_0362,hypothetical protein
+NC_007604,355509,+,-,Synpcc7942_0363,hypothetical protein
+NC_007604,355865,+,-,Synpcc7942_0364,hypothetical protein
+NC_007604,356676,+,-,Synpcc7942_0365,response regulator receiver domain-containing protein
+NC_007604,357547,+,-,Synpcc7942_0366,sulfate transporter
+NC_007604,360690,-,-,Synpcc7942_0367,Na+-dependent transporter-like protein
+NC_007604,360711,+,xseA,Synpcc7942_0368,exodeoxyribonuclease VII large subunit
+NC_007604,362147,+,-,Synpcc7942_0369,flavin-containing monoamine oxidase
+NC_007604,363763,+,-,Synpcc7942_0370,O-acetylhomoserine/O-acetylserine sulfhydrylase
+NC_007604,365116,+,-,Synpcc7942_0371,homoserine O-succinyltransferase
+NC_007604,366053,+,-,Synpcc7942_0372,hypothetical protein
+NC_007604,368024,-,-,Synpcc7942_0373,hypothetical protein
+NC_007604,368574,-,-,Synpcc7942_0374,hypothetical protein
+NC_007604,370344,-,-,Synpcc7942_0375,processing protease
+NC_007604,371867,-,-,Synpcc7942_0376,zinc protease
+NC_007604,372369,-,-,Synpcc7942_0377,hypothetical protein
+NC_007604,372532,+,-,Synpcc7942_0378,hypothetical protein
+NC_007604,373380,+,-,Synpcc7942_0379,hypothetical protein
+NC_007604,373785,+,-,Synpcc7942_0380,hypothetical protein
+NC_007604,375346,-,-,Synpcc7942_0381,hypothetical protein
+NC_007604,375722,-,-,Synpcc7942_0382,hypothetical protein
+NC_007604,376448,-,-,Synpcc7942_0383,hypothetical protein
+NC_007604,377237,-,-,Synpcc7942_0384,hypothetical protein
+NC_007604,378694,-,-,Synpcc7942_0385,geranylgeranyl reductase
+NC_007604,378981,+,-,Synpcc7942_0386,hypothetical protein
+NC_007604,380395,+,-,Synpcc7942_0387,hypothetical protein
+NC_007604,381991,-,-,Synpcc7942_0388,glycosyltransferase
+NC_007604,382081,+,-,Synpcc7942_0389,hypothetical protein
+NC_007604,383454,-,-,Synpcc7942_0390,chromate transporter
+NC_007604,385147,-,-,Synpcc7942_0391,hypothetical protein
+NC_007604,386528,-,-,Synpcc7942_0392,membrane-bound lytic transglycosylase A
+NC_007604,386677,+,-,Synpcc7942_0393,hypothetical protein
+NC_007604,388220,-,-,Synpcc7942_0394,phosphatidate cytidylyltransferase
+NC_007604,388494,+,-,Synpcc7942_0395,hypothetical protein
+NC_007604,389953,+,purH,Synpcc7942_0396,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase
+NC_007604,391532,+,-,Synpcc7942_0397,neutral invertase
+NC_007604,392990,+,-,Synpcc7942_0398,hypothetical protein
+NC_007604,394578,-,-,Synpcc7942_0399,hypothetical protein
+NC_007604,395210,-,-,Synpcc7942_0400,"anthranilate synthase, component II"
+NC_007604,395731,-,-,Synpcc7942_0401,diacylglycerol kinase
+NC_007604,397396,-,-,Synpcc7942_0402,metalloprotease
+NC_007604,397579,-,-,Synpcc7942_0403,hypothetical protein
+NC_007604,398640,-,prfB,Synpcc7942_0404,peptide chain release factor 2
+NC_007604,398870,+,-,Synpcc7942_0405,DNA polymerase III subunit delta
+NC_007604,399953,+,-,Synpcc7942_0406,hypothetical protein
+NC_007604,400671,-,-,Synpcc7942_0407,photosystem I reaction center subunit X
+NC_007604,400768,+,-,Synpcc7942_0408,N-(5'-phosphoribosyl)anthranilate isomerase
+NC_007604,401749,-,-,Synpcc7942_0409,hypothetical protein
+NC_007604,402022,-,-,Synpcc7942_0410,hypothetical protein
+NC_007604,403021,-,trpA,Synpcc7942_0411,tryptophan synthase subunit alpha
+NC_007604,403351,-,-,Synpcc7942_0412,hypothetical protein
+NC_007604,403768,-,-,Synpcc7942_0413,hypothetical protein
+NC_007604,404016,+,-,Synpcc7942_0414,hypothetical protein
+NC_007604,406149,-,-,Synpcc7942_0415,hypothetical protein
+NC_007604,406389,+,-,Synpcc7942_0416,hypothetical protein
+NC_007604,406811,+,-,Synpcc7942_0417,ATPase
+NC_007604,408415,+,-,Synpcc7942_0418,hypothetical protein
+NC_007604,409903,-,-,Synpcc7942_0419,biotin synthase
+NC_007604,411516,-,-,Synpcc7942_0420,hypothetical protein
+NC_007604,411946,-,-,Synpcc7942_0421,hypothetical protein
+NC_007604,412147,+,-,Synpcc7942_0422,hypothetical protein
+NC_007604,413614,-,-,Synpcc7942_0423,hypothetical protein
+NC_007604,413842,+,-,Synpcc7942_0424,photosystem q(b) protein
+NC_007604,415441,-,-,Synpcc7942_0425,hypothetical protein
+NC_007604,416086,-,-,Synpcc7942_0426,condensin subunit ScpB
+NC_007604,416951,-,-,Synpcc7942_0427,ATPase
+NC_007604,418610,-,-,Synpcc7942_0428,alpha-isopropylmalate/homocitrate synthase transferase
+NC_007604,419220,-,-,Synpcc7942_0429,hypothetical protein
+NC_007604,419382,+,-,Synpcc7942_0430,1-deoxy-D-xylulose-5-phosphate synthase
+NC_007604,421289,+,-,Synpcc7942_0431,hypothetical protein
+NC_007604,422547,+,-,Synpcc7942_0432,D-alanyl-D-alanine dipeptidase-like protein
+NC_007604,423632,+,-,Synpcc7942_0433,hypothetical protein
+NC_007604,424984,-,-,Synpcc7942_R0031,Arg tRNA
+NC_007604,425057,+,-,Synpcc7942_0434,hypothetical protein
+NC_007604,426075,+,-,Synpcc7942_0435,hypothetical protein
+NC_007604,426845,+,-,Synpcc7942_0436,hypothetical protein
+NC_007604,427463,+,-,Synpcc7942_0437,glutathione peroxidase
+NC_007604,427989,+,-,Synpcc7942_0438,hypothetical protein
+NC_007604,429300,-,-,Synpcc7942_0439,Mg-protoporphyrin IX methyl transferase
+NC_007604,430479,-,-,Synpcc7942_0440,N-acetylglucosamine 6-phosphate deacetylase
+NC_007604,430523,+,-,Synpcc7942_0441,"phosphoribosylaminoimidazole carboxylase, catalytic subunit"
+NC_007604,431404,+,-,Synpcc7942_0442,ammonium transporter
+NC_007604,434317,-,-,Synpcc7942_0443,hypothetical protein
+NC_007604,435040,-,-,Synpcc7942_0444,hypothetical protein
+NC_007604,436438,-,-,Synpcc7942_0445,ABC-type dipeptide/oligopeptide/nickel transport systems permease components-like protein
+NC_007604,436823,-,rpsN,Synpcc7942_0446,30S ribosomal protein S14
+NC_007604,437537,-,-,Synpcc7942_0447,DNA-(apurinic or apyrimidinic site) lyase / endonuclease III
+NC_007604,438628,-,-,Synpcc7942_0448,hypothetical protein
+NC_007604,440006,-,-,Synpcc7942_0449,seryl-tRNA synthetase
+NC_007604,440295,-,-,Synpcc7942_0450,NifU-like protein
+NC_007604,440670,+,-,Synpcc7942_0451,esterase
+NC_007604,441836,-,-,Synpcc7942_0452,hypothetical protein
+NC_007604,442017,+,-,Synpcc7942_0453,GAF sensor signal transduction histidine kinase
+NC_007604,443972,-,cobS,Synpcc7942_0454,cobalamin synthase
+NC_007604,444001,+,tgt,Synpcc7942_0455,queuine tRNA-ribosyltransferase
+NC_007604,445196,+,psbK,Synpcc7942_0456,photosystem II reaction center protein K
+NC_007604,445562,+,-,Synpcc7942_0457,hypothetical protein
+NC_007604,447051,-,-,Synpcc7942_0458,carboxylesterase
+NC_007604,448166,-,-,Synpcc7942_0459,glutathione-dependent formaldehyde dehydrogenase
+NC_007604,448779,-,-,Synpcc7942_0460,acetyltransferase
+NC_007604,449313,-,-,Synpcc7942_0461,hypothetical protein
+NC_007604,449957,-,-,Synpcc7942_0462,hypothetical protein
+NC_007604,450448,-,-,Synpcc7942_0463,protein tyrosine phosphatase
+NC_007604,450993,-,-,Synpcc7942_0464,hypothetical protein
+NC_007604,451748,-,-,Synpcc7942_0465,hypothetical protein
+NC_007604,451838,+,-,Synpcc7942_0466,cellulose synthase
+NC_007604,454837,-,-,Synpcc7942_0467,"peptidase, metallopeptidase"
+NC_007604,455045,-,secG,Synpcc7942_0468,preprotein translocase subunit SecG
+NC_007604,456670,-,-,Synpcc7942_0469,phosphoglyceromutase
+NC_007604,457211,+,-,Synpcc7942_0470,hypothetical protein
+NC_007604,457882,+,-,Synpcc7942_0471,ABC-type sugar transport system permease component-like protein
+NC_007604,458795,+,-,Synpcc7942_0472,exodeoxyribonuclease VII small subunit
+NC_007604,459096,+,-,Synpcc7942_0473,NADH:flavin oxidoreductase
+NC_007604,460448,-,-,Synpcc7942_0474,hypothetical protein
+NC_007604,460544,-,petN,Synpcc7942_0475,cytochrome b6-f complex subunit PetN
+NC_007604,460552,+,clpS,Synpcc7942_0476,ATP-dependent Clp protease adaptor
+NC_007604,461293,-,-,Synpcc7942_0477,hypothetical protein
+NC_007604,461935,-,-,Synpcc7942_0478,thylakoidal processing peptidase
+NC_007604,463749,-,-,Synpcc7942_0479,GTP-binding protein LepA
+NC_007604,463901,+,-,Synpcc7942_0480,GAF sensor signal transduction histidine kinase
+NC_007604,465713,+,-,Synpcc7942_0481,protease
+NC_007604,468775,-,-,Synpcc7942_0482,peptidoglycan glycosyltransferase
+NC_007604,469239,-,-,Synpcc7942_0483,hypothetical protein
+NC_007604,470874,-,-,Synpcc7942_0484,hypothetical protein
+NC_007604,470975,+,-,Synpcc7942_0485,phosphoglycerate mutase
+NC_007604,472319,+,-,Synpcc7942_0486,dihydroorotase
+NC_007604,474172,-,-,Synpcc7942_0487,thylakoidal processing peptidase
+NC_007604,474316,+,-,Synpcc7942_0488,dihydroorotase
+NC_007604,477044,-,-,Synpcc7942_0489,aldehyde dehydrogenase
+NC_007604,477395,+,-,Synpcc7942_0490,PAS/PAC sensor-containing diguanylate cyclase
+NC_007604,479700,+,-,Synpcc7942_0491,hypothetical protein
+NC_007604,480824,-,-,Synpcc7942_0492,bifunctional riboflavin kinase/FMN adenylyltransferase
+NC_007604,480967,+,-,Synpcc7942_0493,hypothetical protein
+NC_007604,482984,-,-,Synpcc7942_0494,hypothetical protein
+NC_007604,483517,-,-,Synpcc7942_0495,hypothetical protein
+NC_007604,484323,-,-,Synpcc7942_0496,hypothetical protein
+NC_007604,484504,-,-,Synpcc7942_0497,hypothetical protein
+NC_007604,484585,+,-,Synpcc7942_0498,mannose-1-phosphate guanylyltransferase
+NC_007604,488370,-,-,Synpcc7942_0499,hydroxyneurosporene-O-methyltransferase
+NC_007604,488823,-,-,Synpcc7942_0500,hypothetical protein
+NC_007604,489483,-,-,Synpcc7942_0501,nucleoside-diphosphate-sugar epimerase-like protein
+NC_007604,490074,-,-,Synpcc7942_0502,hypothetical protein
+NC_007604,490382,-,-,Synpcc7942_0503,hypothetical protein
+NC_007604,491765,-,hemA,Synpcc7942_0504,glutamyl-tRNA reductase
+NC_007604,492867,-,glpX,Synpcc7942_0505,"fructose 1,6-bisphosphatase II"
+NC_007604,492988,+,pyrH,Synpcc7942_0506,uridylate kinase
+NC_007604,493736,+,frr,Synpcc7942_0507,ribosome recycling factor
+NC_007604,494291,+,-,Synpcc7942_0508,geranylgeranyl reductase
+NC_007604,495460,+,-,Synpcc7942_0509,hypothetical protein
+NC_007604,496580,-,-,Synpcc7942_0510,2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase
+NC_007604,497579,-,-,Synpcc7942_0511,ABC-type transport system involved in cytochrome c biogenesis permease component-like protein
+NC_007604,498808,-,-,Synpcc7942_0512,hypothetical protein
+NC_007604,499653,-,-,Synpcc7942_0513,ATPase
+NC_007604,500105,-,-,Synpcc7942_0514,hypothetical protein
+NC_007604,500565,-,-,Synpcc7942_0515,hypothetical protein
+NC_007604,501970,-,-,Synpcc7942_0516,C-terminal processing peptidase-2
+NC_007604,504333,-,-,Synpcc7942_0517,exonuclease RecJ
+NC_007604,504393,+,-,Synpcc7942_0518,hypothetical protein
+NC_007604,505620,+,-,Synpcc7942_0519,hypothetical protein
+NC_007604,506188,+,-,Synpcc7942_0520,hypothetical protein
+NC_007604,506835,+,-,Synpcc7942_0521,hypothetical protein
+NC_007604,507941,+,-,Synpcc7942_0522,hypothetical protein
+NC_007604,508794,-,-,Synpcc7942_0523,hypothetical protein
+NC_007604,509223,-,-,Synpcc7942_0524,hypothetical protein
+NC_007604,510332,-,aroB,Synpcc7942_0525,3-dehydroquinate synthase
+NC_007604,510412,+,-,Synpcc7942_0526,ABC-type sugar transport systems permease components-like protein
+NC_007604,512391,-,-,Synpcc7942_0527,hypothetical protein
+NC_007604,513578,-,-,Synpcc7942_0528,lipopolysaccharide biosynthesis proteins LPS
+NC_007604,513543,+,-,Synpcc7942_0529,6-phosphogluconolactonase
+NC_007604,514335,+,-,Synpcc7942_0530,(4Fe-4S)-binding protein
+NC_007604,515313,+,-,Synpcc7942_0531,TPR repeat-containing protein
+NC_007604,516767,-,-,Synpcc7942_0532,hypothetical protein
+NC_007604,517015,-,-,Synpcc7942_0533,hypothetical protein
+NC_007604,519054,-,-,Synpcc7942_0534,glucosamine--fructose-6-phosphate aminotransferase
+NC_007604,519408,-,-,Synpcc7942_0535,photosystem I subunit VII
+NC_007604,519699,+,acpP,Synpcc7942_0536,acyl carrier protein
+NC_007604,520081,+,-,Synpcc7942_0537,3-oxoacyl-ACP synthase
+NC_007604,521502,+,-,Synpcc7942_0538,transketolase
+NC_007604,523604,+,-,Synpcc7942_0539,hypothetical protein
+NC_007604,524367,+,-,Synpcc7942_0540,hypothetical protein
+NC_007604,524830,+,-,Synpcc7942_0541,hypothetical protein
+NC_007604,525333,+,-,Synpcc7942_0542,lipoyl synthase
+NC_007604,526813,-,-,Synpcc7942_0543,hypothetical protein
+NC_007604,526892,+,-,Synpcc7942_0544,hypothetical protein
+NC_007604,527143,+,-,Synpcc7942_0545,hypothetical protein
+NC_007604,527836,+,-,Synpcc7942_0546,Na+/H+ antiporter
+NC_007604,530566,-,-,Synpcc7942_0547,hypothetical protein
+NC_007604,531783,-,-,Synpcc7942_0548,hypothetical protein
+NC_007604,531884,+,-,Synpcc7942_0549,hypothetical protein
+NC_007604,532654,+,-,Synpcc7942_0550,hypothetical protein
+NC_007604,533525,+,-,Synpcc7942_0551,hypothetical protein
+NC_007604,534067,+,-,Synpcc7942_0552,UDP-N-acetylglucosamine 2-epimerase
+NC_007604,536778,-,-,Synpcc7942_0553,secretion protein HlyD
+NC_007604,536594,+,-,Synpcc7942_0554,GTP-dependent nucleic acid-binding protein EngD
+NC_007604,537790,+,-,Synpcc7942_0555,zinc metalloprotease
+NC_007604,539219,-,-,Synpcc7942_0556,two component transcriptional regulator
+NC_007604,539414,+,-,Synpcc7942_0557,hypothetical protein
+NC_007604,539606,+,-,Synpcc7942_0558,hypothetical protein
+NC_007604,541242,-,hslO,Synpcc7942_0559,heat shock protein 33
+NC_007604,541979,-,-,Synpcc7942_0560,ATPase
+NC_007604,541955,+,-,Synpcc7942_0561,hypothetical protein
+NC_007604,543050,+,-,Synpcc7942_0562,hypothetical protein
+NC_007604,545654,-,-,Synpcc7942_0563,excinuclease ABC subunit B
+NC_007604,545774,+,-,Synpcc7942_0564,ATPase
+NC_007604,546588,+,-,Synpcc7942_0565,FHA domain-containing protein
+NC_007604,547262,+,-,Synpcc7942_0566,HAD family hydrolase
+NC_007604,549368,-,-,Synpcc7942_0567,hypothetical protein
+NC_007604,550687,-,-,Synpcc7942_0568,cytosine deaminase-like protein
+NC_007604,551653,-,-,Synpcc7942_0569,DNA-directed RNA polymerase sigma subunit (sigma70/sigma32)-like protein
+NC_007604,553221,-,-,Synpcc7942_0570,DNA polymerase III subunit alpha
+NC_007604,554697,-,-,Synpcc7942_0571,sugar (glycoside-Pentoside-hexuronide) transporter
+NC_007604,555153,-,-,Synpcc7942_0572,hypothetical protein
+NC_007604,555218,+,-,Synpcc7942_R0032,Gly tRNA
+NC_007604,555533,-,-,Synpcc7942_0573,hypothetical protein
+NC_007604,555612,+,-,Synpcc7942_0574,hypothetical protein
+NC_007604,556977,-,-,Synpcc7942_0575,hypothetical protein
+NC_007604,557200,+,thiG,Synpcc7942_0576,thiazole synthase
+NC_007604,558144,+,-,Synpcc7942_0577,hypothetical protein
+NC_007604,558408,+,-,Synpcc7942_0578,UDP-sulfoquinovose synthase
+NC_007604,559632,+,-,Synpcc7942_0579,sulfolipid sulfoquinovosyldiacylglycerol biosynthesis protein
+NC_007604,562561,-,-,Synpcc7942_0580,peptidoglycan glycosyltransferase
+NC_007604,562981,-,-,Synpcc7942_0581,hypothetical protein
+NC_007604,564024,-,-,Synpcc7942_0582,hypothetical protein
+NC_007604,564123,+,-,Synpcc7942_0583,protoporphyrin IX magnesium-chelatase
+NC_007604,566079,-,-,Synpcc7942_0584,ribose-5-phosphate isomerase A
+NC_007604,567399,-,-,Synpcc7942_0585,hypothetical protein
+NC_007604,568279,-,-,Synpcc7942_0586,hypothetical protein
+NC_007604,568589,+,-,Synpcc7942_R0004,16S ribosomal RNA
+NC_007604,570240,+,-,Synpcc7942_R0033,Ile tRNA
+NC_007604,570347,+,-,Synpcc7942_R0034,Ala tRNA
+NC_007604,570624,+,-,Synpcc7942_R0005,23S ribosomal RNA
+NC_007604,573572,+,-,Synpcc7942_R0006,5S ribosomal RNA
+NC_007604,573854,+,valS,Synpcc7942_0587,valyl-tRNA synthetase
+NC_007604,577840,-,purT,Synpcc7942_0588,phosphoribosylglycinamide formyltransferase 2
+NC_007604,577911,+,-,Synpcc7942_0589,Fe-S-cluster oxidoreductase-like protein
+NC_007604,578574,+,-,Synpcc7942_0590,hypothetical protein
+NC_007604,578971,+,-,Synpcc7942_0591,hypothetical protein
+NC_007604,580394,-,-,Synpcc7942_0592,6-phosphofructokinase
+NC_007604,581174,-,-,Synpcc7942_0593,hypothetical protein
+NC_007604,582881,-,-,Synpcc7942_0594,hypothetical protein
+NC_007604,583398,-,-,Synpcc7942_0595,hypothetical protein
+NC_007604,583466,+,-,Synpcc7942_0596,delta(24)-sterol C-methyltransferase
+NC_007604,585264,-,-,Synpcc7942_0597,naphthoate synthase
+NC_007604,585701,+,-,Synpcc7942_0598,peptidoglycan-binding LysM
+NC_007604,587716,+,-,Synpcc7942_R0035,Met tRNA
+NC_007604,588404,-,-,Synpcc7942_0599,TetR family transcriptional regulator
+NC_007604,590060,-,-,Synpcc7942_0600,serine/threonine protein kinase
+NC_007604,590390,-,-,Synpcc7942_0601,hypothetical protein
+NC_007604,591454,-,-,Synpcc7942_0602,hypothetical protein
+NC_007604,592751,-,glgC,Synpcc7942_0603,glucose-1-phosphate adenylyltransferase
+NC_007604,592890,+,-,Synpcc7942_0604,ribulose-phosphate 3-epimerase
+NC_007604,594694,-,-,Synpcc7942_0605,hypothetical protein
+NC_007604,595367,-,aat,Synpcc7942_0606,leucyl/phenylalanyl-tRNA--protein transferase
+NC_007604,595381,+,-,Synpcc7942_0607,hypothetical protein
+NC_007604,595724,+,-,Synpcc7942_0608,hypothetical protein
+NC_007604,596333,+,-,Synpcc7942_0609,proton-translocating NADH-quinone oxidoreductase subunit M
+NC_007604,597977,+,-,Synpcc7942_0610,hypothetical protein
+NC_007604,599777,+,-,Synpcc7942_0611,recombination and DNA strand exchange inhibitor protein
+NC_007604,603369,-,-,Synpcc7942_0612,citrate synthase
+NC_007604,603992,-,-,Synpcc7942_0613,phosphohistidine phosphatase SixA
+NC_007604,605675,-,-,Synpcc7942_0614,hypothetical protein
+NC_007604,605836,+,-,Synpcc7942_0615,rhodanese-like protein
+NC_007604,606238,+,hrcA,Synpcc7942_0616,heat-inducible transcription repressor
+NC_007604,607688,-,-,Synpcc7942_0617,hypothetical protein
+NC_007604,607820,+,-,Synpcc7942_0618,S-adenosyl-L-homocysteine hydrolase
+NC_007604,609153,+,-,Synpcc7942_0619,hypothetical protein
+NC_007604,609789,+,-,Synpcc7942_0620,hypothetical protein
+NC_007604,610715,+,-,Synpcc7942_0621,hypothetical protein
+NC_007604,611912,+,-,Synpcc7942_0622,ATPase
+NC_007604,613972,+,-,Synpcc7942_0623,thioredoxin reductase
+NC_007604,615361,+,-,Synpcc7942_0624,light dependent period
+NC_007604,616419,+,-,Synpcc7942_0625,single-stranded nucleic acid binding R3H
+NC_007604,618362,+,-,Synpcc7942_0626,dihydroxy-acid dehydratase
+NC_007604,620372,+,-,Synpcc7942_R0037,Gln tRNA
+NC_007604,620462,+,-,Synpcc7942_0627,hypothetical protein
+NC_007604,621277,+,-,Synpcc7942_0628,spermidine synthase
+NC_007604,622340,-,-,Synpcc7942_0629,hypothetical protein
+NC_007604,622432,+,-,Synpcc7942_0630,hypothetical protein
+NC_007604,624321,-,rplL,Synpcc7942_0631,50S ribosomal protein L7/L12
+NC_007604,624957,-,rplJ,Synpcc7942_0632,50S ribosomal protein L10
+NC_007604,625791,-,rplA,Synpcc7942_0633,50S ribosomal protein L1
+NC_007604,626291,-,rplK,Synpcc7942_0634,50S ribosomal protein L11
+NC_007604,626916,-,nusG,Synpcc7942_0635,transcription antitermination protein NusG
+NC_007604,627197,-,secE,Synpcc7942_0636,preprotein translocase subunit SecE
+NC_007604,629962,-,-,Synpcc7942_0637,ATPase
+NC_007604,630463,-,-,Synpcc7942_0638,glyoxalase I
+NC_007604,630677,+,eno,Synpcc7942_0639,phosphopyruvate hydratase
+NC_007604,632225,+,-,Synpcc7942_0640,ATPase
+NC_007604,635996,-,sdhA,Synpcc7942_0641,succinate dehydrogenase flavoprotein subunit
+NC_007604,636670,-,-,Synpcc7942_0642,bacterioferritin comigratory protein
+NC_007604,636762,+,-,Synpcc7942_0643,hypothetical protein
+NC_007604,636966,+,-,Synpcc7942_0644,GAF sensor hybrid histidine kinase
+NC_007604,639397,+,-,Synpcc7942_0645,glutamate-1-semialdehyde aminotransferase
+NC_007604,640765,+,-,Synpcc7942_0646,hypothetical protein
+NC_007604,641196,+,-,Synpcc7942_0647,hypothetical protein
+NC_007604,641837,+,-,Synpcc7942_0648,hypothetical protein
+NC_007604,644045,-,-,Synpcc7942_0649,RNA polymerase sigma factor RpoD
+NC_007604,644659,-,-,Synpcc7942_0650,hypothetical protein
+NC_007604,644741,+,-,Synpcc7942_0651,primosome assembly protein PriA
+NC_007604,648713,-,-,Synpcc7942_0652,hypothetical protein
+NC_007604,649441,-,-,Synpcc7942_0653,peptidyl-prolyl cis-trans isomerase
+NC_007604,650009,-,-,Synpcc7942_0654,photosystem I assembly protein Ycf4
+NC_007604,650207,+,-,Synpcc7942_0655,photosystem II D2 protein (photosystem q(a) protein)
+NC_007604,651274,+,-,Synpcc7942_0656,photosystem II 44 kDa subunit reaction center protein
+NC_007604,653440,-,-,Synpcc7942_0657,hypothetical protein
+NC_007604,653770,-,-,Synpcc7942_0658,hypothetical protein
+NC_007604,655275,-,-,Synpcc7942_0659,Rad3-related DNA helicases-like protein
+NC_007604,655282,+,-,Synpcc7942_0660,arogenate dehydrogenase
+NC_007604,656270,+,-,Synpcc7942_0661,hypothetical protein
+NC_007604,657943,+,-,Synpcc7942_0662,hypothetical protein
+NC_007604,658977,+,-,Synpcc7942_0663,adenylate/guanylate cyclase
+NC_007604,660875,+,-,Synpcc7942_0664,cyclic nucleotide-binding protein
+NC_007604,662978,-,-,Synpcc7942_0665,hypothetical protein
+NC_007604,663141,+,-,Synpcc7942_0666,molecular chaperone DnaJ
+NC_007604,663923,+,-,Synpcc7942_0667,hypothetical protein
+NC_007604,664446,-,-,Synpcc7942_0668,hypothetical protein
+NC_007604,664540,+,-,Synpcc7942_0669,DNA-3-methyladenine glycosylase
+NC_007604,665121,+,pyrB,Synpcc7942_0670,aspartate carbamoyltransferase
+NC_007604,666156,+,-,Synpcc7942_0671,hypothetical protein
+NC_007604,666882,+,-,Synpcc7942_0672,RNA polymerase sigma factor SigD
+NC_007604,667849,+,-,Synpcc7942_0673,A/G-specific adenine glycosylase
+NC_007604,669288,+,-,Synpcc7942_0674,coproporphyrinogen III oxidase
+NC_007604,670818,-,-,Synpcc7942_0675,hypothetical protein
+NC_007604,670914,+,-,Synpcc7942_0676,hypothetical protein
+NC_007604,672631,-,-,Synpcc7942_0677,PadR family transcriptional regulator
+NC_007604,672767,+,-,Synpcc7942_0678,3'-5' exonuclease
+NC_007604,673441,+,-,Synpcc7942_R0038,Val tRNA
+NC_007604,673668,+,-,Synpcc7942_0679,RNA-binding region RNP-1
+NC_007604,674334,+,-,Synpcc7942_0680,C-5 sterol desaturase
+NC_007604,675862,-,ispD,Synpcc7942_0681,2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+NC_007604,675946,+,-,Synpcc7942_0682,hypothetical protein
+NC_007604,676942,+,-,Synpcc7942_0683,potassium channel protein
+NC_007604,678025,+,-,Synpcc7942_0684,3-oxoacyl-ACP reductase
+NC_007604,678881,+,groEL,Synpcc7942_0685,molecular chaperone GroEL
+NC_007604,680711,+,-,Synpcc7942_0686,FO synthase subunit 2
+NC_007604,682128,+,-,Synpcc7942_0687,hypothetical protein
+NC_007604,683722,+,-,Synpcc7942_0688,ArsR family transcriptional regulator
+NC_007604,684884,-,-,Synpcc7942_0689,hypothetical protein
+NC_007604,685209,-,clpS,Synpcc7942_0690,ATP-dependent Clp protease adaptor protein ClpS
+NC_007604,685290,+,-,Synpcc7942_0691,hypothetical protein
+NC_007604,686185,-,-,Synpcc7942_0692,hypothetical protein
+NC_007604,687080,-,-,Synpcc7942_0693,hypothetical protein
+NC_007604,688061,-,-,Synpcc7942_0694,30S ribosomal protein S1
+NC_007604,688992,-,nrdR,Synpcc7942_0695,transcriptional regulator NrdR
+NC_007604,689145,-,psbT,Synpcc7942_0696,photosystem II reaction center protein T
+NC_007604,690856,-,-,Synpcc7942_0697,photosystem II core light harvesting protein
+NC_007604,691085,+,-,Synpcc7942_0698,ferredoxin
+NC_007604,691619,+,psbM,Synpcc7942_0699,photosystem II reaction center protein M
+NC_007604,692744,-,-,Synpcc7942_0700,hypothetical protein
+NC_007604,692679,+,-,Synpcc7942_0701,hypothetical protein
+NC_007604,693257,+,-,Synpcc7942_0702,hypothetical protein
+NC_007604,694072,+,-,Synpcc7942_0703,DNA processing protein DprA
+NC_007604,695281,+,-,Synpcc7942_0704,chloramphenicol O-acetyltransferase
+NC_007604,695935,+,-,Synpcc7942_0705,hypothetical protein
+NC_007604,697191,-,-,Synpcc7942_0706,precorrin-6B methylase
+NC_007604,698641,-,-,Synpcc7942_0707,arginine decarboxylase
+NC_007604,698708,+,-,Synpcc7942_0708,hypothetical protein
+NC_007604,700511,+,-,Synpcc7942_0709,hypothetical protein
+NC_007604,701538,-,-,Synpcc7942_0710,hypothetical protein
+NC_007604,701604,+,carB,Synpcc7942_0711,carbamoyl phosphate synthase large subunit
+NC_007604,706350,-,-,Synpcc7942_0712,C-terminal processing peptidase-2
+NC_007604,707673,-,ispG,Synpcc7942_0713,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase
+NC_007604,709450,-,-,Synpcc7942_0714,cell wall hydrolase/autolysin
+NC_007604,709692,-,-,Synpcc7942_R0039,Leu tRNA
+NC_007604,709919,+,-,Synpcc7942_0715,UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+NC_007604,711226,+,-,Synpcc7942_R0040,Leu tRNA
+NC_007604,711446,+,-,Synpcc7942_0716,hypothetical protein
+NC_007604,713651,-,-,Synpcc7942_0717,dCTP deaminase
+NC_007604,714331,-,-,Synpcc7942_0718,hypothetical protein
+NC_007604,714831,-,-,Synpcc7942_0719,hypothetical protein
+NC_007604,715389,-,-,Synpcc7942_0720,hypothetical protein
+NC_007604,715882,-,-,Synpcc7942_0721,hypothetical protein
+NC_007604,717025,-,-,Synpcc7942_0722,hypothetical protein
+NC_007604,717964,-,-,Synpcc7942_0723,hypothetical protein
+NC_007604,718004,+,-,Synpcc7942_0724,hypothetical protein
+NC_007604,718666,+,-,Synpcc7942_0725,DEAD/DEAH box helicase-like protein
+NC_007604,720068,+,-,Synpcc7942_0726,hypothetical protein
+NC_007604,720423,+,-,Synpcc7942_0727,hypothetical protein
+NC_007604,723215,+,-,Synpcc7942_0728,hypothetical protein
+NC_007604,723806,+,-,Synpcc7942_0729,hypothetical protein
+NC_007604,724626,+,-,Synpcc7942_0730,hypothetical protein
+NC_007604,725474,+,-,Synpcc7942_0731,phage terminase large subunit
+NC_007604,727482,+,-,Synpcc7942_0732,hypothetical protein
+NC_007604,727691,+,-,Synpcc7942_0733,"Phage portal protein, lambda"
+NC_007604,729177,+,-,Synpcc7942_0734,hypothetical protein
+NC_007604,731099,+,-,Synpcc7942_0735,hypothetical protein
+NC_007604,731434,+,-,Synpcc7942_0736,electron transfer protein
+NC_007604,731738,+,-,Synpcc7942_0737,hypothetical protein
+NC_007604,732710,+,-,Synpcc7942_0738,Phage baseplate assembly protein V
+NC_007604,733267,+,-,ORF01999,PaaR membrane protein
+NC_007604,733536,+,-,Synpcc7942_0739,hypothetical protein
+NC_007604,733877,+,-,Synpcc7942_0740,GPJ of phage P2-like protein
+NC_007604,734713,+,-,Synpcc7942_0741,Phage tail protein I
+NC_007604,735651,+,-,Synpcc7942_0742,hypothetical protein
+NC_007604,736140,+,-,Synpcc7942_0743,hypothetical protein
+NC_007604,738156,+,-,Synpcc7942_0744,hypothetical protein
+NC_007604,739615,+,-,Synpcc7942_0745,hypothetical protein
+NC_007604,740782,+,-,Synpcc7942_0746,hypothetical protein
+NC_007604,741396,+,-,Synpcc7942_0747,hypothetical protein
+NC_007604,742817,+,-,Synpcc7942_0748,Phage major tail tube protein
+NC_007604,743324,+,-,Synpcc7942_0749,hypothetical protein
+NC_007604,743738,+,-,Synpcc7942_0750,"Phage tail tape measure protein TP901, core region"
+NC_007604,746590,+,-,Synpcc7942_0751,hypothetical protein
+NC_007604,747510,+,-,Synpcc7942_0752,hypothetical protein
+NC_007604,747719,+,-,Synpcc7942_0753,phage late control gene D protein GPD
+NC_007604,749431,-,-,Synpcc7942_0754,hypothetical protein
+NC_007604,749431,+,-,Synpcc7942_0755,hypothetical protein
+NC_007604,750406,+,-,Synpcc7942_0756,"chain A, D20c mutant of T4 lysozyme"
+NC_007604,751253,+,-,Synpcc7942_0757,hypothetical protein
+NC_007604,751959,+,-,Synpcc7942_0758,hypothetical protein
+NC_007604,752571,+,-,Synpcc7942_0759,hypothetical protein
+NC_007604,753954,+,-,Synpcc7942_0760,hypothetical protein
+NC_007604,755661,-,-,Synpcc7942_0761,hypothetical protein
+NC_007604,756685,-,-,Synpcc7942_0762,hypothetical protein
+NC_007604,757318,-,-,Synpcc7942_0763,XRE family transcriptional regulator
+NC_007604,757595,-,-,Synpcc7942_0764,XRE family transcriptional regulator
+NC_007604,757905,-,-,ORF02027,"Cro/C1-type HTH DNA-binding domain, antidote protein HigA"
+NC_007604,757839,+,-,Synpcc7942_0765,hypothetical protein
+NC_007604,758390,+,-,Synpcc7942_0766,DNA-damage-inducible protein
+NC_007604,759413,+,-,Synpcc7942_0767,hypothetical protein
+NC_007604,760252,+,-,Synpcc7942_0768,hypothetical protein
+NC_007604,761226,+,-,Synpcc7942_0769,hypothetical protein
+NC_007604,762159,+,-,Synpcc7942_0770,hypothetical protein
+NC_007604,764854,-,-,Synpcc7942_0771,hypothetical protein
+NC_007604,765577,-,-,Synpcc7942_0772,hypothetical protein
+NC_007604,766197,-,-,Synpcc7942_0773,hypothetical protein
+NC_007604,766216,+,-,Synpcc7942_0774,esterase
+NC_007604,767721,-,-,Synpcc7942_0775,hypothetical protein
+NC_007604,768630,-,-,Synpcc7942_0776,farnesyl-diphosphate synthase
+NC_007604,769538,-,-,Synpcc7942_0777,"bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase"
+NC_007604,769574,+,-,Synpcc7942_0778,hypothetical protein
+NC_007604,770131,+,-,Synpcc7942_0779,metal dependent phosphohydrolase
+NC_007604,773958,-,-,Synpcc7942_0780,serine/threonine protein kinase
+NC_007604,776520,-,-,Synpcc7942_0781,phosphoenolpyruvate synthase
+NC_007604,778556,-,-,Synpcc7942_0782,ATPase
+NC_007604,779245,-,hisG,Synpcc7942_0783,ATP phosphoribosyltransferase
+NC_007604,779531,+,-,Synpcc7942_0784,hypothetical protein
+NC_007604,779781,+,-,Synpcc7942_0785,penicillin-binding protein 1A
+NC_007604,782076,+,-,Synpcc7942_0786,hypothetical protein
+NC_007604,783007,+,-,Synpcc7942_0787,purple acid phosphatase
+NC_007604,784748,-,-,Synpcc7942_0788,glutathione S-transferase
+NC_007604,785167,-,-,Synpcc7942_0789,hypothetical protein
+NC_007604,785894,-,-,Synpcc7942_0790,RNA-binding region RNP-1
+NC_007604,787211,-,-,Synpcc7942_0791,poly(A) polymerase
+NC_007604,788490,-,-,Synpcc7942_0792,multidrug efflux MFS transporter
+NC_007604,789261,-,-,Synpcc7942_0793,hypothetical protein
+NC_007604,790284,-,-,Synpcc7942_0794,hypothetical protein
+NC_007604,791047,-,-,Synpcc7942_0795,hypothetical protein
+NC_007604,791162,+,-,Synpcc7942_0796,hypothetical protein
+NC_007604,792010,+,-,Synpcc7942_0797,hypothetical protein
+NC_007604,792804,-,ruvC,Synpcc7942_0798,Holliday junction resolvase
+NC_007604,794390,-,-,Synpcc7942_0799,Elongator protein 3
+NC_007604,795048,-,-,Synpcc7942_0800,hypothetical protein
+NC_007604,795123,+,-,Synpcc7942_0801,superoxide dismutase
+NC_007604,795917,+,-,Synpcc7942_0802,allophycocyanin alpha chain-like protein
+NC_007604,797320,-,-,Synpcc7942_0803,hypothetical protein
+NC_007604,797214,+,pdxA,Synpcc7942_0804,4-hydroxythreonine-4-phosphate dehydrogenase
+NC_007604,798349,+,-,Synpcc7942_0805,hypothetical protein
+NC_007604,799095,+,-,Synpcc7942_0806,16S ribosomal RNA methyltransferase RsmE
+NC_007604,799840,+,-,Synpcc7942_0807,hypothetical protein
+NC_007604,802980,-,-,Synpcc7942_0808,HAD family hydrolase
+NC_007604,803073,+,-,Synpcc7942_0809,hypothetical protein
+NC_007604,804853,+,-,Synpcc7942_0810,hypothetical protein
+NC_007604,805186,+,-,Synpcc7942_0811,Na+/H+ antiporter
+NC_007604,806886,+,-,Synpcc7942_0812,molecular chaperone DnaJ
+NC_007604,807829,+,hisZ,Synpcc7942_0813,ATP phosphoribosyltransferase
+NC_007604,809109,+,-,Synpcc7942_0814,ferredoxin-like protein
+NC_007604,809365,+,-,Synpcc7942_0815,ATPase
+NC_007604,812226,-,-,Synpcc7942_0816,diguanylate cyclase/phosphodiesterase
+NC_007604,812724,-,-,Synpcc7942_0817,ferric uptake regulator family protein
+NC_007604,812955,+,-,Synpcc7942_0818,phosphoribosylformylglycinamidine synthase subunit PurS
+NC_007604,813221,+,-,Synpcc7942_0819,phosphoribosylformylglycinamidine synthase I
+NC_007604,813956,+,-,Synpcc7942_0820,hypothetical protein
+NC_007604,814476,+,-,Synpcc7942_0821,periplasmic oligopeptide-binding
+NC_007604,816064,+,-,Synpcc7942_0822,permease of oligopeptide ABC
+NC_007604,817168,+,-,Synpcc7942_0823,hypothetical protein
+NC_007604,818189,+,-,Synpcc7942_0824,hypothetical protein
+NC_007604,820654,-,-,Synpcc7942_0825,hypothetical protein
+NC_007604,820693,+,-,Synpcc7942_0826,hypothetical protein
+NC_007604,822803,-,-,Synpcc7942_0827,cobalamin synthesis protein cobW-like protein
+NC_007604,823241,-,-,Synpcc7942_0828,hypothetical protein
+NC_007604,823506,+,-,Synpcc7942_0829,lipoproteins-like
+NC_007604,823839,+,asnC,Synpcc7942_0830,asparaginyl-tRNA synthetase
+NC_007604,826005,-,-,Synpcc7942_0831,hypothetical protein
+NC_007604,827112,+,-,Synpcc7942_0833,hypothetical protein
+NC_007604,828541,+,-,Synpcc7942_0834,hypothetical protein
+NC_007604,829644,+,ruvB,Synpcc7942_0835,Holliday junction DNA helicase RuvB
+NC_007604,832182,-,-,Synpcc7942_0836,hypothetical protein
+NC_007604,832811,-,-,Synpcc7942_0837,hypothetical protein
+NC_007604,833957,-,-,Synpcc7942_0838,Elongator protein 3/MiaB/NifB
+NC_007604,834954,-,-,Synpcc7942_0839,Nitrilase
+NC_007604,835473,-,-,Synpcc7942_0840,hypothetical protein
+NC_007604,835671,+,-,Synpcc7942_0841,potassium transport flavoprotein
+NC_007604,838478,-,-,Synpcc7942_0842,glutathione reductase
+NC_007604,838935,-,-,Synpcc7942_0843,hypothetical protein
+NC_007604,839812,-,-,Synpcc7942_0844,phosphoesterase PHP-like protein
+NC_007604,839873,+,-,Synpcc7942_0845,hypothetical protein
+NC_007604,841081,-,-,Synpcc7942_0846,hypothetical protein
+NC_007604,842293,-,-,Synpcc7942_0847,twitching motility protein
+NC_007604,845347,-,uvrA,Synpcc7942_0848,excinuclease ABC subunit A
+NC_007604,846433,-,-,Synpcc7942_0849,hypothetical protein
+NC_007604,846689,-,-,Synpcc7942_0850,hypothetical protein
+NC_007604,847233,+,-,Synpcc7942_0851,phosphoribosylaminoimidazole synthetase
+NC_007604,848870,+,-,Synpcc7942_0853,"L,L-diaminopimelate aminotransferase"
+NC_007604,850233,+,-,Synpcc7942_0854,hypothetical protein
+NC_007604,853593,+,-,Synpcc7942_0855,response regulator receiver domain-containing protein
+NC_007604,854924,+,-,Synpcc7942_0856,response regulator receiver domain-containing protein
+NC_007604,855315,+,-,Synpcc7942_0857,chemotaxis protein CheW
+NC_007604,855893,+,-,Synpcc7942_0858,methyl-accepting chemotaxis sensory transducer with phytochrome sensor
+NC_007604,860118,+,-,Synpcc7942_0859,CheA signal transduction histidine kinase
+NC_007604,862987,+,-,Synpcc7942_0860,chemotaxis protein CheW
+NC_007604,865572,-,-,Synpcc7942_0861,bifunctional sterol desaturase/short chain dehydrogenase
+NC_007604,865596,+,ebsA,Synpcc7942_0862,"EbsA, hypothetical protein"
+NC_007604,866027,+,-,Synpcc7942_0863,hypothetical protein
+NC_007604,867395,+,-,Synpcc7942_0864,hypothetical protein
+NC_007604,867986,+,-,Synpcc7942_0865,nucleotide-binding protein
+NC_007604,868540,+,-,Synpcc7942_0866,hypothetical protein
+NC_007604,869169,+,-,Synpcc7942_0867,hypothetical protein
+NC_007604,869505,+,-,Synpcc7942_0868,hypothetical protein
+NC_007604,871262,+,-,Synpcc7942_0869,hypothetical protein
+NC_007604,872113,-,-,Synpcc7942_0870,hypothetical protein
+NC_007604,872330,-,-,Synpcc7942_0871,hypothetical protein
+NC_007604,872362,+,-,Synpcc7942_0872,hypothetical protein
+NC_007604,874196,-,-,Synpcc7942_0873,hypothetical protein
+NC_007604,877449,-,-,Synpcc7942_0874,DEAD/DEAH box helicase-like protein
+NC_007604,877887,-,-,Synpcc7942_0875,hypothetical protein
+NC_007604,877976,+,alaS,Synpcc7942_0876,alanyl-tRNA synthetase
+NC_007604,880867,+,-,Synpcc7942_0877,Elongator protein 3/MiaB/NifB
+NC_007604,883561,+,-,Synpcc7942_0878,ribonuclease
+NC_007604,886245,+,rnhB,Synpcc7942_0879,ribonuclease HII
+NC_007604,887472,-,-,Synpcc7942_0880,hypothetical protein
+NC_007604,887552,+,-,Synpcc7942_0881,prephenate dehydratase
+NC_007604,889159,-,-,Synpcc7942_0882,"peptidase S16, lon-like protein"
+NC_007604,889684,-,rpsJ,Synpcc7942_0883,30S ribosomal protein S10
+NC_007604,890952,-,-,Synpcc7942_0884,elongation factor Tu
+NC_007604,893037,-,-,Synpcc7942_0885,elongation factor G
+NC_007604,893590,-,-,Synpcc7942_0886,30S ribosomal protein S7
+NC_007604,894247,-,rpsL,Synpcc7942_0887,30S ribosomal protein S12
+NC_007604,894639,-,-,Synpcc7942_0888,mannose-1-phosphate guanylyltransferase
+NC_007604,896453,-,-,Synpcc7942_0889,hypothetical protein
+NC_007604,896607,+,-,Synpcc7942_0890,glutamate synthase (ferredoxin)
+NC_007604,901736,+,-,Synpcc7942_0891,hypothetical protein
+NC_007604,903119,-,cofG,Synpcc7942_0892,FO synthase subunit 1
+NC_007604,903201,+,-,Synpcc7942_0893,photosystem q(b) protein
+NC_007604,905417,-,aroK,Synpcc7942_0894,shikimate kinase
+NC_007604,906657,-,-,Synpcc7942_0895,hypothetical protein
+NC_007604,906832,+,-,Synpcc7942_0896,septum site-determining protein MinD
+NC_007604,907653,+,-,Synpcc7942_0897,cell division topological specificity factor MinE
+NC_007604,907925,+,-,Synpcc7942_0898,ferredoxin like protein
+NC_007604,908331,+,-,Synpcc7942_R0041,Thr tRNA
+NC_007604,909295,-,-,Synpcc7942_0899,hypothetical protein
+NC_007604,909643,-,-,Synpcc7942_0900,hypothetical protein
+NC_007604,909780,+,-,Synpcc7942_0901,haloalkane dehalogenase
+NC_007604,911694,-,-,Synpcc7942_0902,hypothetical protein
+NC_007604,914341,-,-,Synpcc7942_0903,bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase
+NC_007604,914595,+,-,Synpcc7942_0904,hypothetical protein
+NC_007604,915520,+,-,Synpcc7942_0905,hypothetical protein
+NC_007604,916187,+,-,Synpcc7942_0906,hypothetical protein
+NC_007604,916748,+,-,Synpcc7942_0907,hypothetical protein
+NC_007604,917280,+,-,Synpcc7942_0908,hypothetical protein
+NC_007604,918119,+,-,Synpcc7942_0909,HesB/YadR/YfhF
+NC_007604,918533,+,-,Synpcc7942_0910,hypothetical protein
+NC_007604,918998,+,-,Synpcc7942_0911,hypothetical protein
+NC_007604,919325,+,-,Synpcc7942_0912,"DNA polymerase III, tau subunit"
+NC_007604,921780,-,-,Synpcc7942_0913,N-acetyltransferase
+NC_007604,922391,-,-,Synpcc7942_0914,tRNA-(MS(2)IO(6)A)-hydroxylase-like protein
+NC_007604,922837,-,-,Synpcc7942_0915,3-dehydroquinate dehydratase
+NC_007604,922985,-,-,Synpcc7942_0916,hypothetical protein
+NC_007604,923151,+,-,Synpcc7942_R0042,Tyr tRNA
+NC_007604,923243,+,-,Synpcc7942_R0043,Thr tRNA
+NC_007604,923793,-,-,Synpcc7942_0917,hypothetical protein
+NC_007604,924079,+,-,Synpcc7942_0918,long-chain-fatty-acid CoA ligase
+NC_007604,926061,+,-,Synpcc7942_0919,hypothetical protein
+NC_007604,927091,-,-,Synpcc7942_0920,photosystem I reaction center
+NC_007604,927394,-,-,Synpcc7942_0921,hypothetical protein
+NC_007604,928293,-,-,Synpcc7942_0922,glutamate--tRNA ligase
+NC_007604,929168,-,-,Synpcc7942_0923,5'-methylthioadenosine phosphorylase
+NC_007604,931214,-,-,Synpcc7942_0924,multi-sensor signal transduction histidine kinase
+NC_007604,932579,-,-,Synpcc7942_0925,phosphoribosylamine--glycine ligase
+NC_007604,932734,+,-,Synpcc7942_0926,hypothetical protein
+NC_007604,933994,+,-,Synpcc7942_0927,phosphoribosylaminoimidazole-succinocarboxamide synthase
+NC_007604,934850,+,-,Synpcc7942_0928,outer envelope membrane protein
+NC_007604,937039,+,lpxC,Synpcc7942_0929,UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase
+NC_007604,937894,+,fabZ,Synpcc7942_0930,(3R)-hydroxymyristoyl-ACP dehydratase
+NC_007604,938386,+,-,Synpcc7942_0931,UDP-N-acetylglucosamine acyltransferase
+NC_007604,939193,+,lpxB,Synpcc7942_0932,lipid-A-disaccharide synthase
+NC_007604,940925,-,-,Synpcc7942_0933,hypothetical protein
+NC_007604,940995,+,-,Synpcc7942_0934,hypothetical protein
+NC_007604,942838,-,-,Synpcc7942_0935,hypothetical protein
+NC_007604,943388,-,-,Synpcc7942_0936,rhodanese-like protein
+NC_007604,944127,-,-,Synpcc7942_0937,hypothetical protein
+NC_007604,944220,+,-,Synpcc7942_0938,ArsR family transcriptional regulator
+NC_007604,944618,+,-,Synpcc7942_0939,adenylylsulfate kinase
+NC_007604,945639,-,-,Synpcc7942_0940,XRE family transcriptional regulator
+NC_007604,947773,-,-,Synpcc7942_0941,ATPase
+NC_007604,949920,-,-,Synpcc7942_0942,FtsH peptidase
+NC_007604,950237,+,-,Synpcc7942_0943,acetylornithine aminotransferase
+NC_007604,951502,+,-,Synpcc7942_0944,FolC bifunctional protein
+NC_007604,953767,-,-,Synpcc7942_0945,hypothetical protein
+NC_007604,954141,+,-,Synpcc7942_0946,UDP-galactopyranose mutase
+NC_007604,956714,-,-,Synpcc7942_0947,ATPase
+NC_007604,957546,-,-,Synpcc7942_0948,permease of sugar ABC transporter
+NC_007604,958424,-,-,Synpcc7942_0949,permease of sugar ABC transporter
+NC_007604,959737,-,-,Synpcc7942_0950,multiple sugar transport system substrate-binding protein
+NC_007604,959837,+,-,Synpcc7942_0951,nicotinate-nucleotide pyrophosphorylase
+NC_007604,961620,-,-,Synpcc7942_0952,hypothetical protein
+NC_007604,962208,-,-,Synpcc7942_0953,hypothetical protein
+NC_007604,963300,-,-,Synpcc7942_0954,glycine cleavage T-protein-like protein
+NC_007604,963790,-,-,Synpcc7942_0955,hypothetical protein
+NC_007604,963926,+,-,Synpcc7942_0956,hypothetical protein
+NC_007604,965072,+,-,Synpcc7942_0957,"cob(I)yrinic acid a,c-diamide adenosyltransferase"
+NC_007604,966355,-,purN,Synpcc7942_0958,phosphoribosylglycinamide formyltransferase
+NC_007604,967561,-,obgE,Synpcc7942_0959,GTPase ObgE
+NC_007604,967595,+,-,Synpcc7942_0960,ATPase
+NC_007604,968937,+,-,Synpcc7942_0961,cell envelope-related function transcriptional attenuator
+NC_007604,971323,-,-,Synpcc7942_0962,sun protein
+NC_007604,971669,-,-,Synpcc7942_0963,methyltransferase
+NC_007604,971856,+,-,Synpcc7942_0964,hypothetical protein
+NC_007604,972388,+,-,Synpcc7942_0965,ammonium transporter
+NC_007604,973946,-,-,Synpcc7942_0966,hypothetical protein
+NC_007604,974099,+,hemC,Synpcc7942_0967,porphobilinogen deaminase
+NC_007604,975117,+,-,Synpcc7942_0968,hypothetical protein
+NC_007604,976195,-,-,Synpcc7942_0969,carboxymethylenebutenolidase
+NC_007604,976311,+,-,Synpcc7942_0970,phytoene dehydrogenase
+NC_007604,979261,-,-,Synpcc7942_0971,hypothetical protein
+NC_007604,979369,+,-,Synpcc7942_0972,hypothetical protein
+NC_007604,980930,-,-,Synpcc7942_0973,UDP-glucose 6-dehydrogenase
+NC_007604,981137,-,-,Synpcc7942_0974,UDP-glucose dehydrogenase
+NC_007604,982144,-,mraW,Synpcc7942_0975,S-adenosyl-methyltransferase MraW
+NC_007604,982168,+,-,Synpcc7942_0976,hypothetical protein
+NC_007604,986140,-,-,Synpcc7942_0977,phosphoribulokinase
+NC_007604,986328,+,-,Synpcc7942_0978,ferredoxin-NADP oxidoreductase
+NC_007604,988577,-,-,Synpcc7942_0979,hypothetical protein
+NC_007604,989276,-,-,Synpcc7942_0980,hypothetical protein
+NC_007604,989730,-,ssrA,Synpcc7942_R0017,-
+NC_007604,991494,-,-,Synpcc7942_0981,hypothetical protein
+NC_007604,991553,+,-,Synpcc7942_0982,hypothetical protein
+NC_007604,992187,+,-,Synpcc7942_0983,deoxyribose-phosphate aldolase
+NC_007604,992870,+,recO,Synpcc7942_0984,DNA repair protein RecO
+NC_007604,993654,+,-,Synpcc7942_0985,hypothetical protein
+NC_007604,995074,+,-,Synpcc7942_0986,glycosyltransferase
+NC_007604,996723,-,-,Synpcc7942_0987,ferric uptake regulator family protein
+NC_007604,997275,-,-,Synpcc7942_0988,hypothetical protein
+NC_007604,997825,-,-,Synpcc7942_0989,hypothetical protein
+NC_007604,998454,-,cobU,Synpcc7942_0990,adenosylcobinamide kinase
+NC_007604,999729,-,-,Synpcc7942_0991,proton extrusion protein PcxA
+NC_007604,999802,+,-,Synpcc7942_0992,hypothetical protein
+NC_007604,1003145,-,-,Synpcc7942_0993,hypothetical protein
+NC_007604,1003746,-,-,Synpcc7942_0994,hypothetical protein
+NC_007604,1003809,+,-,Synpcc7942_0995,hypothetical protein
+NC_007604,1004254,+,-,Synpcc7942_0996,glycerate kinase
+NC_007604,1005432,-,rpmF,Synpcc7942_0997,50S ribosomal protein L32
+NC_007604,1005621,+,-,Synpcc7942_0998,FtsH peptidase
+NC_007604,1007880,-,-,Synpcc7942_0999,hypothetical protein
+NC_007604,1011369,-,-,Synpcc7942_1000,hypothetical protein
+NC_007604,1013736,-,-,Synpcc7942_1001,aspartate kinase
+NC_007604,1013887,+,-,Synpcc7942_1002,photosystem I reaction center subunit II
+NC_007604,1014408,+,-,Synpcc7942_1003,"anthranilate synthase, component I"
+NC_007604,1016316,-,-,Synpcc7942_1004,hypothetical protein
+NC_007604,1016315,+,-,Synpcc7942_1005,HAD family hydrolase
+NC_007604,1017044,+,-,Synpcc7942_1006,TPR repeat-containing protein
+NC_007604,1020295,-,fumC,Synpcc7942_1007,fumarate hydratase
+NC_007604,1021186,-,purU,Synpcc7942_1008,formyltetrahydrofolate deformylase
+NC_007604,1021950,-,-,Synpcc7942_1009,XRE family transcriptional regulator
+NC_007604,1022700,-,-,Synpcc7942_1010,ribosomal large subunit pseudouridine synthase B
+NC_007604,1023956,-,-,Synpcc7942_1011,PAS/PAC sensor signal transduction histidine kinase
+NC_007604,1024742,-,-,Synpcc7942_1012,two component transcriptional regulator
+NC_007604,1025625,-,-,Synpcc7942_1013,hypothetical protein
+NC_007604,1028417,-,-,Synpcc7942_1014,CheA signal transduction histidine kinase
+NC_007604,1030952,-,-,Synpcc7942_1015,methyl-accepting chemotaxis sensory transducer
+NC_007604,1031435,-,-,Synpcc7942_1016,chemotaxis protein CheW
+NC_007604,1032458,-,-,Synpcc7942_1017,hypothetical protein
+NC_007604,1032577,+,-,Synpcc7942_1018,hypothetical protein
+NC_007604,1033300,+,-,Synpcc7942_1019,4-alpha-glucanotransferase
+NC_007604,1034796,+,-,Synpcc7942_1020,O-succinylbenzoate synthase
+NC_007604,1035731,+,-,Synpcc7942_1021,O-succinylbenzoic acid--CoA ligase
+NC_007604,1037837,-,-,Synpcc7942_1022,hypothetical protein
+NC_007604,1038086,-,-,Synpcc7942_1023,hypothetical protein
+NC_007604,1039098,-,-,Synpcc7942_1024,hypothetical protein
+NC_007604,1039168,+,-,Synpcc7942_1025,TPR repeat-containing protein
+NC_007604,1041725,-,-,Synpcc7942_1026,fibronectin binding protein-like protein
+NC_007604,1041800,+,-,Synpcc7942_1027,hypothetical protein
+NC_007604,1043340,-,-,Synpcc7942_1028,hypothetical protein
+NC_007604,1043928,+,-,Synpcc7942_1029,branched-chain amino acid aminotransferase
+NC_007604,1044883,+,-,Synpcc7942_1030,histidinol-phosphate aminotransferase
+NC_007604,1046356,-,-,Synpcc7942_1031,hypothetical protein
+NC_007604,1046506,+,-,Synpcc7942_1032,hypothetical protein
+NC_007604,1047991,+,-,Synpcc7942_1033,hypothetical protein
+NC_007604,1048952,+,-,Synpcc7942_1034,transglutaminase-like protein
+NC_007604,1050560,-,-,Synpcc7942_1035,proteasome-type protease
+NC_007604,1050754,+,-,Synpcc7942_1036,hypothetical protein
+NC_007604,1051258,+,-,Synpcc7942_1037,arginine decarboxylase
+NC_007604,1053264,+,-,Synpcc7942_1038,photosystem II oxygen-evolving complex 23K protein
+NC_007604,1054353,-,-,Synpcc7942_1039,hypothetical protein
+NC_007604,1054722,+,-,Synpcc7942_1040,hypothetical protein
+NC_007604,1055621,-,-,Synpcc7942_1041,hypothetical protein
+NC_007604,1055645,+,-,Synpcc7942_1042,hypothetical protein
+NC_007604,1056622,-,-,Synpcc7942_1043,hypothetical protein
+NC_007604,1057462,-,-,Synpcc7942_1044,thymidylate synthase
+NC_007604,1059114,-,-,Synpcc7942_1045,amidase enhancer-like protein
+NC_007604,1059261,+,-,Synpcc7942_1046,hypothetical protein
+NC_007604,1060084,+,-,Synpcc7942_1047,phycocyanin subunit beta
+NC_007604,1060840,+,-,Synpcc7942_1048,phycocyanin subunit alpha
+NC_007604,1061414,+,-,Synpcc7942_1049,phycobilisome rod linker polypeptide
+NC_007604,1062310,+,-,Synpcc7942_1050,phycobilisome rod linker polypeptide
+NC_007604,1063318,+,-,Synpcc7942_1051,phycocyanin linker protein 9K
+NC_007604,1063865,+,-,Synpcc7942_1052,phycocyanin subunit beta
+NC_007604,1064595,+,-,Synpcc7942_1053,phycocyanin subunit alpha
+NC_007604,1065138,+,-,Synpcc7942_1054,PBS lyase
+NC_007604,1066056,+,-,Synpcc7942_1055,phycocyanin alpha-subunit phycocyanobilin lyase
+NC_007604,1066680,+,-,Synpcc7942_1056,XRE family transcriptional regulator
+NC_007604,1067527,+,-,Synpcc7942_1057,thiamine-phosphate pyrophosphorylase
+NC_007604,1068559,+,-,Synpcc7942_1058,hypothetical protein
+NC_007604,1068897,+,-,Synpcc7942_1059,hypothetical protein
+NC_007604,1070025,+,-,Synpcc7942_1060,type I restriction-modification
+NC_007604,1072278,+,-,Synpcc7942_1061,hypothetical protein
+NC_007604,1073214,+,-,Synpcc7942_1062,hypothetical protein
+NC_007604,1073494,+,-,Synpcc7942_1063,hypothetical protein
+NC_007604,1073999,+,-,Synpcc7942_1064,type I restriction-modification
+NC_007604,1075365,+,-,Synpcc7942_1065,DEAD/DEAH box helicase-like protein
+NC_007604,1078489,+,-,Synpcc7942_1066,hypothetical protein
+NC_007604,1078734,+,-,Synpcc7942_1067,hypothetical protein
+NC_007604,1079478,+,-,Synpcc7942_1068,branched-chain alpha-keto acid dehydrogenase subunit E2
+NC_007604,1081727,-,-,Synpcc7942_1069,hypothetical protein
+NC_007604,1082851,-,-,Synpcc7942_1070,oxidoreductase aldo/keto reductase
+NC_007604,1083713,-,-,Synpcc7942_1071,hypothetical protein
+NC_007604,1084322,-,-,Synpcc7942_1072,"cob(I)yrinic acid a,c-diamide adenosyltransferase"
+NC_007604,1084451,+,rph,Synpcc7942_1073,ribonuclease PH
+NC_007604,1085562,-,-,Synpcc7942_1074,hypothetical protein
+NC_007604,1086433,-,-,Synpcc7942_1075,hypothetical protein
+NC_007604,1086997,-,-,Synpcc7942_1076,osmotic signal transduction-like protein
+NC_007604,1087305,+,-,Synpcc7942_1077,hypothetical protein
+NC_007604,1087780,+,-,Synpcc7942_1078,hypothetical protein
+NC_007604,1088698,+,-,Synpcc7942_1079,ATP-dependent DNA helicase RecG
+NC_007604,1091781,+,-,Synpcc7942_1080,K+ transporter Trk
+NC_007604,1093125,+,-,Synpcc7942_1081,hypothetical protein
+NC_007604,1094751,+,-,Synpcc7942_1082,"ATPase, E1-E2 type"
+NC_007604,1097799,+,-,Synpcc7942_1083,glycosyltransferase
+NC_007604,1099628,-,-,Synpcc7942_1084,hypothetical protein
+NC_007604,1099720,+,-,Synpcc7942_1085,glycogen branching enzyme
+NC_007604,1102104,+,hemE,Synpcc7942_1086,uroporphyrinogen decarboxylase
+NC_007604,1103190,+,-,Synpcc7942_1087,hypothetical protein
+NC_007604,1104193,+,-,Synpcc7942_1088,plastocyanin
+NC_007604,1104597,+,-,Synpcc7942_1089,ATPase
+NC_007604,1108274,-,-,Synpcc7942_1090,hypothetical protein
+NC_007604,1108372,+,-,Synpcc7942_1091,hypothetical protein
+NC_007604,1110663,-,-,Synpcc7942_1092,hypothetical protein
+NC_007604,1111780,-,anmK,Synpcc7942_1093,anhydro-N-acetylmuramic acid kinase
+NC_007604,1112535,-,-,Synpcc7942_1094,TenA family transcriptional activator
+NC_007604,1112853,+,-,Synpcc7942_1095,hypothetical protein
+NC_007604,1114888,-,-,Synpcc7942_1096,thiamine biosynthesis protein ThiC
+NC_007604,1114822,+,-,Synpcc7942_1097,hypothetical protein
+NC_007604,1116258,-,-,Synpcc7942_1098,hypothetical protein
+NC_007604,1116962,-,ubiE,Synpcc7942_1099,ubiquinone/menaquinone biosynthesis methyltransferase
+NC_007604,1118551,-,dnaA,Synpcc7942_1100,chromosome replication initiator DnaA
+NC_007604,1118661,+,-,Synpcc7942_1101,hypothetical protein
+NC_007604,1119830,+,-,Synpcc7942_1102,hypothetical protein
+NC_007604,1121054,-,-,Synpcc7942_1103,glucosamine-6-phosphate isomerase 2
+NC_007604,1122417,-,-,Synpcc7942_1104,cell division protein FtsW
+NC_007604,1123534,-,-,Synpcc7942_1105,MRP protein-like protein
+NC_007604,1124154,-,-,Synpcc7942_1106,hypothetical protein
+NC_007604,1125110,-,-,Synpcc7942_1107,TPR repeat-containing protein
+NC_007604,1125345,+,-,Synpcc7942_1108,nucleoid protein Hbs
+NC_007604,1125667,+,-,Synpcc7942_1109,threonine-phosphate decarboxylase
+NC_007604,1126901,+,-,Synpcc7942_1110,response regulator receiver domain-containing protein
+NC_007604,1129447,-,-,Synpcc7942_1111,serine/threonine protein kinase
+NC_007604,1130385,-,-,Synpcc7942_1112,ribosomal large subunit pseudouridine synthase D
+NC_007604,1131473,-,-,Synpcc7942_1113,hypothetical protein
+NC_007604,1132343,-,rbgA,Synpcc7942_1114,ribosomal biogenesis GTPase
+NC_007604,1132720,-,-,Synpcc7942_1115,hypothetical protein
+NC_007604,1132855,+,pgk,Synpcc7942_1116,phosphoglycerate kinase
+NC_007604,1134381,+,-,Synpcc7942_1117,hypothetical protein
+NC_007604,1136614,-,-,Synpcc7942_1118,mercuric reductase
+NC_007604,1137294,-,-,Synpcc7942_1119,hypothetical protein
+NC_007604,1138015,-,-,Synpcc7942_1120,hypothetical protein
+NC_007604,1140623,-,-,Synpcc7942_1121,serine/threonine protein kinase
+NC_007604,1140801,+,rpmG,Synpcc7942_1122,50S ribosomal protein L33
+NC_007604,1140996,+,rpsR,Synpcc7942_1123,30S ribosomal protein S18
+NC_007604,1141275,+,-,Synpcc7942_1124,exoribonuclease II
+NC_007604,1143396,+,-,Synpcc7942_1125,CheA signal transduction histidine kinase
+NC_007604,1145223,-,-,Synpcc7942_1126,ABC transporter permease
+NC_007604,1145373,+,ebfE,Synpcc7942_1127,"EbfE, microcin-processing peptidase 2"
+NC_007604,1147254,+,-,Synpcc7942_1128,hypothetical protein
+NC_007604,1148540,+,-,Synpcc7942_1129,hypothetical protein
+NC_007604,1149445,+,-,Synpcc7942_1130,Ser/Thr phosphatase
+NC_007604,1151398,+,-,Synpcc7942_1131,ferredoxin-thioredoxin reductase variable subunit
+NC_007604,1153373,-,-,Synpcc7942_1132,hypothetical protein
+NC_007604,1155628,-,pteB,Synpcc7942_1133,"PteB, bacteriocin-processing peptidase"
+NC_007604,1155962,-,ebfG4,Synpcc7942_1134,"EbfG4, hypothetical protein"
+NC_007604,1156394,-,ebfG3,EbfG3,Enhances Biofilm Gene 3
+NC_007604,1156694,-,ebfG2,EbfG2,Enhances Biofilm Gene 2
+NC_007604,1157053,-,ebfG1,EbfG1,Enhances Biofilm Gene 1
+NC_007604,1157931,-,-,Synpcc7942_1135,cation transporter
+NC_007604,1158027,+,-,Synpcc7942_1136,PBS lyase
+NC_007604,1161508,-,-,Synpcc7942_1137,hypothetical protein
+NC_007604,1161580,+,-,Synpcc7942_1138,hypothetical protein
+NC_007604,1164236,-,-,Synpcc7942_1139,hypothetical protein
+NC_007604,1166107,-,-,Synpcc7942_1140,hypothetical protein
+NC_007604,1166812,-,-,Synpcc7942_1141,hypothetical protein
+NC_007604,1166949,+,-,Synpcc7942_1142,methionyl-tRNA synthetase
+NC_007604,1168598,+,-,Synpcc7942_1143,hypothetical protein
+NC_007604,1169424,+,-,Synpcc7942_1144,hypothetical protein
+NC_007604,1170775,-,-,Synpcc7942_R0044,Pro tRNA
+NC_007604,1171214,-,-,Synpcc7942_1145,glutaredoxin-like protein
+NC_007604,1171481,-,-,Synpcc7942_1146,hypothetical protein
+NC_007604,1172278,-,-,Synpcc7942_1147,hypothetical protein
+NC_007604,1172681,+,-,Synpcc7942_1148,metal dependent phosphohydrolase
+NC_007604,1174890,-,-,Synpcc7942_1149,dTDP-glucose 46-dehydratase
+NC_007604,1174969,+,-,Synpcc7942_R0045,Pro tRNA
+NC_007604,1175734,-,-,Synpcc7942_1150,hypothetical protein
+NC_007604,1177466,-,-,Synpcc7942_1151,bifunctional pantoate ligase/cytidylate kinase
+NC_007604,1178836,-,-,Synpcc7942_1152,rare lipoprotein A
+NC_007604,1181139,-,-,Synpcc7942_1153,hypothetical protein
+NC_007604,1182443,-,-,Synpcc7942_1154,hypothetical protein
+NC_007604,1182479,+,-,Synpcc7942_1155,hypothetical protein
+NC_007604,1183497,+,-,Synpcc7942_1156,hypothetical protein
+NC_007604,1186081,+,-,Synpcc7942_1157,hypothetical protein
+NC_007604,1192484,-,-,Synpcc7942_1158,PAS/PAC and GAF sensor-containing diguanylate cyclase/phosphodiesterase
+NC_007604,1193292,-,-,Synpcc7942_1159,MarR family transcriptional regulator
+NC_007604,1193397,+,-,Synpcc7942_1160,hypothetical protein
+NC_007604,1194348,+,-,Synpcc7942_1161,hypothetical protein
+NC_007604,1194846,+,-,Synpcc7942_1162,hypothetical protein
+NC_007604,1195317,+,-,Synpcc7942_1163,hypothetical protein
+NC_007604,1196864,+,-,Synpcc7942_1164,hypothetical protein
+NC_007604,1199239,-,-,Synpcc7942_1165,hypothetical protein
+NC_007604,1199437,+,-,Synpcc7942_1166,hypothetical protein
+NC_007604,1201330,-,-,Synpcc7942_1167,hypothetical protein
+NC_007604,1202109,-,-,Synpcc7942_1168,circadian phase modifier CpmA
+NC_007604,1203865,-,-,Synpcc7942_1169,oligopeptide-binding protein of oligopeptide ABC transporter
+NC_007604,1204319,-,ispF,Synpcc7942_1170,"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"
+NC_007604,1206109,-,-,Synpcc7942_1171,hypothetical protein
+NC_007604,1207596,-,lnt,Synpcc7942_1172,apolipoprotein N-acyltransferase
+NC_007604,1207866,+,-,Synpcc7942_1173,hypothetical protein
+NC_007604,1209343,-,-,Synpcc7942_1174,photosystem II reaction center protein J
+NC_007604,1209546,-,-,Synpcc7942_1175,photosystem II protein L
+NC_007604,1209714,-,psbF,Synpcc7942_1176,cytochrome b559 subunit beta
+NC_007604,1209966,-,psbE,Synpcc7942_1177,cytochrome b559 subunit alpha
+NC_007604,1211080,-,-,Synpcc7942_1178,Ycf48-like protein
+NC_007604,1211529,-,-,Synpcc7942_1179,rubredoxin
+NC_007604,1211703,+,-,Synpcc7942_1180,NADH dehydrogenase subunit A
+NC_007604,1212095,+,-,Synpcc7942_1181,NADH dehydrogenase subunit B
+NC_007604,1212795,+,-,Synpcc7942_1182,NADH dehydrogenase subunit J
+NC_007604,1213480,+,-,Synpcc7942_1183,hypothetical protein
+NC_007604,1214215,+,-,Synpcc7942_1184,6-pyruvoyl tetrahydrobiopterin synthase
+NC_007604,1215370,+,-,Synpcc7942_1185,hypothetical protein
+NC_007604,1215652,+,-,Synpcc7942_1186,riboflavin-specific deaminase
+NC_007604,1216357,+,-,Synpcc7942_1187,hypothetical protein
+NC_007604,1217650,+,-,Synpcc7942_1188,AP-4-A phosphorylase II-like protein
+NC_007604,1218630,-,-,Synpcc7942_1189,molybdopterin-guanine dinucleotide biosynthesis protein A
+NC_007604,1220180,-,-,Synpcc7942_1190,leucyl aminopeptidase
+NC_007604,1220349,+,gmk,Synpcc7942_1191,guanylate kinase
+NC_007604,1221583,-,-,Synpcc7942_1192,hypothetical protein
+NC_007604,1222398,-,-,Synpcc7942_1193,phospholipid/glycerol acyltransferase
+NC_007604,1222688,+,-,Synpcc7942_1194,pyridoxine 5'-phosphate synthase
+NC_007604,1223721,+,-,Synpcc7942_1195,hypothetical protein
+NC_007604,1224295,+,-,Synpcc7942_1196,hypothetical protein
+NC_007604,1225776,-,trpC,Synpcc7942_1197,indole-3-glycerol phosphate synthase
+NC_007604,1227244,-,-,Synpcc7942_1198,dihydrolipoamide dehydrogenase
+NC_007604,1228007,-,-,Synpcc7942_1199,tRNA/rRNA methyltransferase
+NC_007604,1229061,-,-,Synpcc7942_1200,hypothetical protein
+NC_007604,1230508,-,-,Synpcc7942_1201,glycosyltransferase
+NC_007604,1232980,-,-,Synpcc7942_1202,hypothetical protein
+NC_007604,1233463,-,-,Synpcc7942_1203,hypothetical protein
+NC_007604,1233774,-,-,Synpcc7942_1204,prevent-host-death protein
+NC_007604,1233775,+,-,Synpcc7942_1205,phage_integrase-like protein
+NC_007604,1233936,+,-,Synpcc7942_1206,hypothetical protein
+NC_007604,1234601,-,-,Synpcc7942_1207,"addiction module toxin, Txe/YoeB"
+NC_007604,1234918,-,-,Synpcc7942_1208,prevent-host-death protein
+NC_007604,1235232,-,-,Synpcc7942_1209,hypothetical protein
+NC_007604,1235481,-,-,Synpcc7942_1210,hypothetical protein
+NC_007604,1235825,-,-,Synpcc7942_1211,molybdopterin-guanine dinucleotide biosynthesis protein A
+NC_007604,1236090,-,-,Synpcc7942_1212,hypothetical protein
+NC_007604,1236470,+,-,Synpcc7942_1213,virulence associated protein C
+NC_007604,1237017,+,-,Synpcc7942_1214,glutathione peroxidase
+NC_007604,1237546,+,-,Synpcc7942_1215,acyl-CoA dehydrogenase
+NC_007604,1240109,-,-,Synpcc7942_1216,circadian clock protein KaiC
+NC_007604,1240497,-,-,Synpcc7942_1217,circadian clock protein KaiB
+NC_007604,1241411,-,-,Synpcc7942_1218,circadian clock protein KaiA
+NC_007604,1241617,+,rplU,Synpcc7942_1219,50S ribosomal protein L21
+NC_007604,1242033,+,rpmA,Synpcc7942_1220,50S ribosomal protein L27
+NC_007604,1242832,-,-,Synpcc7942_1221,response regulator receiver domain-containing protein
+NC_007604,1242925,+,truB,Synpcc7942_1222,tRNA pseudouridine synthase B
+NC_007604,1245008,-,-,Synpcc7942_1223,DevC protein
+NC_007604,1246123,-,-,Synpcc7942_1224,ABC-transporter membrane fusion protein
+NC_007604,1246927,-,-,Synpcc7942_1225,phycocyanobilin:ferredoxin oxidoreductase
+NC_007604,1247103,+,-,Synpcc7942_1226,processing protease
+NC_007604,1248551,-,-,Synpcc7942_R0046,Val tRNA
+NC_007604,1249327,-,radC,Synpcc7942_1227,DNA repair protein RadC
+NC_007604,1249355,+,-,Synpcc7942_1228,hypothetical protein
+NC_007604,1250987,-,-,Synpcc7942_1229,precorrin-4 C11-methyltransferase
+NC_007604,1251846,-,-,Synpcc7942_1230,prolipoprotein diacylglyceryl transferase
+NC_007604,1252949,-,-,Synpcc7942_1231,apocytochrome f
+NC_007604,1253489,-,-,Synpcc7942_1232,cytochrome b6-f complex iron-sulfur subunit
+NC_007604,1254473,-,-,Synpcc7942_1233,hypothetical protein
+NC_007604,1254739,+,-,Synpcc7942_1234,hypothetical protein
+NC_007604,1257946,-,-,Synpcc7942_1235,assimilatory nitrate reductase (ferredoxin)
+NC_007604,1258968,-,-,Synpcc7942_1236,nitrate transport ATP-binding subunits C and D
+NC_007604,1260957,-,-,Synpcc7942_1237,nitrate transport ATP-binding subunits C and D
+NC_007604,1261815,-,-,Synpcc7942_1238,nitrate transport permease
+NC_007604,1263199,-,-,Synpcc7942_1239,ABC-type nitrate/nitrite transport system substrate-binding protein
+NC_007604,1264801,-,nirA,Synpcc7942_1240,ferredoxin-nitrite reductase
+NC_007604,1265088,+,-,Synpcc7942_1241,nitrite reductase-like protein
+NC_007604,1266128,+,-,Synpcc7942_1242,LysR family transcriptional regulator
+NC_007604,1268117,-,-,Synpcc7942_1243,cyclic nucleotide-binding protein
+NC_007604,1268365,+,-,Synpcc7942_1244,ATPase
+NC_007604,1269708,+,-,Synpcc7942_1245,hypothetical protein
+NC_007604,1270803,+,-,Synpcc7942_1246,carotene isomerase
+NC_007604,1272318,+,-,Synpcc7942_1247,hypothetical protein
+NC_007604,1272551,+,-,Synpcc7942_1248,hypothetical protein
+NC_007604,1273755,-,-,Synpcc7942_1249,photosystem I reaction center subunit IX
+NC_007604,1274385,-,-,Synpcc7942_1250,photosystem I reaction center subunit III
+NC_007604,1274438,+,-,Synpcc7942_1251,DNA-binding/iron metalloprotein/AP endonuclease
+NC_007604,1275556,+,-,Synpcc7942_1252,DNA repair protein RAD32-like protein
+NC_007604,1277221,-,-,Synpcc7942_1253,hypothetical protein
+NC_007604,1277459,+,-,Synpcc7942_1254,cyclic nucleotide-binding protein
+NC_007604,1279015,-,-,Synpcc7942_1255,L-cysteine/cystine lyase
+NC_007604,1279079,+,-,Synpcc7942_1256,glutathione S-transferase
+NC_007604,1279685,+,-,Synpcc7942_1257,chloride channel-like protein
+NC_007604,1281532,+,-,Synpcc7942_1258,hypothetical protein
+NC_007604,1281993,+,-,Synpcc7942_1259,arsenite-activated ATPase ArsA
+NC_007604,1283206,+,-,Synpcc7942_1260,hypothetical protein
+NC_007604,1285027,-,tpiA,Synpcc7942_1261,triosephosphate isomerase
+NC_007604,1286647,-,-,Synpcc7942_1262,FAD-dependent dehydrogenase
+NC_007604,1287835,-,-,Synpcc7942_1263,N-6 adenine-specific DNA methylase
+NC_007604,1287939,+,-,Synpcc7942_1264,Na+/H+ antiporter
+NC_007604,1290258,-,-,Synpcc7942_1265,hypothetical protein
+NC_007604,1290953,-,-,Synpcc7942_1266,Ham1-like protein
+NC_007604,1291768,-,-,Synpcc7942_1267,hypothetical protein
+NC_007604,1293231,-,-,Synpcc7942_1268,phosphoglucomutase
+NC_007604,1293542,+,-,Synpcc7942_1269,magnesium transporter
+NC_007604,1295129,+,-,Synpcc7942_1270,hypothetical protein
+NC_007604,1296175,-,-,Synpcc7942_1271,hypothetical protein
+NC_007604,1296761,-,-,Synpcc7942_1272,hypothetical protein
+NC_007604,1296812,+,-,Synpcc7942_1273,hypothetical protein
+NC_007604,1299186,-,-,Synpcc7942_1274,TPR repeat-containing protein
+NC_007604,1300350,-,-,Synpcc7942_1275,hypothetical protein
+NC_007604,1301163,-,-,Synpcc7942_1276,extracellular solute-binding protein
+NC_007604,1301568,-,rplT,Synpcc7942_1277,50S ribosomal protein L20
+NC_007604,1301769,-,rpmI,Synpcc7942_1278,50S ribosomal protein L35
+NC_007604,1302047,-,-,Synpcc7942_1279,hypothetical protein
+NC_007604,1303138,-,-,Synpcc7942_1280,hypothetical protein
+NC_007604,1303836,-,-,Synpcc7942_1281,hypothetical protein
+NC_007604,1305463,-,moaA,Synpcc7942_1282,molybdenum cofactor biosynthesis protein A
+NC_007604,1305957,-,-,Synpcc7942_1283,molybdopterin synthase subunit MoaE
+NC_007604,1306232,-,-,Synpcc7942_1284,molybdopterin converting factor subunit 1
+NC_007604,1307200,-,moaC,Synpcc7942_1285,bifunctional molybdenum cofactor biosynthesis protein MoaC/MogA
+NC_007604,1307304,+,-,Synpcc7942_1286,molybdopterin molybdochelatase
+NC_007604,1309030,+,-,Synpcc7942_1287,hypothetical protein
+NC_007604,1311028,+,-,Synpcc7942_1288,hypothetical protein
+NC_007604,1311841,+,-,Synpcc7942_1289,modulator of DNA gyrase
+NC_007604,1313460,-,-,Synpcc7942_1290,SmtA metallothionein
+NC_007604,1313561,+,-,Synpcc7942_1291,ArsR family transcriptional regulator
+NC_007604,1316071,-,dnaG,Synpcc7942_1292,DNA primase
+NC_007604,1318598,-,pheT,Synpcc7942_1293,phenylalanyl-tRNA synthetase subunit beta
+NC_007604,1318734,+,-,Synpcc7942_1294,serine/threonine protein kinase
+NC_007604,1321758,-,-,Synpcc7942_1295,phospholipid/glycerol acyltransferase
+NC_007604,1321898,+,-,Synpcc7942_1296,hypothetical protein
+NC_007604,1322910,+,-,Synpcc7942_1297,malate dehydrogenase
+NC_007604,1325107,+,-,Synpcc7942_1298,diguanylate cyclase
+NC_007604,1327854,-,-,Synpcc7942_1299,hypothetical protein
+NC_007604,1328093,+,-,Synpcc7942_1300,hypothetical protein
+NC_007604,1328678,+,-,Synpcc7942_1301,ATP-dependent DNA helicase RecQ
+NC_007604,1330250,+,-,Synpcc7942_1302,hypothetical protein
+NC_007604,1331150,-,-,Synpcc7942_1303,hypothetical protein
+NC_007604,1331732,-,-,Synpcc7942_1304,hypothetical protein
+NC_007604,1333444,-,-,Synpcc7942_1305,ATPase
+NC_007604,1334082,-,-,Synpcc7942_1306,hypothetical protein
+NC_007604,1334181,+,-,Synpcc7942_1307,ABC-2 type transport system permease
+NC_007604,1335009,+,-,Synpcc7942_1308,tryptophanyl-tRNA synthetase
+NC_007604,1336073,+,-,Synpcc7942_1309,hypothetical protein
+NC_007604,1337076,+,-,Synpcc7942_1310,ndhF3 operon transcriptional regulator
+NC_007604,1338578,-,-,Synpcc7942_1311,hypothetical protein
+NC_007604,1340458,-,-,Synpcc7942_1312,ATPase
+NC_007604,1340634,+,aspS,Synpcc7942_1313,aspartyl-tRNA synthetase
+NC_007604,1344405,-,-,Synpcc7942_1314,FtsH-2 peptidase
+NC_007604,1345983,-,-,Synpcc7942_1315,tRNA (uracil-5-)-methyltransferase Gid
+NC_007604,1347114,-,-,Synpcc7942_1316,Mn transporter MntC
+NC_007604,1347173,+,-,Synpcc7942_1317,ATPase
+NC_007604,1347917,+,-,Synpcc7942_1318,manganese transport system membrane protein MntB
+NC_007604,1348834,+,-,Synpcc7942_1319,bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase
+NC_007604,1350298,-,-,Synpcc7942_1320,hypothetical protein
+NC_007604,1351433,-,-,Synpcc7942_1321,hypothetical protein
+NC_007604,1351577,+,-,Synpcc7942_1322,photosystem I reaction center subunit IV
+NC_007604,1351949,+,-,Synpcc7942_1323,formamidopyrimidine-DNA glycosylase
+NC_007604,1355588,-,-,Synpcc7942_1324,DEAD/DEAH box helicase-like protein
+NC_007604,1355787,+,-,Synpcc7942_1325,primary replicative DNA helicase
+NC_007604,1357232,+,-,Synpcc7942_1326,transcription-repair coupling factor
+NC_007604,1360808,+,-,Synpcc7942_1327,hypothetical protein
+NC_007604,1361167,+,-,Synpcc7942_1328,hypothetical protein
+NC_007604,1361874,+,-,Synpcc7942_1329,hypothetical protein
+NC_007604,1362508,+,-,Synpcc7942_1330,hypothetical protein
+NC_007604,1363290,+,-,Synpcc7942_1331,CAB/ELIP/HLIP superfamily protein
+NC_007604,1363467,+,-,Synpcc7942_1332,hypothetical protein
+NC_007604,1364091,+,-,Synpcc7942_1333,ExsB
+NC_007604,1364783,+,-,Synpcc7942_1334,aminodeoxychorismate synthase subunit I
+NC_007604,1366177,+,-,Synpcc7942_1335,branched-chain amino acid aminotransferase
+NC_007604,1367261,+,-,Synpcc7942_1336,hypothetical protein
+NC_007604,1368411,+,-,Synpcc7942_1337,Integrins alpha chain
+NC_007604,1373645,-,-,Synpcc7942_1338,hypothetical protein
+NC_007604,1374020,-,-,Synpcc7942_1339,hypothetical protein
+NC_007604,1374639,-,def,Synpcc7942_1340,peptide deformylase
+NC_007604,1374756,+,-,Synpcc7942_1341,hypothetical protein
+NC_007604,1375911,+,-,Synpcc7942_1342,"GDP-mannose 4,6-dehydratase"
+NC_007604,1377217,+,-,Synpcc7942_1343,NADH dehydrogenase subunit H
+NC_007604,1378378,+,-,Synpcc7942_1344,NADH dehydrogenase subunit I
+NC_007604,1378990,+,-,Synpcc7942_1345,NADH dehydrogenase subunit J
+NC_007604,1379614,+,-,Synpcc7942_1346,NADH dehydrogenase subunit K
+NC_007604,1381014,-,-,Synpcc7942_1347,2-hydroxyacid dehydrogenase
+NC_007604,1381331,-,-,Synpcc7942_1348,hypothetical protein
+NC_007604,1382053,-,-,Synpcc7942_1349,hypothetical protein
+NC_007604,1382355,-,-,Synpcc7942_1350,hypothetical protein
+NC_007604,1383096,-,-,Synpcc7942_1351,HAD family hydrolase
+NC_007604,1383192,+,-,Synpcc7942_1352,acetyl-CoA synthetase
+NC_007604,1385412,+,-,Synpcc7942_1353,hypothetical protein
+NC_007604,1386587,+,-,Synpcc7942_1354,export protein
+NC_007604,1390898,-,-,Synpcc7942_1355,response regulator receiver modulated diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(s)
+NC_007604,1391350,-,-,Synpcc7942_1356,response regulator receiver domain-containing protein
+NC_007604,1396770,-,-,Synpcc7942_1357,multi-sensor signal transduction histidine kinase
+NC_007604,1398137,-,-,Synpcc7942_1358,hypothetical protein
+NC_007604,1399499,-,-,Synpcc7942_1359,coenzyme F420 hydrogenase
+NC_007604,1399742,+,-,Synpcc7942_1360,cell envelope-related transcriptional attenuator
+NC_007604,1401085,+,-,Synpcc7942_1361,hypothetical protein
+NC_007604,1401589,+,-,Synpcc7942_1362,hypothetical protein
+NC_007604,1402353,+,-,Synpcc7942_1363,hypothetical protein
+NC_007604,1402641,+,-,Synpcc7942_1364,hypothetical protein
+NC_007604,1404060,-,-,Synpcc7942_1365,multiple antibiotic resistance (MarC)-like protein
+NC_007604,1405203,-,-,Synpcc7942_1366,"1,4-dihydroxy-2-naphthoate octaprenyltransferase"
+NC_007604,1405262,+,-,Synpcc7942_1367,cytochrome P450
+NC_007604,1406657,+,-,Synpcc7942_1368,hypothetical protein
+NC_007604,1407202,+,recR,Synpcc7942_1369,recombination protein RecR
+NC_007604,1407963,+,-,Synpcc7942_1370,hypothetical protein
+NC_007604,1409368,-,-,Synpcc7942_1371,magnesium and cobalt transport protein CorA
+NC_007604,1409560,+,-,Synpcc7942_1372,methionine synthase (B12-dependent)
+NC_007604,1414078,-,-,Synpcc7942_1373,hydrogenase accessory protein
+NC_007604,1415932,-,-,Synpcc7942_1374,ribosomal large subunit pseudouridine synthase D
+NC_007604,1416596,-,-,Synpcc7942_1375,hypothetical protein
+NC_007604,1417302,-,-,Synpcc7942_1376,hypothetical protein
+NC_007604,1417513,+,-,Synpcc7942_1377,metal dependent phosphohydrolase
+NC_007604,1421167,-,-,Synpcc7942_1378,hypothetical protein
+NC_007604,1421319,-,-,Synpcc7942_R0048,Leu tRNA
+NC_007604,1421475,+,-,Synpcc7942_1379,acetyl-CoA carboxylase biotin carboxylase subunit
+NC_007604,1422879,+,-,Synpcc7942_1380,sulfate permease
+NC_007604,1424685,+,-,Synpcc7942_1381,ATPase
+NC_007604,1426942,+,-,Synpcc7942_1382,diguanylate cyclase/phosphodiesterase
+NC_007604,1430310,-,-,Synpcc7942_1383,inorganic diphosphatase
+NC_007604,1430438,+,-,Synpcc7942_1384,hypothetical protein
+NC_007604,1431512,-,-,Synpcc7942_1385,hypothetical protein
+NC_007604,1432760,-,-,Synpcc7942_1386,hypothetical protein
+NC_007604,1432853,+,-,Synpcc7942_1387,hypothetical protein
+NC_007604,1433659,+,-,Synpcc7942_1388,carbonate dehydratase
+NC_007604,1435620,-,-,Synpcc7942_1389,photosystem q(b) protein
+NC_007604,1436066,-,-,Synpcc7942_1390,protein kinase C inhibitor
+NC_007604,1436154,+,-,Synpcc7942_1391,Mg chelatase-like protein
+NC_007604,1442061,-,-,Synpcc7942_1392,alkaline phosphatase
+NC_007604,1442504,+,-,Synpcc7942_1393,histone deacetylase/AcuC/AphA family protein-like protein
+NC_007604,1443546,+,-,Synpcc7942_1394,hypothetical protein
+NC_007604,1445306,+,-,Synpcc7942_1395,hypothetical protein
+NC_007604,1446000,-,-,Synpcc7942_1396,hypothetical protein
+NC_007604,1446191,+,-,Synpcc7942_1397,hypothetical protein
+NC_007604,1450069,-,-,Synpcc7942_1398,cellulose synthase
+NC_007604,1451241,-,-,Synpcc7942_1399,hypothetical protein
+NC_007604,1452376,-,-,Synpcc7942_1400,"endo-1,4-beta-xylanase"
+NC_007604,1453106,-,-,Synpcc7942_1401,hypothetical protein
+NC_007604,1453317,+,-,Synpcc7942_1402,hypothetical protein
+NC_007604,1455369,-,-,Synpcc7942_1403,hydroxyacylglutathione hydrolase
+NC_007604,1456084,-,-,Synpcc7942_1404,two component transcriptional regulator
+NC_007604,1456260,+,-,Synpcc7942_1405,hypothetical protein
+NC_007604,1457909,-,-,Synpcc7942_1406,ATPase
+NC_007604,1458051,+,-,Synpcc7942_1407,iron(III) ABC transporter permease
+NC_007604,1459914,+,-,Synpcc7942_1408,membrane-associated protein
+NC_007604,1460847,+,-,Synpcc7942_1409,iron transport system substrate-binding protein
+NC_007604,1463571,-,-,Synpcc7942_1410,2-isopropylmalate synthase
+NC_007604,1464358,-,-,Synpcc7942_1411,hypothetical protein
+NC_007604,1464821,-,-,Synpcc7942_1412,hypothetical protein
+NC_007604,1464941,+,-,Synpcc7942_1413,hypothetical protein
+NC_007604,1466434,-,-,Synpcc7942_1414,ATPase
+NC_007604,1468099,-,-,Synpcc7942_1415,NAD(P)H-quinone oxidoreductase subunit 2
+NC_007604,1468301,+,-,Synpcc7942_1416,DNA topoisomerase I
+NC_007604,1471000,+,-,Synpcc7942_1417,hypothetical protein
+NC_007604,1472186,-,-,Synpcc7942_1418,hypothetical protein
+NC_007604,1472569,+,chlL,Synpcc7942_1419,protochlorophyllide reductase iron-sulfur ATP-binding protein
+NC_007604,1473509,+,-,Synpcc7942_1420,light-independent protochlorophyllide reductase subunit N
+NC_007604,1475065,+,-,Synpcc7942_1421,carboxysome assembly protein
+NC_007604,1475552,+,-,Synpcc7942_1422,carbon dioxide concentrating mechanism protein CcmL
+NC_007604,1476059,+,-,Synpcc7942_1423,carbonate dehydratase
+NC_007604,1477713,+,-,Synpcc7942_1424,carbon dioxide concentrating mechanism protein
+NC_007604,1478240,+,-,Synpcc7942_1425,carbon dioxide concentrating mechanism protein CcmO
+NC_007604,1479352,+,rbcL,Synpcc7942_1426,ribulose bisophosphate carboxylase
+NC_007604,1480965,+,-,Synpcc7942_1427,"ribulose 1,5-bisphosphate carboxylase small subunit"
+NC_007604,1481407,+,-,Synpcc7942_1428,phosphoribosylaminoimidazole carboxylase ATPase subunit
+NC_007604,1483267,-,-,Synpcc7942_1429,hypothetical protein
+NC_007604,1484378,-,-,Synpcc7942_1430,hypothetical protein
+NC_007604,1484549,+,-,Synpcc7942_1431,peptidylprolyl isomerase
+NC_007604,1486710,-,-,Synpcc7942_1432,"bifunctional 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II/unknown domain fusion protein"
+NC_007604,1486983,+,argC,Synpcc7942_1433,N-acetyl-gamma-glutamyl-phosphate reductase
+NC_007604,1488854,-,-,Synpcc7942_1434,hypothetical protein
+NC_007604,1490723,-,-,Synpcc7942_1435,2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+NC_007604,1491205,-,-,Synpcc7942_1436,hypothetical protein
+NC_007604,1491286,+,-,Synpcc7942_1437,hypothetical protein
+NC_007604,1492290,-,-,Synpcc7942_1438,anti-sigma regulatory factor
+NC_007604,1494035,-,-,Synpcc7942_1439,NAD(P)H-quinone oxidoreductase subunit 4
+NC_007604,1495093,-,-,Synpcc7942_1440,homoserine kinase
+NC_007604,1496151,-,cobD,Synpcc7942_1441,cobalamin biosynthesis protein
+NC_007604,1496399,+,-,Synpcc7942_1442,hypothetical protein
+NC_007604,1496904,+,-,Synpcc7942_R0049,Lys tRNA
+NC_007604,1497190,+,-,Synpcc7942_1443,"fructose-1,6-bisphosphate aldolase"
+NC_007604,1498331,+,-,Synpcc7942_1444,hypothetical protein
+NC_007604,1499817,-,-,Synpcc7942_1445,hypothetical protein
+NC_007604,1500342,-,-,Synpcc7942_1446,hypothetical protein
+NC_007604,1500489,+,-,Synpcc7942_1447,carbonate dehydratase
+NC_007604,1501343,+,-,Synpcc7942_1448,quinolinate synthetase
+NC_007604,1503392,-,lpxD,Synpcc7942_1449,UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase
+NC_007604,1503457,+,-,Synpcc7942_1450,ATPase
+NC_007604,1504300,+,-,Synpcc7942_1451,hypothetical protein
+NC_007604,1506194,-,-,Synpcc7942_1452,DNA repair protein RadA
+NC_007604,1506399,+,-,Synpcc7942_1453,two component transcriptional regulator
+NC_007604,1507284,+,-,Synpcc7942_1454,glycerol-3-phosphate acyltransferase PlsX
+NC_007604,1508394,+,-,Synpcc7942_1455,3-oxoacyl-ACP synthase
+NC_007604,1509455,+,-,Synpcc7942_1456,malonyl CoA-ACP transacylase
+NC_007604,1510305,+,-,Synpcc7942_1457,1-acyl-sn-glycerol-3-phosphate acyltransferase
+NC_007604,1511528,-,-,Synpcc7942_1458,hypothetical protein
+NC_007604,1512212,-,-,Synpcc7942_1459,hypothetical protein
+NC_007604,1512578,-,-,Synpcc7942_1460,hypothetical protein
+NC_007604,1513985,-,-,Synpcc7942_1461,thiol oxidoreductase
+NC_007604,1515141,-,-,Synpcc7942_1462,imelysin
+NC_007604,1515338,+,-,Synpcc7942_1463,porin
+NC_007604,1517226,+,-,Synpcc7942_1464,porin
+NC_007604,1518994,+,-,Synpcc7942_1465,BadM/Rrf2 family transcriptional regulator
+NC_007604,1519664,+,-,Synpcc7942_1466,cysteine synthase
+NC_007604,1520674,+,-,Synpcc7942_1467,molecular chaperone DnaJ
+NC_007604,1522141,-,-,Synpcc7942_1468,monovalent cation/H+ antiporter subunit B
+NC_007604,1522719,-,-,Synpcc7942_1469,hypothetical protein
+NC_007604,1523005,-,-,Synpcc7942_1470,hypothetical protein
+NC_007604,1523259,-,-,Synpcc7942_1471,hypothetical protein
+NC_007604,1523642,-,-,Synpcc7942_1472,hypothetical protein
+NC_007604,1525081,-,-,Synpcc7942_1473,monovalent cation/H+ antiporter subunit D
+NC_007604,1525413,-,-,Synpcc7942_1474,monovalent cation/H+ antiporter subunit C
+NC_007604,1526954,-,-,Synpcc7942_1475,sodium-dependent bicarbonate transporter
+NC_007604,1527717,+,-,Synpcc7942_1476,hypothetical protein
+NC_007604,1530337,-,-,Synpcc7942_1477,hypothetical protein
+NC_007604,1530852,-,-,Synpcc7942_1478,cytochrome CytM
+NC_007604,1530927,+,petG,Synpcc7942_1479,cytochrome b6-f complex subunit PetG
+NC_007604,1531748,-,-,Synpcc7942_1480,hypothetical protein
+NC_007604,1532398,-,hisH,Synpcc7942_1481,imidazole glycerol phosphate synthase subunit HisH
+NC_007604,1532605,+,-,Synpcc7942_1482,hypothetical protein
+NC_007604,1534877,-,-,Synpcc7942_1483,hypothetical protein
+NC_007604,1536406,-,murE,Synpcc7942_1484,"UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase"
+NC_007604,1536673,-,-,Synpcc7942_1485,hypothetical protein
+NC_007604,1536916,-,-,Synpcc7942_1486,hypothetical protein
+NC_007604,1536986,+,rpsD,Synpcc7942_1487,30S ribosomal protein S4
+NC_007604,1538545,+,-,Synpcc7942_1488,hypothetical protein
+NC_007604,1539953,+,-,Synpcc7942_1489,nitrate transport permease
+NC_007604,1540818,+,-,Synpcc7942_1490,nitrate transport ATP-binding subunits C and D
+NC_007604,1542834,+,-,Synpcc7942_1491,nitrate transport ATP-binding subunits C and D
+NC_007604,1543923,+,-,Synpcc7942_1492,hypothetical protein
+NC_007604,1544514,+,mazG,Synpcc7942_1493,nucleoside triphosphate pyrophosphohydrolase
+NC_007604,1546095,-,-,Synpcc7942_1494,hypothetical protein
+NC_007604,1546650,-,-,Synpcc7942_1495,hypothetical protein
+NC_007604,1547552,-,-,Synpcc7942_1496,acetylglutamate kinase
+NC_007604,1548105,-,-,Synpcc7942_1497,hypothetical protein
+NC_007604,1548207,+,-,Synpcc7942_1498,hypothetical protein
+NC_007604,1548955,-,-,Synpcc7942_1499,ferredoxin (2Fe-2S)
+NC_007604,1550078,-,prmA,Synpcc7942_1500,ribosomal protein L11 methyltransferase
+NC_007604,1551718,-,-,Synpcc7942_1501,D-3-phosphoglycerate dehydrogenase
+NC_007604,1551702,+,-,Synpcc7942_1502,hypothetical protein
+NC_007604,1552303,+,-,Synpcc7942_1503,RNA-binding S4
+NC_007604,1553312,+,-,Synpcc7942_1504,hypothetical protein
+NC_007604,1556007,-,-,Synpcc7942_1505,3-isopropylmalate dehydrogenase
+NC_007604,1556537,-,-,Synpcc7942_1506,hypothetical protein
+NC_007604,1557246,+,-,Synpcc7942_R0053,Val tRNA
+NC_007604,1558331,-,-,Synpcc7942_1507,lipoyl synthase
+NC_007604,1559209,-,-,Synpcc7942_1508,hypothetical protein
+NC_007604,1559329,+,mnmA,Synpcc7942_1509,tRNA-specific 2-thiouridylase MnmA
+NC_007604,1561178,-,-,Synpcc7942_1510,RNA polymerase sigma factor SigF
+NC_007604,1561943,-,-,Synpcc7942_1511,hypothetical protein
+NC_007604,1563389,-,-,Synpcc7942_1512,zeta-carotene desaturase
+NC_007604,1563532,+,-,Synpcc7942_1513,1-deoxy-D-xylulose 5-phosphate reductoisomerase
+NC_007604,1564744,+,-,Synpcc7942_1514,pseudouridine synthase
+NC_007604,1565350,+,-,Synpcc7942_1515,Ser/Thr phosphatase
+NC_007604,1566971,-,-,Synpcc7942_1516,phosphoglycerate mutase
+NC_007604,1568316,-,-,Synpcc7942_1517,histidine kinase
+NC_007604,1568627,+,-,Synpcc7942_1518,ATP-dependent helicase PcrA
+NC_007604,1572458,-,hisD,Synpcc7942_1519,histidinol dehydrogenase
+NC_007604,1572486,+,rpsT,Synpcc7942_1520,30S ribosomal protein S20
+NC_007604,1572849,+,-,Synpcc7942_1521,Sec-independent protein translocase TatD
+NC_007604,1573729,+,rpoB,Synpcc7942_1522,DNA-directed RNA polymerase subunit beta
+NC_007604,1577150,+,-,Synpcc7942_1523,DNA-directed RNA polymerase subunit gamma
+NC_007604,1579048,+,-,Synpcc7942_1524,DNA-directed RNA polymerase subunit beta'
+NC_007604,1583358,+,-,Synpcc7942_1525,GTP-binding protein TypA
+NC_007604,1585287,+,-,Synpcc7942_1526,hypothetical protein
+NC_007604,1586243,+,-,Synpcc7942_1527,nitrogen assimilation regulatory protein
+NC_007604,1589146,-,-,Synpcc7942_1528,hypothetical protein
+NC_007604,1589204,+,-,Synpcc7942_1529,hypothetical protein
+NC_007604,1590708,-,-,Synpcc7942_1530,molybdenum-pterin binding domain-containing protein
+NC_007604,1590798,+,-,Synpcc7942_1531,molybdenum ABC transporter periplasmic molybdate-binding protein
+NC_007604,1591611,+,-,Synpcc7942_1532,molybdate ABC transporter permease
+NC_007604,1592254,+,-,Synpcc7942_1533,succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+NC_007604,1593215,+,-,Synpcc7942_1534,hypothetical protein
+NC_007604,1595446,+,-,Synpcc7942_1535,Rubisco chaperonin
+NC_007604,1595934,+,-,Synpcc7942_1536,amidotransferase
+NC_007604,1596668,+,-,Synpcc7942_1537,hypothetical protein
+NC_007604,1596968,+,-,Synpcc7942_1538,hypothetical protein
+NC_007604,1597818,-,-,Synpcc7942_1539,hypothetical protein
+NC_007604,1598566,-,-,Synpcc7942_1540,hypothetical protein
+NC_007604,1599334,-,-,Synpcc7942_1541,flavodoxin FldA
+NC_007604,1600381,-,-,Synpcc7942_1542,iron-stress chlorophyll-binding protein
+NC_007604,1600637,+,-,Synpcc7942_1543,ribonuclease II
+NC_007604,1600802,+,-,Synpcc7942_1544,panthotenate metabolism flavoprotein
+NC_007604,1601056,+,-,Synpcc7942_1545,plasmid stabilization protein StbB-like protein
+NC_007604,1601489,+,-,Synpcc7942_1546,ribonuclease II
+NC_007604,1603415,-,-,Synpcc7942_1547,hypothetical protein
+NC_007604,1605768,-,-,Synpcc7942_1548,amidase
+NC_007604,1606129,+,-,Synpcc7942_1549,SOS mutagenesis protein UmuD
+NC_007604,1606746,+,-,Synpcc7942_1550,DNA-directed DNA polymerase
+NC_007604,1608052,+,-,Synpcc7942_1551,hypothetical protein
+NC_007604,1610361,-,-,Synpcc7942_1552,ketol-acid reductoisomerase
+NC_007604,1610364,+,-,Synpcc7942_1553,phosphoesterase PHP-like protein
+NC_007604,1611853,-,-,Synpcc7942_1554,ATP-dependent Clp protease proteolytic subunit
+NC_007604,1611906,+,-,Synpcc7942_1555,Thf1-like protein
+NC_007604,1612842,+,-,Synpcc7942_1556,hypothetical protein
+NC_007604,1614501,-,-,Synpcc7942_1557,principal RNA polymerase sigma factor SigA
+NC_007604,1615204,+,-,Synpcc7942_1558,hypothetical protein
+NC_007604,1616284,+,-,Synpcc7942_1559,hypothetical protein
+NC_007604,1617134,+,-,Synpcc7942_1560,hypothetical protein
+NC_007604,1618726,-,-,Synpcc7942_1561,hypothetical protein
+NC_007604,1619697,-,-,Synpcc7942_1562,ADP-ribosylglycohydrolase-like protein
+NC_007604,1621512,-,-,Synpcc7942_1563,signal transduction inhibitor
+NC_007604,1621903,+,-,Synpcc7942_1564,hypothetical protein
+NC_007604,1622869,-,-,Synpcc7942_R0001,Gly tRNA
+NC_007604,1622970,+,-,Synpcc7942_1565,hypothetical protein
+NC_007604,1623449,+,-,Synpcc7942_1566,polyphosphate kinase
+NC_007604,1626019,-,-,Synpcc7942_1567,ribosomal protein L36
+NC_007604,1626622,-,-,Synpcc7942_1568,hypothetical protein
+NC_007604,1627201,-,-,Synpcc7942_1569,hypothetical protein
+NC_007604,1629449,-,-,Synpcc7942_1570,heavy metal translocating P-type ATPase
+NC_007604,1630063,+,-,Synpcc7942_1571,MIP family channel protein
+NC_007604,1631153,+,-,Synpcc7942_1572,dehydrogenase subunit-like protein
+NC_007604,1632994,+,-,Synpcc7942_1573,3-oxoacyl-ACP reductase
+NC_007604,1633895,+,-,Synpcc7942_1574,glucosidase
+NC_007604,1636580,+,-,Synpcc7942_1575,glycogen debranching protein
+NC_007604,1638668,+,-,Synpcc7942_1576,chloride channel protein
+NC_007604,1642033,-,argS,Synpcc7942_1577,arginyl-tRNA synthetase
+NC_007604,1643011,-,-,Synpcc7942_1578,Sec-independent protein translocase TatC
+NC_007604,1643490,+,-,Synpcc7942_1579,dual specificity protein phosphatase
+NC_007604,1644436,-,-,Synpcc7942_1580,hypothetical protein
+NC_007604,1645142,+,-,Synpcc7942_1581,"peptidase M14, carboxypeptidase A"
+NC_007604,1648211,-,trmE,Synpcc7942_1582,tRNA modification GTPase TrmE
+NC_007604,1648210,+,-,Synpcc7942_1583,hypothetical protein
+NC_007604,1650160,-,-,Synpcc7942_1584,hypothetical protein
+NC_007604,1651199,-,-,Synpcc7942_1585,N-acetylmuramoyl-L-alanine amidase
+NC_007604,1651359,+,-,Synpcc7942_1586,periplasmic sensor signal transduction histidine kinase
+NC_007604,1653172,-,-,Synpcc7942_1587,hypothetical protein
+NC_007604,1655834,-,-,Synpcc7942_1588,hypothetical protein
+NC_007604,1657270,-,-,Synpcc7942_1589,modulator of DNA gyrase
+NC_007604,1658131,-,-,Synpcc7942_1590,hypothetical protein
+NC_007604,1659022,-,-,Synpcc7942_1591,RNA binding S1
+NC_007604,1659119,+,-,Synpcc7942_1592,creatinine amidohydrolase
+NC_007604,1659994,+,-,Synpcc7942_1593,aldehyde decarbonylase
+NC_007604,1660728,+,-,Synpcc7942_1594,acyl-ACP reductase
+NC_007604,1661770,+,-,Synpcc7942_1595,acetyl-CoA carboxylase carboxyltransferase subunit alpha
+NC_007604,1662790,+,-,Synpcc7942_1596,short chain dehydrogenase
+NC_007604,1663611,+,folE,Synpcc7942_1597,GTP cyclohydrolase I
+NC_007604,1664306,+,-,Synpcc7942_1598,phenazine biosynthesis PhzC/PhzF protein
+NC_007604,1665097,+,-,Synpcc7942_1599,hypothetical protein
+NC_007604,1666188,+,-,Synpcc7942_1600,"5',5'''-P-1,P-4-tetraphosphate phosphorylase II-like protein"
+NC_007604,1667231,-,-,Synpcc7942_1601,hypothetical protein
+NC_007604,1667296,+,-,Synpcc7942_1602,"RNA methyltransferase TrmH, group 1"
+NC_007604,1668136,+,-,Synpcc7942_1603,beta-lactamase
+NC_007604,1669273,+,-,Synpcc7942_1604,hypothetical protein
+NC_007604,1671208,-,-,Synpcc7942_1605,hypothetical protein
+NC_007604,1671451,+,-,Synpcc7942_1606,Beta-Ig-H3/fasciclin
+NC_007604,1673679,-,-,Synpcc7942_1607,porin; major outer membrane protein
+NC_007604,1673935,+,-,Synpcc7942_1608,mannose-1-phosphate guanylyltransferase
+NC_007604,1675456,+,-,Synpcc7942_1609,protein splicing (intein) site
+NC_007604,1680389,-,-,Synpcc7942_1610,pyridine nucleotide transhydrogenase subunit beta
+NC_007604,1680682,-,-,Synpcc7942_1611,nicotinamide nucleotide transhydrogenase subunit alpha-like protein
+NC_007604,1681905,-,-,Synpcc7942_1612,pyridine nucleotide transhydrogenase subunit alpha
+NC_007604,1682042,+,-,Synpcc7942_1613,hypothetical protein
+NC_007604,1682665,+,rpmH,Synpcc7942_1614,50S ribosomal protein L34
+NC_007604,1682808,+,rnpA,Synpcc7942_1615,ribonuclease P
+NC_007604,1683163,+,-,Synpcc7942_1616,hypothetical protein
+NC_007604,1683621,+,-,Synpcc7942_1617,inner membrane protein translocase component YidC
+NC_007604,1684927,+,-,Synpcc7942_1618,single-stranded nucleic acid binding R3H
+NC_007604,1685434,+,-,Synpcc7942_1619,metal-binding protein
+NC_007604,1685939,+,-,Synpcc7942_1620,ATPase
+NC_007604,1689152,-,-,Synpcc7942_1621,Elongator protein 3/MiaB/NifB
+NC_007604,1689721,+,-,Synpcc7942_1622,proteinase
+NC_007604,1692265,+,-,Synpcc7942_1623,hypothetical protein
+NC_007604,1693644,-,-,Synpcc7942_1624,riboflavin synthase subunit alpha
+NC_007604,1694921,-,-,Synpcc7942_1625,glycosyltransferase
+NC_007604,1695550,-,-,Synpcc7942_1626,hypothetical protein
+NC_007604,1696924,-,-,Synpcc7942_1627,hypothetical protein
+NC_007604,1697247,+,-,Synpcc7942_1628,hypothetical protein
+NC_007604,1698071,+,-,Synpcc7942_1629,hypothetical protein
+NC_007604,1698933,+,-,Synpcc7942_1630,cytochrome c6
+NC_007604,1699269,+,-,Synpcc7942_1631,TPR repeat-containing protein
+NC_007604,1700169,+,-,Synpcc7942_1632,hypothetical protein
+NC_007604,1701369,+,-,Synpcc7942_1633,hypothetical protein
+NC_007604,1702707,-,-,Synpcc7942_1634,hypothetical protein
+NC_007604,1704469,-,-,Synpcc7942_1635,porin; major outer membrane protein
+NC_007604,1705013,-,phhB,Synpcc7942_1636,pterin-4-alpha-carbinolamine dehydratase
+NC_007604,1706507,-,-,Synpcc7942_1637,photosystem II D2 protein (photosystem q(a) protein)
+NC_007604,1706685,+,-,Synpcc7942_1638,hypothetical protein
+NC_007604,1707135,+,-,Synpcc7942_1639,ATPase
+NC_007604,1707881,+,-,Synpcc7942_1640,hypothetical protein
+NC_007604,1708665,+,-,Synpcc7942_1641,hypothetical protein
+NC_007604,1709180,+,-,Synpcc7942_1642,hypothetical protein
+NC_007604,1710338,+,-,Synpcc7942_1643,GAF sensor-containing diguanylate cyclase
+NC_007604,1712014,+,-,Synpcc7942_1644,hypothetical protein
+NC_007604,1712986,+,rnpB,Synpcc7942_R0036,-
+NC_007604,1713298,+,-,Synpcc7942_1645,RNAse III
+NC_007604,1714315,+,-,Synpcc7942_1646,hypothetical protein
+NC_007604,1715123,+,-,Synpcc7942_1647,hypothetical protein
+NC_007604,1716638,-,-,Synpcc7942_1648,ferric uptake regulator family protein
+NC_007604,1716788,+,-,Synpcc7942_1649,rubrerythrin
+NC_007604,1720946,-,-,Synpcc7942_1650,phosphorylase kinase subunit alpha
+NC_007604,1721058,+,-,Synpcc7942_1651,N-acetylmannosaminyltransferase
+NC_007604,1721792,+,-,Synpcc7942_1652,Elongator protein 3/MiaB/NifB
+NC_007604,1724736,-,gldA,Synpcc7942_1653,glycerol dehydrogenase
+NC_007604,1725232,-,-,Synpcc7942_1654,hypothetical protein
+NC_007604,1725905,-,-,Synpcc7942_1655,hypothetical protein
+NC_007604,1728189,-,-,Synpcc7942_1656,catalase/peroxidase HPI
+NC_007604,1728453,+,-,Synpcc7942_1657,hypothetical protein
+NC_007604,1729246,-,-,Synpcc7942_1658,hypothetical protein
+NC_007604,1729384,+,-,Synpcc7942_1659,nitroreductase
+NC_007604,1730131,+,-,Synpcc7942_1660,potassium channel protein
+NC_007604,1731133,+,-,Synpcc7942_1661,hypothetical protein
+NC_007604,1733247,-,cysS,Synpcc7942_1662,cysteinyl-tRNA synthetase
+NC_007604,1733760,-,-,Synpcc7942_1663,hypothetical protein
+NC_007604,1733790,+,-,Synpcc7942_1664,hypothetical protein
+NC_007604,1733989,+,-,Synpcc7942_1665,oxidoreductase
+NC_007604,1735859,-,-,Synpcc7942_1666,hypothetical protein
+NC_007604,1735965,+,murD,Synpcc7942_1667,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase
+NC_007604,1737882,+,-,Synpcc7942_1668,potassium-transporting ATPase subunit A
+NC_007604,1739595,+,-,Synpcc7942_1669,potassium-transporting ATPase subunit B
+NC_007604,1741687,+,-,Synpcc7942_1670,hypothetical protein
+NC_007604,1741836,+,-,Synpcc7942_1671,potassium-transporting ATPase subunit C
+NC_007604,1742508,+,-,Synpcc7942_1672,M15B family D-Ala-D-Ala carboxypeptidase VanY
+NC_007604,1743854,-,-,Synpcc7942_1673,hypothetical protein
+NC_007604,1744166,-,-,Synpcc7942_1674,hypothetical protein
+NC_007604,1744766,-,-,Synpcc7942_1675,hypothetical protein
+NC_007604,1745469,-,-,Synpcc7942_1676,hypothetical protein
+NC_007604,1746597,-,-,Synpcc7942_1677,hypothetical protein
+NC_007604,1747153,-,-,Synpcc7942_1678,hypothetical protein
+NC_007604,1747252,+,-,Synpcc7942_1679,photosystem II reaction center protein Psb28
+NC_007604,1748900,-,-,Synpcc7942_1680,sulfate transport system permease 1
+NC_007604,1749076,+,-,Synpcc7942_1681,thiosulfate-binding protein
+NC_007604,1750203,+,-,Synpcc7942_1682,sulfate transport system permease 2
+NC_007604,1751063,+,-,Synpcc7942_1683,hypothetical protein
+NC_007604,1751336,+,-,Synpcc7942_1684,Crp/Fnr family transcriptional regulator
+NC_007604,1752002,+,-,Synpcc7942_1685,sulfate transport system permease 2
+NC_007604,1753022,+,-,Synpcc7942_1686,thiosulfate-binding protein
+NC_007604,1754047,+,-,Synpcc7942_1687,Sulfate ABC transporter permease CysT
+NC_007604,1754913,+,-,Synpcc7942_1688,Sulfate ABC transporter permease CysW
+NC_007604,1755915,+,-,Synpcc7942_1689,rhodanese-like protein
+NC_007604,1756898,+,-,Synpcc7942_1690,hypothetical protein
+NC_007604,1757155,+,-,Synpcc7942_1691,hypothetical protein
+NC_007604,1759329,-,-,Synpcc7942_1692,mrr restriction system protein
+NC_007604,1759819,-,-,Synpcc7942_1693,response regulator receiver domain-containing protein
+NC_007604,1759930,+,-,Synpcc7942_1694,DNA topoisomerase IV subunit A
+NC_007604,1762639,+,-,Synpcc7942_1695,hypothetical protein
+NC_007604,1764479,-,-,Synpcc7942_1696,hypothetical protein
+NC_007604,1764892,-,-,Synpcc7942_1697,CDGSH type Zn-finger protein
+NC_007604,1764920,+,-,Synpcc7942_1698,transcriptional regulator
+NC_007604,1766852,-,-,Synpcc7942_1699,MATE efflux family protein
+NC_007604,1767849,-,-,Synpcc7942_1700,GDP-fucose synthetase NAD dependent epimerase/dehydratase
+NC_007604,1767953,+,-,Synpcc7942_1701,hypothetical protein
+NC_007604,1768490,+,-,Synpcc7942_1702,hypothetical protein
+NC_007604,1772017,-,-,Synpcc7942_1703,alpha-mannosidase
+NC_007604,1772024,+,-,Synpcc7942_1704,hypothetical protein
+NC_007604,1772940,+,psbI,Synpcc7942_1705,photosystem II reaction center I protein I
+NC_007604,1773234,+,-,Synpcc7942_1706,hypothetical protein
+NC_007604,1775633,+,-,Synpcc7942_1707,hypothetical protein
+NC_007604,1776199,+,-,Synpcc7942_1708,oligopeptidase A
+NC_007604,1779889,-,-,Synpcc7942_1709,small GTP-binding protein domain-containing protein
+NC_007604,1780048,+,-,Synpcc7942_1710,DNA-directed RNA polymerase subunit omega
+NC_007604,1780275,+,-,Synpcc7942_1711,hypothetical protein
+NC_007604,1780853,+,-,Synpcc7942_1712,hypothetical protein
+NC_007604,1781317,+,-,Synpcc7942_1713,hydrocarbon oxygenase MocD
+NC_007604,1782216,+,-,Synpcc7942_1714,hypothetical protein
+NC_007604,1783903,-,upp,Synpcc7942_1715,uracil phosphoribosyltransferase
+NC_007604,1787655,-,-,Synpcc7942_1716,PAS/PAC sensor-containing diguanylate cyclase/phosphodiesterase
+NC_007604,1789027,-,-,Synpcc7942_1717,glycolate oxidase subunit (Fe-S) protein
+NC_007604,1790305,-,-,Synpcc7942_1718,glycolate oxidase subunit GlcE
+NC_007604,1791796,-,-,Synpcc7942_1719,isocitrate dehydrogenase
+NC_007604,1791952,+,-,Synpcc7942_1720,hypothetical protein
+NC_007604,1793916,-,-,Synpcc7942_1721,PBS lyase
+NC_007604,1795228,-,-,Synpcc7942_1722,thiosulfate-binding protein
+NC_007604,1795482,+,-,Synpcc7942_1723,carotene isomerase
+NC_007604,1797390,-,-,Synpcc7942_1724,hypothetical protein
+NC_007604,1797616,+,-,Synpcc7942_1725,GntR family transcriptional regulator
+NC_007604,1799610,-,lspA,Synpcc7942_1726,lipoprotein signal peptidase
+NC_007604,1800219,-,-,Synpcc7942_1727,BioY protein
+NC_007604,1800372,+,-,Synpcc7942_1728,hypothetical protein
+NC_007604,1800893,+,-,Synpcc7942_1729,potassium-transporting ATPase D chain
+NC_007604,1802050,+,-,Synpcc7942_1730,hypothetical protein
+NC_007604,1803171,-,-,Synpcc7942_1731,hypothetical protein
+NC_007604,1803578,-,-,Synpcc7942_1732,hypothetical protein
+NC_007604,1804288,-,-,Synpcc7942_1733,transcriptional regulator
+NC_007604,1804314,+,-,Synpcc7942_1734,ferredoxin-thioredoxin reductase catalytic chain
+NC_007604,1804805,+,-,Synpcc7942_1735,cysteine desulfurase
+NC_007604,1806245,+,-,Synpcc7942_1736,Iron-regulated ABC transporter ATPase subunit SufC
+NC_007604,1807075,+,-,Synpcc7942_1737,iron ABC transporter permease
+NC_007604,1808413,+,-,Synpcc7942_1738,cysteine desulfurase
+NC_007604,1809717,+,-,Synpcc7942_1739,MerR family transcriptional regulator
+NC_007604,1811088,-,murB,Synpcc7942_1740,UDP-N-acetylenolpyruvoylglucosamine reductase
+NC_007604,1812632,-,murC,Synpcc7942_1741,UDP-N-acetylmuramate--L-alanine ligase
+NC_007604,1812814,+,-,Synpcc7942_1742,glyceraldehyde-3-phosphate dehydrogenase
+NC_007604,1814092,+,-,Synpcc7942_1743,NAD(P)H-quinone oxidoreductase subunit H
+NC_007604,1815423,+,-,Synpcc7942_1744,hypothetical protein
+NC_007604,1816393,-,-,Synpcc7942_1745,hypothetical protein
+NC_007604,1817569,-,-,Synpcc7942_1746,group2 RNA polymerase sigma factor SigB
+NC_007604,1818962,-,-,Synpcc7942_1747,hypothetical protein
+NC_007604,1819751,-,-,Synpcc7942_1748,hypothetical protein
+NC_007604,1820146,-,-,Synpcc7942_1749,ferredoxin
+NC_007604,1820574,-,-,Synpcc7942_1750,hypothetical protein
+NC_007604,1820778,-,-,Synpcc7942_1751,hypothetical protein
+NC_007604,1821770,-,-,Synpcc7942_1752,hypothetical protein
+NC_007604,1822354,-,-,Synpcc7942_1753,hypothetical protein
+NC_007604,1822497,-,-,Synpcc7942_1754,hypothetical protein
+NC_007604,1824227,-,-,Synpcc7942_1755,hypothetical protein
+NC_007604,1824511,-,-,Synpcc7942_1756,hypothetical protein
+NC_007604,1824648,+,-,Synpcc7942_1757,hypothetical protein
+NC_007604,1826267,-,-,Synpcc7942_1758,ribosomal RNA large subunit methyltransferase N
+NC_007604,1826452,-,-,Synpcc7942_1759,CAB/ELIP/HLIP-like protein
+NC_007604,1826528,+,-,Synpcc7942_1760,L-alanine dehydrogenase
+NC_007604,1827800,+,-,Synpcc7942_1761,hypothetical protein
+NC_007604,1829531,+,-,Synpcc7942_1762,hypothetical protein
+NC_007604,1831028,+,-,Synpcc7942_1763,inositol monophosphatase
+NC_007604,1831862,+,-,Synpcc7942_1764,hypothetical protein
+NC_007604,1832958,-,-,Synpcc7942_1765,hypothetical protein
+NC_007604,1834029,-,-,Synpcc7942_1766,cytochrome d ubiquinol oxidase subunit II
+NC_007604,1835490,-,-,Synpcc7942_1767,cytochrome oxidase d subunit I
+NC_007604,1835596,+,-,Synpcc7942_1768,hypothetical protein
+NC_007604,1836408,+,-,Synpcc7942_1769,hypothetical protein
+NC_007604,1837047,-,-,Synpcc7942_1770,hypothetical protein
+NC_007604,1837162,+,-,Synpcc7942_1771,signal recognition particle subunit FFH/SRP54 (srp54)
+NC_007604,1838756,+,rpsP,Synpcc7942_1772,30S ribosomal protein S16
+NC_007604,1839008,+,-,Synpcc7942_1773,hypothetical protein
+NC_007604,1839385,+,rpsU,Synpcc7942_1774,30S ribosomal protein S21
+NC_007604,1839685,+,-,Synpcc7942_1775,phosphate starvation-induced protein
+NC_007604,1840742,+,-,Synpcc7942_1776,hypothetical protein
+NC_007604,1841045,+,-,Synpcc7942_1777,hypothetical protein
+NC_007604,1843869,-,-,Synpcc7942_1778,hypothetical protein
+NC_007604,1843941,+,-,Synpcc7942_1779,DNA repair protein RecN
+NC_007604,1845760,+,mutL,Synpcc7942_1780,DNA mismatch repair protein
+NC_007604,1847808,-,-,Synpcc7942_1781,hypothetical protein
+NC_007604,1849121,-,-,Synpcc7942_1782,threonine synthase
+NC_007604,1849303,+,-,Synpcc7942_1783,hypothetical protein
+NC_007604,1852475,+,-,Synpcc7942_1784,RNA polymerase sigma factor SigF
+NC_007604,1853718,-,-,Synpcc7942_1785,hypothetical protein
+NC_007604,1854250,-,-,Synpcc7942_1786,hypothetical protein
+NC_007604,1854729,-,-,Synpcc7942_1787,SUF system FeS assembly protein
+NC_007604,1855124,+,-,Synpcc7942_1788,hypothetical protein
+NC_007604,1860032,+,-,Synpcc7942_1789,molecular chaperone DnaJ
+NC_007604,1861019,+,-,Synpcc7942_1790,DNA adenine methylase
+NC_007604,1863066,-,-,Synpcc7942_1791,hypothetical protein
+NC_007604,1863290,+,-,Synpcc7942_1792,delta-aminolevulinic acid dehydratase
+NC_007604,1864368,+,-,Synpcc7942_1793,thioredoxin
+NC_007604,1864768,+,-,Synpcc7942_1794,succinyldiaminopimelate transaminase
+NC_007604,1866443,-,smpB,Synpcc7942_1795,SsrA-binding protein
+NC_007604,1866749,-,-,Synpcc7942_1796,hypothetical protein
+NC_007604,1866873,+,-,Synpcc7942_1797,hypothetical protein
+NC_007604,1867864,+,-,Synpcc7942_1798,hypothetical protein
+NC_007604,1868782,+,-,Synpcc7942_1799,hydrogenase expression/formation protein HypE
+NC_007604,1869943,+,-,Synpcc7942_1800,hypothetical protein
+NC_007604,1870692,+,-,Synpcc7942_1801,hypothetical protein
+NC_007604,1873145,-,-,Synpcc7942_1802,response regulator receiver domain-containing protein
+NC_007604,1873782,-,-,Synpcc7942_1803,ferric uptake regulator family protein
+NC_007604,1874397,-,-,Synpcc7942_1804,hypothetical protein
+NC_007604,1875253,-,-,Synpcc7942_1805,HetI protein-like protein
+NC_007604,1875268,+,-,Synpcc7942_1806,bacterioferritin comigratory protein
+NC_007604,1875791,+,-,Synpcc7942_1807,mutator MutT-like protein
+NC_007604,1876959,-,-,Synpcc7942_1808,pantothenate kinase
+NC_007604,1877025,+,-,Synpcc7942_1809,flavoprotein
+NC_007604,1878956,+,-,Synpcc7942_1810,flavoprotein
+NC_007604,1880981,+,-,Synpcc7942_1811,diguanylate cyclase
+NC_007604,1884374,-,-,Synpcc7942_1812,hypothetical protein
+NC_007604,1886350,-,-,Synpcc7942_1813,heat shock protein 90
+NC_007604,1887205,-,-,Synpcc7942_1814,cyclic nucleotide-binding protein
+NC_007604,1888451,-,-,Synpcc7942_1815,response regulator receiver domain-containing protein
+NC_007604,1891377,-,-,Synpcc7942_1816,periplasmic sensor hybrid histidine kinase
+NC_007604,1891788,-,-,Synpcc7942_1817,response regulator receiver domain-containing protein
+NC_007604,1892208,-,-,Synpcc7942_1818,hypothetical protein
+NC_007604,1892346,+,-,Synpcc7942_1819,hypothetical protein
+NC_007604,1893754,-,-,Synpcc7942_1820,hypothetical protein
+NC_007604,1893811,+,-,Synpcc7942_1821,hypothetical protein
+NC_007604,1894269,+,-,Synpcc7942_1822,hypothetical protein
+NC_007604,1895159,-,-,Synpcc7942_1823,PBS lyase
+NC_007604,1895630,-,-,Synpcc7942_1824,hypothetical protein
+NC_007604,1895707,+,-,Synpcc7942_1825,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+NC_007604,1897163,-,-,Synpcc7942_1826,mRNA-binding protein
+NC_007604,1897285,+,-,Synpcc7942_1827,hypothetical protein
+NC_007604,1897914,+,-,Synpcc7942_1828,hypothetical protein
+NC_007604,1898205,+,-,Synpcc7942_1829,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+NC_007604,1899554,-,-,Synpcc7942_1830,thioredoxin
+NC_007604,1901019,-,-,Synpcc7942_1831,inosine 5-monophosphate dehydrogenase
+NC_007604,1901611,-,-,Synpcc7942_1832,hypothetical protein
+NC_007604,1901772,+,-,Synpcc7942_1833,hypothetical protein
+NC_007604,1902530,+,-,Synpcc7942_1834,hypothetical protein
+NC_007604,1903031,+,-,Synpcc7942_1835,hypothetical protein
+NC_007604,1904029,-,-,Synpcc7942_1836,hypothetical protein
+NC_007604,1904430,-,-,Synpcc7942_1837,hypothetical protein
+NC_007604,1905957,-,-,Synpcc7942_1838,light-independent protochlorophyllide reductase subunit B
+NC_007604,1906834,-,-,Synpcc7942_1839,hypothetical protein
+NC_007604,1907426,-,-,Synpcc7942_1840,hypothetical protein
+NC_007604,1908878,-,-,Synpcc7942_1841,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NC_007604,1908945,+,-,Synpcc7942_1842,transposase IS605
+NC_007604,1911034,-,-,Synpcc7942_1843,hypothetical protein
+NC_007604,1911558,-,-,Synpcc7942_1844,7-cyano-7-deazaguanine reductase
+NC_007604,1911652,+,-,Synpcc7942_1845,hypothetical protein
+NC_007604,1913855,-,-,Synpcc7942_1846,hypothetical protein
+NC_007604,1914755,-,-,Synpcc7942_1847,dihydrodipicolinate synthase
+NC_007604,1916038,-,-,Synpcc7942_1848,aspartate-semialdehyde dehydrogenase
+NC_007604,1916613,+,-,Synpcc7942_1849,RNA polymerase sigma factor SigC
+NC_007604,1919099,-,-,Synpcc7942_1850,"precorrin-6Y C5,15-methyltransferase"
+NC_007604,1919185,+,-,Synpcc7942_1851,ferredoxin--nitrite reductase
+NC_007604,1920828,+,cobH,Synpcc7942_1852,precorrin-8X methylmutase
+NC_007604,1921478,+,-,Synpcc7942_1853,cobalt-factor II C20-methyltransferase / precorrin-2 C20-methyltransferase
+NC_007604,1922179,+,-,Synpcc7942_1854,precorrin-3 methyltransferase
+NC_007604,1923883,+,-,Synpcc7942_1855,"cobyrinic acid a,c-diamide synthase"
+NC_007604,1925324,+,-,Synpcc7942_1856,tRNA-adenosine deaminase
+NC_007604,1926701,-,-,Synpcc7942_1857,3-hydroxyacid dehydrogenase
+NC_007604,1926831,+,-,Synpcc7942_1858,Heme oxygenase (decyclizing)
+NC_007604,1927733,+,-,Synpcc7942_1859,PAS/PAC sensor-containing diguanylate cyclase/phosphodiesterase
+NC_007604,1931182,-,-,Synpcc7942_1860,LuxR family transcriptional regulator
+NC_007604,1932605,-,-,Synpcc7942_1861,periplasmic binding protein of ABC transporter for natural amino acids
+NC_007604,1932740,+,-,Synpcc7942_1862,hypothetical protein
+NC_007604,1933701,+,-,Synpcc7942_1863,HemK family modification methylase
+NC_007604,1934588,+,-,Synpcc7942_1864,hypothetical protein
+NC_007604,1935472,+,ppnK,Synpcc7942_1865,inorganic polyphosphate/ATP-NAD kinase
+NC_007604,1936799,-,-,Synpcc7942_1866,hypothetical protein
+NC_007604,1936937,+,-,Synpcc7942_1867,deoxyribodipyrimidine photo-lyase
+NC_007604,1937822,+,-,Synpcc7942_1868,hypothetical protein
+NC_007604,1941534,-,-,Synpcc7942_1869,cation efflux system protein
+NC_007604,1942887,-,-,Synpcc7942_1870,secretion protein HlyD
+NC_007604,1943308,+,-,Synpcc7942_1871,hypothetical protein
+NC_007604,1943951,+,-,Synpcc7942_1872,histidine kinase
+NC_007604,1945396,+,-,Synpcc7942_1873,two component transcriptional regulator
+NC_007604,1946624,-,-,Synpcc7942_1874,"RNA methyltransferase TrmH, group 2"
+NC_007604,1948101,-,-,Synpcc7942_1875,hypothetical protein
+NC_007604,1948583,-,-,Synpcc7942_1876,hypothetical protein
+NC_007604,1950663,-,-,Synpcc7942_1877,transglutaminase-like protein
+NC_007604,1951652,-,-,Synpcc7942_1878,hypothetical protein
+NC_007604,1952587,-,-,Synpcc7942_1879,MoxR protein-like protein
+NC_007604,1952819,+,-,Synpcc7942_1880,hypothetical protein
+NC_007604,1954726,-,-,Synpcc7942_1881,L-aspartate oxidase
+NC_007604,1955289,-,psbU,Synpcc7942_1882,photosystem II complex extrinsic protein U
+NC_007604,1956126,-,-,Synpcc7942_1883,hypothetical protein
+NC_007604,1956647,-,-,Synpcc7942_1884,bifunctional ADP-heptose synthase
+NC_007604,1957411,-,-,Synpcc7942_1885,HAD family hydrolase
+NC_007604,1957417,+,-,Synpcc7942_1886,exonuclease RecJ
+NC_007604,1959524,+,-,Synpcc7942_1887,mannosyltransferase
+NC_007604,1960851,+,-,Synpcc7942_1888,hypothetical protein
+NC_007604,1963582,-,-,Synpcc7942_1889,hypothetical protein
+NC_007604,1963748,+,-,Synpcc7942_1890,hypothetical protein
+NC_007604,1964412,+,-,Synpcc7942_1891,hypothetical protein
+NC_007604,1964969,+,-,Synpcc7942_1892,rhodanese-like protein
+NC_007604,1966530,-,-,Synpcc7942_1893,ATPase
+NC_007604,1967599,-,-,Synpcc7942_1894,integral membrane protein of the ABC-type Nat permease for neutral amino acids
+NC_007604,1967770,+,-,Synpcc7942_1895,hypothetical protein
+NC_007604,1969898,-,argJ,Synpcc7942_1896,bifunctional ornithine acetyltransferase/N-acetylglutamate synthase
+NC_007604,1970821,-,-,Synpcc7942_1897,transcripton factor DevT-like protein
+NC_007604,1972228,-,-,Synpcc7942_1898,isopropylmalate isomerase large subunit
+NC_007604,1972778,-,-,Synpcc7942_1899,hypothetical protein
+NC_007604,1972727,+,dcd,Synpcc7942_1900,deoxycytidine triphosphate deaminase
+NC_007604,1975839,-,-,Synpcc7942_1901,glycosyltransferase
+NC_007604,1976978,-,-,Synpcc7942_1902,glycosyltransferase
+NC_007604,1978128,-,-,Synpcc7942_1903,hypothetical protein
+NC_007604,1979495,-,-,Synpcc7942_1904,hemolysin secretion protein-like protein
+NC_007604,1982498,-,-,Synpcc7942_1905,cyclic nucleotide-binding protein
+NC_007604,1983253,-,-,Synpcc7942_1906,hypothetical protein
+NC_007604,1984493,-,-,Synpcc7942_1907,magnesium-protoporphyrin IX monomethyl ester cyclase
+NC_007604,1985081,-,-,Synpcc7942_1908,hypothetical protein
+NC_007604,1985738,-,-,Synpcc7942_1909,hypothetical protein
+NC_007604,1986379,-,-,Synpcc7942_1910,aromatic acid decarboxylase
+NC_007604,1988637,-,-,Synpcc7942_1911,cold shock protein
+NC_007604,1989639,-,-,Synpcc7942_1912,phosphate uptake regulator PhoU
+NC_007604,1989729,+,psaM,Synpcc7942_1912a,photosystem I reaction center subunit XII
+NC_007604,1989858,+,-,Synpcc7942_1913,hypothetical protein
+NC_007604,1990394,+,-,Synpcc7942_1914,hypothetical protein
+NC_007604,1991412,-,-,Synpcc7942_1915,chorismate mutase
+NC_007604,1992281,-,-,Synpcc7942_1916,signal peptide peptidase A
+NC_007604,1992369,+,-,Synpcc7942_1917,permease of the drug/metabolite transporter
+NC_007604,1993521,+,-,Synpcc7942_1918,UDP-glucose:tetrahydrobiopterin glucosyltransferase
+NC_007604,1995334,-,-,Synpcc7942_1919,XRE family transcriptional regulator
+NC_007604,1998193,-,leuS,Synpcc7942_1920,leucyl-tRNA synthetase
+NC_007604,1998203,+,-,Synpcc7942_1921,hypothetical protein
+NC_007604,1999156,-,-,Synpcc7942_1922,transmembrane transcriptional regulator
+NC_007604,1999999,-,-,Synpcc7942_1923,RNA polymerase sigma factor RpoE
+NC_007604,2000732,-,-,Synpcc7942_1924,hypothetical protein
+NC_007604,2001583,-,-,Synpcc7942_1925,peptidase
+NC_007604,2001940,-,hfq,Synpcc7942_1926,"Hfq, RNA chaperone"
+NC_007604,2001982,+,dapF,Synpcc7942_1927,diaminopimelate epimerase
+NC_007604,2002837,+,-,Synpcc7942_1928,hypothetical protein
+NC_007604,2003133,+,-,Synpcc7942_1929,cysteine desulfurase
+NC_007604,2004305,+,-,Synpcc7942_1930,hypothetical protein
+NC_007604,2005055,+,-,Synpcc7942_1931,serine/threonine protein phosphatase
+NC_007604,2006047,+,-,Synpcc7942_1932,hypothetical protein
+NC_007604,2006589,+,-,Synpcc7942_1933,isopentenyl pyrophosphate isomerase
+NC_007604,2007641,+,-,Synpcc7942_1934,D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase
+NC_007604,2010020,-,-,Synpcc7942_1935,type 4 prepilin peptidase 1. Aspartic peptidase. MEROPS family A24A
+NC_007604,2010268,-,-,Synpcc7942_1936,hypothetical protein
+NC_007604,2011127,-,-,Synpcc7942_1937,peptide methionine sulfoxide reductase
+NC_007604,2012275,-,-,Synpcc7942_1938,multidrug-efflux transporter
+NC_007604,2012363,+,-,Synpcc7942_1939,glyceraldehyde-3-phosphate dehydrogenase
+NC_007604,2013361,+,-,Synpcc7942_1940,membrane transporter
+NC_007604,2014681,+,-,Synpcc7942_1941,hypothetical protein
+NC_007604,2015645,+,-,Synpcc7942_1942,bacterioferritin comigratory protein-like protein
+NC_007604,2018038,-,-,Synpcc7942_1943,cell division protein Ftn2-like protein
+NC_007604,2018373,+,-,Synpcc7942_1944,pyruvate dehydrogenase (lipoamide)
+NC_007604,2021429,-,uvrC,Synpcc7942_1945,excinuclease ABC subunit C
+NC_007604,2021972,-,-,Synpcc7942_1946,hypothetical protein
+NC_007604,2023540,-,-,Synpcc7942_1947,hypothetical protein
+NC_007604,2023694,+,-,Synpcc7942_1948,hypothetical protein
+NC_007604,2024003,+,-,Synpcc7942_1949,hypothetical protein
+NC_007604,2024371,+,-,Synpcc7942_1950,hypothetical protein
+NC_007604,2024732,+,-,Synpcc7942_1951,hypothetical protein
+NC_007604,2025281,+,-,Synpcc7942_R0002,Ser tRNA
+NC_007604,2025366,+,-,Synpcc7942_1952,hypothetical protein
+NC_007604,2026179,-,-,Synpcc7942_1953,6-pyruvoyl tetrahydrobiopterin synthase
+NC_007604,2027870,-,pyrG,Synpcc7942_1954,CTP synthetase
+NC_007604,2027929,+,-,Synpcc7942_1955,hypothetical protein
+NC_007604,2028196,+,-,Synpcc7942_1956,acetyl-CoA carboxylase subunit beta
+NC_007604,2029761,-,-,Synpcc7942_1957,cyclic nucleotide-binding protein
+NC_007604,2030133,-,-,Synpcc7942_1958,hypothetical protein
+NC_007604,2030340,+,-,Synpcc7942_1959,prolyl-tRNA synthetase
+NC_007604,2032696,-,-,Synpcc7942_1960,hypothetical protein
+NC_007604,2032854,+,-,Synpcc7942_1961,ferripyochelin binding protein
+NC_007604,2033433,+,-,Synpcc7942_1962,photosystem II PsbY protein
+NC_007604,2034767,-,-,Synpcc7942_1963,hypothetical protein
+NC_007604,2035713,-,ubiA,Synpcc7942_1964,4-hydroxybenzoate polyprenyltransferase
+NC_007604,2035730,+,-,Synpcc7942_1965,exopolyphosphatase
+NC_007604,2037413,+,-,Synpcc7942_1966,hypothetical protein
+NC_007604,2037772,+,-,Synpcc7942_1967,undecaprenyl pyrophosphate phosphatase
+NC_007604,2038685,+,-,Synpcc7942_1968,hypothetical protein
+NC_007604,2040474,+,-,Synpcc7942_1969,transcriptional regulator AbrB
+NC_007604,2041484,-,-,Synpcc7942_1970,N-acyl-L-amino acid amidohydrolase
+NC_007604,2042239,-,-,Synpcc7942_1971,"peptidase M20D, amidohydrolase"
+NC_007604,2043143,-,-,Synpcc7942_1972,TPR repeat-containing protein
+NC_007604,2044320,-,-,Synpcc7942_1973,mannose-1-phosphate guanylyltransferase
+NC_007604,2045326,-,-,Synpcc7942_1974,condensin subunit ScpA
+NC_007604,2045792,-,-,Synpcc7942_1975,hypothetical protein
+NC_007604,2047397,-,-,Synpcc7942_1976,NAD(P)H-quinone oxidoreductase subunit 4
+NC_007604,2049564,-,-,Synpcc7942_1977,NAD(P)H-quinone oxidoreductase subunit F
+NC_007604,2049980,-,-,Synpcc7942_1978,thioredoxin
+NC_007604,2050736,-,-,Synpcc7942_1979,hypothetical protein
+NC_007604,2050905,+,-,Synpcc7942_1980,LysR family transcriptional regulator
+NC_007604,2052499,-,-,Synpcc7942_1981,hypothetical protein
+NC_007604,2052831,-,-,Synpcc7942_1982,NADH dehydrogenase I subunit M
+NC_007604,2052981,+,-,Synpcc7942_1983,zeta-carotene desaturase / three-step phytoene desaturase
+NC_007604,2054406,+,-,Synpcc7942_1984,phytoene synthase
+NC_007604,2056338,-,-,Synpcc7942_1985,hypothetical protein
+NC_007604,2057788,-,-,Synpcc7942_1986,processing protease
+NC_007604,2057819,+,-,Synpcc7942_1987,hypothetical protein
+NC_007604,2059857,-,-,Synpcc7942_1988,hypothetical protein
+NC_007604,2060864,-,-,Synpcc7942_1989,cation diffusion facilitator family transporter
+NC_007604,2061527,-,-,Synpcc7942_1990,hypothetical protein
+NC_007604,2062321,-,-,Synpcc7942_1991,large conductance mechanosensitive channel protein
+NC_007604,2063434,-,-,Synpcc7942_1992,translation initiation factor 2B subunit I
+NC_007604,2063554,+,-,Synpcc7942_1993,methylthioribulose-1-phosphate dehydratase
+NC_007604,2064180,+,-,Synpcc7942_1994,"2,3-diketo-5-methylthio-1-phosphopentane phosphatase"
+NC_007604,2065564,-,-,Synpcc7942_1995,bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP pyrophosphatase
+NC_007604,2066009,-,-,Synpcc7942_1996,hypothetical protein
+NC_007604,2066370,-,-,Synpcc7942_1997,high light-inducible protein
+NC_007604,2066556,+,-,Synpcc7942_1998,hypothetical protein
+NC_007604,2067830,-,-,Synpcc7942_1999,RNA-binding region RNP-1
+NC_007604,2070180,-,-,Synpcc7942_2000,penicillin-binding protein 1A
+NC_007604,2071166,-,minC,Synpcc7942_2001,septum formation inhibitor
+NC_007604,2071335,+,-,Synpcc7942_2002,hypothetical protein
+NC_007604,2072093,+,-,Synpcc7942_2003,hypothetical protein
+NC_007604,2073028,+,-,Synpcc7942_2004,RNA polymerase sigma factor
+NC_007604,2073628,+,-,Synpcc7942_2005,hypothetical protein
+NC_007604,2075284,-,-,Synpcc7942_2006,hypothetical protein
+NC_007604,2075781,-,coaD,Synpcc7942_2007,phosphopantetheine adenylyltransferase
+NC_007604,2075871,+,-,Synpcc7942_2008,hypothetical protein
+NC_007604,2076365,+,-,Synpcc7942_2009,hypothetical protein
+NC_007604,2080140,-,psbV,Synpcc7942_2010,cytochrome c-550
+NC_007604,2081391,-,-,Synpcc7942_2011,ribonuclease Z
+NC_007604,2081506,+,-,Synpcc7942_2012,stage II sporulation protein D-like protein
+NC_007604,2083253,-,-,Synpcc7942_2013,hypothetical protein
+NC_007604,2083843,-,-,Synpcc7942_2014,hypothetical protein
+NC_007604,2084685,-,-,Synpcc7942_2015,hypothetical protein
+NC_007604,2084941,-,-,Synpcc7942_2016,photosystem II PsbX protein
+NC_007604,2085077,+,-,Synpcc7942_2017,hypothetical protein
+NC_007604,2085523,-,-,Synpcc7942_R0003,Thr tRNA
+NC_007604,2085584,+,-,Synpcc7942_2018,hypothetical protein
+NC_007604,2086762,-,-,Synpcc7942_2019,hypothetical protein
+NC_007604,2090017,-,infB,Synpcc7942_2020,translation initiation factor IF-2
+NC_007604,2090381,-,-,Synpcc7942_2021,hypothetical protein
+NC_007604,2091703,-,nusA,Synpcc7942_2022,transcription elongation factor NusA
+NC_007604,2092267,-,-,Synpcc7942_2023,hypothetical protein
+NC_007604,2093258,-,-,Synpcc7942_2024,hypothetical protein
+NC_007604,2093363,+,-,Synpcc7942_2025,glycosyltransferase
+NC_007604,2094451,+,-,Synpcc7942_2026,glycosyltransferase
+NC_007604,2095857,+,-,Synpcc7942_2027,glycosly transferase
+NC_007604,2096601,+,-,Synpcc7942_2028,glycosyltransferase
+NC_007604,2097799,+,pgi,Synpcc7942_2029,glucose-6-phosphate isomerase
+NC_007604,2100318,-,-,Synpcc7942_2030,phycobilisome rod-core linker polypeptide
+NC_007604,2101004,-,-,Synpcc7942_2031,hypothetical protein
+NC_007604,2101118,+,-,Synpcc7942_2032,multidrug-efflux transporter quinolene resistance protein NorA
+NC_007604,2102330,+,-,Synpcc7942_2033,hypothetical protein
+NC_007604,2103270,+,-,Synpcc7942_2034,hypothetical protein
+NC_007604,2105518,-,-,Synpcc7942_2035,hypothetical protein
+NC_007604,2106526,-,-,Synpcc7942_2036,hypothetical protein
+NC_007604,2107163,-,-,Synpcc7942_2037,hypothetical protein
+NC_007604,2108059,-,-,Synpcc7942_2038,transcriptional regulator
+NC_007604,2109339,-,-,Synpcc7942_2039,hypothetical protein
+NC_007604,2110133,-,-,Synpcc7942_2040,sugar fermentation stimulation protein A
+NC_007604,2110181,+,-,Synpcc7942_2041,integral membrane protein MviN
+NC_007604,2112136,-,-,Synpcc7942_2042,hypothetical protein
+NC_007604,2112672,-,-,Synpcc7942_2043,S-adenosylmethionine decarboxylase proenzyme
+NC_007604,2114044,-,-,Synpcc7942_2044,hypothetical protein
+NC_007604,2117721,-,-,Synpcc7942_2045,condensin subunit Smc
+NC_007604,2118062,+,-,Synpcc7942_2046,glycine cleavage system protein H
+NC_007604,2118502,+,-,Synpcc7942_2047,glycine dehydrogenase
+NC_007604,2123744,-,psaB,Synpcc7942_2048,photosystem I P700 chlorophyll a apoprotein A2
+NC_007604,2126250,-,psaA,Synpcc7942_2049,photosystem I P700 chlorophyll a apoprotein A1
+NC_007604,2126401,+,-,Synpcc7942_2050,hypothetical protein
+NC_007604,2129303,-,-,Synpcc7942_2051,hypothetical protein
+NC_007604,2130186,-,-,Synpcc7942_2052,oligopeptides ABC transporter permease
+NC_007604,2130328,+,-,Synpcc7942_2053,peptidase
+NC_007604,2133197,-,-,Synpcc7942_2054,hypothetical protein
+NC_007604,2133299,+,-,Synpcc7942_2055,2-octaprenyl-6-methoxyphenyl hydroxylase
+NC_007604,2134608,+,-,Synpcc7942_2056,hypothetical protein
+NC_007604,2135019,+,-,Synpcc7942_2057,membrane protein
+NC_007604,2136561,-,-,Synpcc7942_2058,pyrroline-5-carboxylate reductase
+NC_007604,2137306,-,-,Synpcc7942_2059,hypothetical protein
+NC_007604,2138169,-,-,Synpcc7942_2060,hypothetical protein
+NC_007604,2138476,-,-,Synpcc7942_2061,hypothetical protein
+NC_007604,2139820,-,-,Synpcc7942_2062,lycopene cyclase (CrtL-type)
+NC_007604,2140667,-,surE,Synpcc7942_2063,stationary phase survival protein SurE
+NC_007604,2140803,+,pheS,Synpcc7942_2064,phenylalanyl-tRNA synthetase subunit alpha
+NC_007604,2142182,-,-,Synpcc7942_2065,hypothetical protein
+NC_007604,2143310,-,-,Synpcc7942_2066,tRNA-dihydrouridine synthase A
+NC_007604,2143337,+,-,Synpcc7942_2067,hypothetical protein
+NC_007604,2145108,-,-,Synpcc7942_2068,hypothetical protein
+NC_007604,2146341,-,pilC,Synpcc7942_2069,fimbrial assembly protein PilC-like protein
+NC_007604,2147454,-,pilT,Synpcc7942_2070,twitching motility protein
+NC_007604,2149546,-,pilB,Synpcc7942_2071,"pilB, ATPase"
+NC_007604,2149698,+,-,Synpcc7942_2072,heat shock protein GrpE
+NC_007604,2150516,+,-,Synpcc7942_2073,molecular chaperone DnaK
+NC_007604,2152639,+,-,Synpcc7942_2074,molecular chaperone DnaJ
+NC_007604,2153766,+,-,Synpcc7942_2075,hypothetical protein
+NC_007604,2154014,+,-,Synpcc7942_2076,ribosome-associated GTPase
+NC_007604,2155133,+,-,Synpcc7942_2077,hypothetical protein
+NC_007604,2156565,-,-,Synpcc7942_2078,phosphoglycerate mutase
+NC_007604,2157782,-,-,Synpcc7942_2079,acetate kinase
+NC_007604,2157991,+,-,Synpcc7942_2080,phosphoketolase
+NC_007604,2161554,-,-,Synpcc7942_2081,glycosyl transferase
+NC_007604,2163595,-,-,Synpcc7942_2082,elongation factor G
+NC_007604,2163925,+,-,Synpcc7942_2083,multiple antibiotic resistance (MarC)-like protein
+NC_007604,2165670,-,-,Synpcc7942_2084,bacteriochlorophyll/chlorophyll a synthase
+NC_007604,2166759,-,-,Synpcc7942_2085,anion transporting ATPase
+NC_007604,2166991,-,-,Synpcc7942_2086,hypothetical protein
+NC_007604,2167149,+,-,Synpcc7942_2087,imidazole glycerol phosphate synthase subunit HisF
+NC_007604,2168002,+,-,Synpcc7942_2088,hypothetical protein
+NC_007604,2169598,-,-,Synpcc7942_2089,thioredoxin
+NC_007604,2169842,+,-,Synpcc7942_2090,homoserine dehydrogenase
+NC_007604,2171430,+,-,Synpcc7942_2091,NAD(P)H-quinone oxidoreductase subunit F
+NC_007604,2173280,+,-,Synpcc7942_2092,proton-translocating NADH-quinone oxidoreductase subunit M
+NC_007604,2174870,+,-,Synpcc7942_2093,CO2 hydration protein
+NC_007604,2176209,+,-,Synpcc7942_2094,Beta-Ig-H3/fasciclin
+NC_007604,2176855,+,-,Synpcc7942_2095,hypothetical protein
+NC_007604,2177442,+,-,Synpcc7942_2096,GAF sensor-containing diguanylate cyclase
+NC_007604,2180391,-,-,Synpcc7942_2097,hypothetical protein
+NC_007604,2180457,+,-,Synpcc7942_2098,"dTDP-4-dehydrorhamnose 3,5-epimerase"
+NC_007604,2181005,+,-,Synpcc7942_2099,dTDP-4-dehydrorhamnose reductase
+NC_007604,2181871,+,-,Synpcc7942_2100,"dTDP-glucose 4,6-dehydratase"
+NC_007604,2182941,+,-,Synpcc7942_2101,glucose-1-phosphate thymidylyltransferase
+NC_007604,2183837,+,-,Synpcc7942_2102,NAD-reducing hydrogenase gamma
+NC_007604,2184523,-,-,Synpcc7942_2103,hypothetical protein
+NC_007604,2185190,-,-,Synpcc7942_2104,cyanate hydratase
+NC_007604,2186060,-,-,Synpcc7942_2105,nitrate transport ATP-binding subunits C and D
+NC_007604,2186855,-,-,Synpcc7942_2106,nitrate transport permease
+NC_007604,2188454,-,-,Synpcc7942_2107,ABC-type nitrate/sulfonate/bicarbonate transport systems periplasmic components-like protein
+NC_007604,2188718,+,-,Synpcc7942_2108,hypothetical protein
+NC_007604,2189141,+,-,Synpcc7942_2109,ATPase
+NC_007604,2191900,-,fmt,Synpcc7942_2110,methionyl-tRNA formyltransferase
+NC_007604,2192025,+,-,Synpcc7942_2111,xylose repressor
+NC_007604,2193502,-,-,Synpcc7942_2112,hypothetical protein
+NC_007604,2193730,+,-,Synpcc7942_2113,ribose-phosphate pyrophosphokinase
+NC_007604,2194827,+,-,Synpcc7942_2114,adaptive-response sensory kinase
+NC_007604,2196083,+,-,Synpcc7942_R0007,Glu tRNA
+NC_007604,2197128,-,-,Synpcc7942_2115,hypothetical protein
+NC_007604,2198150,-,-,Synpcc7942_2116,hypothetical protein
+NC_007604,2199642,-,gatA,Synpcc7942_2117,aspartyl/glutamyl-tRNA amidotransferase subunit A
+NC_007604,2199981,-,-,Synpcc7942_2118,hypothetical protein
+NC_007604,2201697,-,-,Synpcc7942_2119,"RNA methyltransferase TrmH, group 3"
+NC_007604,2202116,-,-,Synpcc7942_2120,ribonuclease III
+NC_007604,2202509,-,-,Synpcc7942_2121,"anti-anti-sigma regulatory factor, SpoIIAA"
+NC_007604,2203735,-,-,Synpcc7942_2122,carbamoyl phosphate synthase small subunit
+NC_007604,2204847,-,trpD,Synpcc7942_2123,anthranilate phosphoribosyltransferase
+NC_007604,2205879,-,-,Synpcc7942_2124,acetylpolyamine aminohydolase
+NC_007604,2206002,+,-,Synpcc7942_2125,hypothetical protein
+NC_007604,2206804,-,-,Synpcc7942_2126,hypothetical protein
+NC_007604,2207155,+,-,Synpcc7942_2127,phycobilisome degradation protein NblA
+NC_007604,2208081,-,-,Synpcc7942_2128,thioredoxin
+NC_007604,2208084,+,-,Synpcc7942_2129,iron-sulfur cluster binding protein
+NC_007604,2208559,+,-,Synpcc7942_2130,hypothetical protein
+NC_007604,2211255,-,-,Synpcc7942_2131,soluble lytic transglycosylase
+NC_007604,2211380,+,glmM,Synpcc7942_2132,phosphoglucosamine mutase
+NC_007604,2213523,-,-,Synpcc7942_2133,hypothetical protein
+NC_007604,2214708,-,-,Synpcc7942_2134,cell wall hydrolase/autolysin
+NC_007604,2215465,-,-,Synpcc7942_2135,hypothetical protein
+NC_007604,2216287,-,-,Synpcc7942_2136,dihydrodipicolinate reductase
+NC_007604,2216564,+,-,Synpcc7942_2137,magnesium chelatase subunit H
+NC_007604,2221848,+,-,Synpcc7942_2138,hypothetical protein
+NC_007604,2223602,+,-,Synpcc7942_2139,glutathione S-transferase
+NC_007604,2224311,+,-,Synpcc7942_2140,cytidine deaminase
+NC_007604,2226031,+,-,Synpcc7942_2141,hypothetical protein
+NC_007604,2226803,-,-,Synpcc7942_2142,translation initiation factor Sui1
+NC_007604,2226908,+,-,Synpcc7942_2143,tryptophan synthase subunit beta
+NC_007604,2229022,-,-,Synpcc7942_2144,nuclease
+NC_007604,2229910,-,-,Synpcc7942_2145,hypothetical protein
+NC_007604,2230009,+,-,Synpcc7942_2146,hypothetical protein
+NC_007604,2230316,+,-,Synpcc7942_2147,hypothetical protein
+NC_007604,2230823,+,-,Synpcc7942_2148,ATPase
+NC_007604,2231846,+,-,Synpcc7942_2149,ABC-2 type transport system permease
+NC_007604,2232922,+,-,Synpcc7942_2150,penicillin V acylase
+NC_007604,2236354,-,-,Synpcc7942_2151,cellulose synthase
+NC_007604,2237643,-,-,Synpcc7942_2152,hypothetical protein
+NC_007604,2237948,+,-,Synpcc7942_2153,hypothetical protein
+NC_007604,2238732,-,-,Synpcc7942_2154,hypothetical protein
+NC_007604,2239176,-,-,Synpcc7942_2155,hypothetical protein
+NC_007604,2240732,-,-,Synpcc7942_2156,L-glutamine synthetase
+NC_007604,2241084,-,-,Synpcc7942_2157,hypothetical protein
+NC_007604,2241105,+,-,Synpcc7942_2158,allophycocyanin subunit beta
+NC_007604,2241719,+,-,Synpcc7942_2159,hypothetical protein
+NC_007604,2242713,+,-,Synpcc7942_2160,alanine-glyoxylate aminotransferase
+NC_007604,2243880,+,-,Synpcc7942_2161,hypothetical protein
+NC_007604,2244940,-,-,Synpcc7942_2162,hypothetical protein
+NC_007604,2245037,+,-,Synpcc7942_2163,hypothetical protein
+NC_007604,2245607,+,-,Synpcc7942_2164,cell death suppressor protein Lls1-like protein
+NC_007604,2247369,-,-,Synpcc7942_2165,hypothetical protein
+NC_007604,2247857,-,-,Synpcc7942_2166,hypothetical protein
+NC_007604,2248468,-,-,Synpcc7942_2167,hypothetical protein
+NC_007604,2248681,+,-,Synpcc7942_2168,ATP-dependent DNA helicase Rep
+NC_007604,2251483,-,-,Synpcc7942_2169,hypothetical protein
+NC_007604,2251548,+,-,Synpcc7942_2170,ferric uptake regulator family protein
+NC_007604,2252731,-,-,Synpcc7942_2171,starvation induced DNA binding protein
+NC_007604,2252095,+,-,Synpcc7942_2172,hypothetical protein
+NC_007604,2253218,+,-,Synpcc7942_2173,hypothetical protein
+NC_007604,2253779,+,-,Synpcc7942_2174,Crp/Fnr family transcriptional regulator
+NC_007604,2255847,-,-,Synpcc7942_2175,transport system substrate-binding protein
+NC_007604,2257096,-,-,Synpcc7942_2176,hypothetical protein
+NC_007604,2257143,+,-,Synpcc7942_2177,integral membrane protein of the ABC-type Nat permease for neutral amino acids NatD
+NC_007604,2258395,-,-,Synpcc7942_2178,hypothetical protein
+NC_007604,2259359,-,-,Synpcc7942_2179,lipid kinase
+NC_007604,2259927,-,-,Synpcc7942_2180,bacterioferritin comigratory protein
+NC_007604,2261191,-,-,Synpcc7942_2181,hypothetical protein
+NC_007604,2261433,-,-,Synpcc7942_2182,hypothetical protein
+NC_007604,2262335,-,-,Synpcc7942_2183,RNase HI
+NC_007604,2262518,+,-,Synpcc7942_2184,hypothetical protein
+NC_007604,2263335,+,-,Synpcc7942_2185,hypothetical protein
+NC_007604,2264073,+,-,Synpcc7942_2186,Na+/H+-exchanging protein
+NC_007604,2266130,-,-,Synpcc7942_2187,hypothetical protein
+NC_007604,2267534,-,-,Synpcc7942_2188,isochorismate synthase
+NC_007604,2267619,+,-,Synpcc7942_2189,hypothetical protein
+NC_007604,2267883,+,-,Synpcc7942_2190,methionine sulfoxide reductase B
+NC_007604,2269154,-,-,Synpcc7942_2191,hypothetical protein
+NC_007604,2269294,+,-,Synpcc7942_2192,diguanylate cyclase
+NC_007604,2272655,-,-,Synpcc7942_2193,metal dependent phosphohydrolase
+NC_007604,2273002,-,-,Synpcc7942_2194,hypothetical protein
+NC_007604,2274900,-,-,Synpcc7942_2195,adenylate/guanylate cyclase
+NC_007604,2275545,-,-,Synpcc7942_2196,hypothetical protein
+NC_007604,2275683,+,-,Synpcc7942_2197,gamma-glutamyl kinase
+NC_007604,2276800,+,-,Synpcc7942_2198,hypothetical protein
+NC_007604,2280528,-,-,Synpcc7942_2199,DNA polymerase III subunit alpha
+NC_007604,2281199,-,-,Synpcc7942_2200,hypothetical protein
+NC_007604,2281288,-,-,Synpcc7942_R0008,Ser tRNA
+NC_007604,2282547,-,alr,Synpcc7942_2201,alanine racemase
+NC_007604,2282672,+,-,Synpcc7942_2202,HNH nuclease
+NC_007604,2284289,-,prfA,Synpcc7942_2203,peptide chain release factor 1
+NC_007604,2284645,-,rpmE,Synpcc7942_2204,50S ribosomal protein L31
+NC_007604,2285062,-,rpsI,Synpcc7942_2205,30S ribosomal protein S9
+NC_007604,2285517,-,rplM,Synpcc7942_2206,50S ribosomal protein L13
+NC_007604,2286417,-,truA,Synpcc7942_2207,tRNA pseudouridine synthase A
+NC_007604,2286805,-,rplQ,Synpcc7942_2208,50S ribosomal protein L17
+NC_007604,2287780,-,-,Synpcc7942_2209,DNA-directed RNA polymerase subunit alpha
+NC_007604,2288242,-,-,Synpcc7942_2210,30S ribosomal protein S11
+NC_007604,2288620,-,rpsM,Synpcc7942_2211,30S ribosomal protein S13
+NC_007604,2288888,-,rpmJ,Synpcc7942_2212,50S ribosomal protein L36
+NC_007604,2289522,-,adk,Synpcc7942_2213,adenylate kinase
+NC_007604,2290927,-,secY,Synpcc7942_2214,preprotein translocase subunit SecY
+NC_007604,2291407,-,rplO,Synpcc7942_2215,50S ribosomal protein L15
+NC_007604,2291989,-,rpsE,Synpcc7942_2216,30S ribosomal protein S5
+NC_007604,2292352,-,rplR,Synpcc7942_2217,50S ribosomal protein L18
+NC_007604,2292927,-,rplF,Synpcc7942_2218,50S ribosomal protein L6
+NC_007604,2293329,-,rpsH,Synpcc7942_2219,30S ribosomal protein S8
+NC_007604,2293938,-,rplE,Synpcc7942_2220,50S ribosomal protein L5
+NC_007604,2294280,-,rplX,Synpcc7942_2221,50S ribosomal protein L24
+NC_007604,2294645,-,rplN,Synpcc7942_2222,50S ribosomal protein L14
+NC_007604,2294918,-,rpsQ,Synpcc7942_2223,30S ribosomal protein S17
+NC_007604,2295134,-,-,Synpcc7942_2224,50S ribosomal protein L29
+NC_007604,2295573,-,rplP,Synpcc7942_2225,50S ribosomal protein L16
+NC_007604,2296308,-,rpsC,Synpcc7942_2226,30S ribosomal protein S3
+NC_007604,2296686,-,rplV,Synpcc7942_2227,50S ribosomal protein L22
+NC_007604,2297008,-,rpsS,Synpcc7942_2228,30S ribosomal protein S19
+NC_007604,2297875,-,rplB,Synpcc7942_2229,50S ribosomal protein L2
+NC_007604,2298207,-,rplW,Synpcc7942_2230,50S ribosomal protein L23
+NC_007604,2298832,-,rplD,Synpcc7942_2231,50S ribosomal protein L4
+NC_007604,2299788,-,rplC,Synpcc7942_2232,50S ribosomal protein L3
+NC_007604,2300113,-,-,Synpcc7942_2233,hypothetical protein
+NC_007604,2299964,+,-,Synpcc7942_2234,NADH dehydrogenase I subunit N
+NC_007604,2300665,+,trmD,Synpcc7942_2235,tRNA (guanine-N(1)-)-methyltransferase
+NC_007604,2303044,-,-,Synpcc7942_2236,ATPase
+NC_007604,2303487,-,-,Synpcc7942_2237,hypothetical protein
+NC_007604,2305044,-,-,Synpcc7942_2238,glucose transport protein
+NC_007604,2305791,-,-,Synpcc7942_2239,hypothetical protein
+NC_007604,2305961,+,-,Synpcc7942_2240,hypothetical protein
+NC_007604,2306546,+,-,Synpcc7942_2241,hypothetical protein
+NC_007604,2308246,-,-,Synpcc7942_2242,histidine kinase
+NC_007604,2309497,-,-,Synpcc7942_2243,glutamate-5-semialdehyde dehydrogenase
+NC_007604,2309726,-,-,Synpcc7942_R0009,Gly tRNA
+NC_007604,2310334,-,ribH,Synpcc7942_2244,"6,7-dimethyl-8-ribityllumazine synthase"
+NC_007604,2310629,-,psbZ,Synpcc7942_2245,photosystem II reaction center protein Z
+NC_007604,2310738,+,-,Synpcc7942_2246,hypothetical protein
+NC_007604,2312310,+,-,Synpcc7942_2247,DNA mismatch repair protein MutS
+NC_007604,2315727,-,-,Synpcc7942_2248,nucleoid protein Hbs
+NC_007604,2316487,-,-,Synpcc7942_2249,S-adenosylmethionine decarboxylase proenzyme
+NC_007604,2318238,-,recF,Synpcc7942_2250,recombination protein F
+NC_007604,2318309,+,-,Synpcc7942_R0010,Arg tRNA
+NC_007604,2318919,-,-,Synpcc7942_2251,hypothetical protein
+NC_007604,2321980,-,-,Synpcc7942_2252,phosphoenolpyruvate carboxylase
+NC_007604,2323352,-,-,Synpcc7942_2253,glutamate--cysteine ligase
+NC_007604,2324842,-,-,Synpcc7942_2254,hypothetical protein
+NC_007604,2325519,+,-,Synpcc7942_2255,hypothetical protein
+NC_007604,2326615,-,-,Synpcc7942_2256,hypothetical protein
+NC_007604,2326832,-,-,Synpcc7942_2257,hypothetical protein
+NC_007604,2327013,+,avtA,Synpcc7942_2258,valine--pyruvate transaminase
+NC_007604,2328297,+,rimM,Synpcc7942_2259,16S rRNA-processing protein RimM
+NC_007604,2329448,-,-,Synpcc7942_2260,hypothetical protein
+NC_007604,2329790,-,-,Synpcc7942_2261,periplasmic divalent cation tolerance protein
+NC_007604,2331199,-,-,Synpcc7942_2262,hypothetical protein
+NC_007604,2332541,-,hisS,Synpcc7942_2263,histidyl-tRNA synthetase
+NC_007604,2332929,-,-,Synpcc7942_2264,LuxR family transcriptional regulator
+NC_007604,2333329,+,proA,Synpcc7942_2265,gamma-glutamyl phosphate reductase
+NC_007604,2335718,-,-,Synpcc7942_2266,periplasmic polyamine-binding protein of ABC transporter
+NC_007604,2335846,+,-,Synpcc7942_2267,hypothetical protein
+NC_007604,2337217,-,-,Synpcc7942_2268,hypothetical protein
+NC_007604,2337944,-,-,Synpcc7942_2269,hypothetical protein
+NC_007604,2339007,-,-,Synpcc7942_2270,glucanase
+NC_007604,2339596,-,-,Synpcc7942_2271,ADP-ribose pyrophosphatase
+NC_007604,2340126,-,-,Synpcc7942_2272,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+NC_007604,2340153,+,-,Synpcc7942_2273,hypothetical protein
+NC_007604,2340963,+,-,Synpcc7942_2274,protoporphyrin IX magnesium-chelatase
+NC_007604,2343582,+,-,Synpcc7942_R0011,Arg tRNA
+NC_007604,2343631,+,-,Synpcc7942_2275,hypothetical protein
+NC_007604,2344334,-,-,Synpcc7942_2276,hypothetical protein
+NC_007604,2344899,-,-,Synpcc7942_2277,hypothetical protein
+NC_007604,2345093,+,-,Synpcc7942_2278,hypothetical protein
+NC_007604,2347594,+,-,Synpcc7942_2279,ammonium transporter
+NC_007604,2350167,-,-,Synpcc7942_2280,TPR repeat-containing protein
+NC_007604,2350198,+,-,Synpcc7942_2281,hypothetical protein
+NC_007604,2353015,-,-,Synpcc7942_2282,GAF sensor signal transduction histidine kinase
+NC_007604,2353111,+,-,Synpcc7942_2283,hypothetical protein
+NC_007604,2354772,-,-,Synpcc7942_2284,"2-hydroxy-6-oxohepta-2,4-dienoate hydrolase"
+NC_007604,2355848,-,-,Synpcc7942_2285,glycerol dehydrogenase
+NC_007604,2357059,-,-,Synpcc7942_2286,hypothetical protein
+NC_007604,2358142,-,-,Synpcc7942_2287,hypothetical protein
+NC_007604,2358698,-,-,Synpcc7942_2288,phosphatase kdsC
+NC_007604,2359549,-,-,Synpcc7942_2289,2-dehydro-3-deoxyphosphooctonate aldolase
+NC_007604,2360265,-,-,Synpcc7942_2290,3-deoxy-manno-octulosonate cytidylyltransferase
+NC_007604,2361251,-,-,Synpcc7942_2291,KpsF/GutQ family protein
+NC_007604,2361401,+,-,Synpcc7942_2292,hypothetical protein
+NC_007604,2363670,+,-,Synpcc7942_2293,hypothetical protein
+NC_007604,2364152,+,-,Synpcc7942_2294,hypothetical protein
+NC_007604,2364988,+,-,Synpcc7942_2295,hypothetical protein
+NC_007604,2367376,-,-,Synpcc7942_2296,L-glutamine synthetase
+NC_007604,2368721,-,-,Synpcc7942_2297,transaldolase/EF-hand domain-containing protein
+NC_007604,2368966,+,ruvA,Synpcc7942_2298,Holliday junction DNA helicase RuvA
+NC_007604,2369635,+,rpsO,Synpcc7942_2299,30S ribosomal protein S15
+NC_007604,2369910,+,-,Synpcc7942_2300,hypothetical protein
+NC_007604,2370542,+,-,Synpcc7942_2301,hypothetical protein
+NC_007604,2371247,-,-,Synpcc7942_2302,hypothetical protein
+NC_007604,2371417,+,-,Synpcc7942_2303,dihydropteroate synthase
+NC_007604,2372353,+,ppnK,Synpcc7942_2304,inorganic polyphosphate/ATP-NAD kinase
+NC_007604,2373308,+,-,Synpcc7942_2305,two component transcriptional regulator
+NC_007604,2374134,+,-,Synpcc7942_2306,molecular chaperone DnaJ
+NC_007604,2374725,+,-,Synpcc7942_2307,hypothetical protein
+NC_007604,2375865,+,gcvT,Synpcc7942_2308,glycine cleavage system aminomethyltransferase T
+NC_007604,2377715,-,-,Synpcc7942_2309,thioredoxin peroxidase
+NC_007604,2379247,-,-,Synpcc7942_2310,"L-2,4-diaminobutyrate decarboxylase"
+NC_007604,2379533,-,-,Synpcc7942_R0012,Arg tRNA
+NC_007604,2380381,-,-,Synpcc7942_2311,hypothetical protein
+NC_007604,2380457,+,-,Synpcc7942_2312,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+NC_007604,2383248,-,groEL,Synpcc7942_2313,molecular chaperone GroEL
+NC_007604,2383631,-,groES,Synpcc7942_2314,co-chaperonin GroES
+NC_007604,2383855,+,-,Synpcc7942_2315,ATP synthase F0F1 subunit beta
+NC_007604,2385395,+,atpC,Synpcc7942_2316,ATP synthase F0F1 subunit epsilon
+NC_007604,2388576,-,-,Synpcc7942_2317,heavy metal translocating P-type ATPase
+NC_007604,2388749,+,-,Synpcc7942_2318,hypothetical protein
+NC_007604,2389409,+,-,Synpcc7942_2319,XRE family transcriptional regulator
+NC_007604,2389796,+,-,Synpcc7942_2320,hypothetical protein
+NC_007604,2390121,+,-,Synpcc7942_2321,photosystem I assembly protein Ycf3
+NC_007604,2390654,+,-,Synpcc7942_2322,aspartyl/glutamyl-tRNA amidotransferase subunit C
+NC_007604,2391109,+,-,Synpcc7942_2323,glutaredoxin GrxC
+NC_007604,2391369,+,-,Synpcc7942_2324,glutathione synthetase
+NC_007604,2393094,-,-,Synpcc7942_2325,PBS lyase
+NC_007604,2393509,+,-,Synpcc7942_2326,hypothetical protein
+NC_007604,2394768,-,-,Synpcc7942_2327,hypothetical protein
+NC_007604,2394836,+,-,Synpcc7942_2328,TPR repeat-containing protein
+NC_007604,2397198,-,-,Synpcc7942_2329,metal dependent phosphohydrolase
+NC_007604,2398428,-,-,Synpcc7942_2330,C-terminal processing peptidase-2
+NC_007604,2398625,+,-,Synpcc7942_2331,cytochrome b6
+NC_007604,2399273,+,-,Synpcc7942_2332,cytochrome b6-f complex subunit IV
+NC_007604,2401338,-,-,Synpcc7942_2333,opcA protein
+NC_007604,2402920,-,-,Synpcc7942_2334,glucose-6-phosphate 1-dehydrogenase
+NC_007604,2404199,-,-,Synpcc7942_2335,"fructose-1,6-bisphosphatase"
+NC_007604,2404389,-,-,Synpcc7942_2336,hypothetical protein
+NC_007604,2405550,-,-,Synpcc7942_2337,N-acetylmuramoyl-L-alanine amidase
+NC_007604,2405849,+,-,Synpcc7942_2338,hypothetical protein
+NC_007604,2406813,+,-,Synpcc7942_2339,bifunctional ADP-heptose synthase
+NC_007604,2407881,+,engA,Synpcc7942_2340,GTP-binding protein EngA
+NC_007604,2409252,+,-,Synpcc7942_2341,cobalt transport system permease
+NC_007604,2411022,-,-,Synpcc7942_2342,photosystem I reaction center protein subunit XI
+NC_007604,2411139,-,psaI,Synpcc7942_2343,photosystem I reaction center subunit VIII
+NC_007604,2411499,+,-,Synpcc7942_2344,hypothetical protein
+NC_007604,2413211,-,-,Synpcc7942_2345,hypothetical protein
+NC_007604,2413356,+,-,Synpcc7942_2346,HAD family hydrolase
+NC_007604,2415214,-,-,Synpcc7942_2347,hypothetical protein
+NC_007604,2415233,+,queA,Synpcc7942_2348,S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NC_007604,2416387,+,-,Synpcc7942_2349,twitching motility protein
+NC_007604,2418477,-,-,Synpcc7942_2350,translation factor SUA5
+NC_007604,2418310,+,-,Synpcc7942_2351,hypothetical protein
+NC_007604,2420198,-,-,Synpcc7942_2352,sigma 54 modulation protein / SSU ribosomal protein S30P
+NC_007604,2420388,+,lipB,Synpcc7942_2353,lipoyltransferase
+NC_007604,2421733,-,-,Synpcc7942_2354,peptidylprolyl isomerase
+NC_007604,2422192,-,-,Synpcc7942_2355,hypothetical protein
+NC_007604,2422821,-,-,Synpcc7942_2356,Crp/Fnr family transcriptional regulator
+NC_007604,2424446,-,-,Synpcc7942_2357,hypothetical protein
+NC_007604,2424522,+,-,Synpcc7942_2358,nitrilase-like protein
+NC_007604,2425353,+,-,Synpcc7942_2359,Na+/H+ antiporter
+NC_007604,2426823,+,-,Synpcc7942_2360,N-acetylmuramoyl-L-alanine amidase
+NC_007604,2427870,+,-,Synpcc7942_2361,glutamate racemase
+NC_007604,2428740,+,-,Synpcc7942_2362,trans-hexaprenyltranstransferase
+NC_007604,2430161,-,-,Synpcc7942_2363,hypothetical protein
+NC_007604,2430767,-,-,Synpcc7942_2364,hypothetical protein
+NC_007604,2430758,+,prfC,Synpcc7942_2365,peptide chain release factor 3
+NC_007604,2432879,-,-,Synpcc7942_2366,hypothetical protein
+NC_007604,2433454,-,-,Synpcc7942_2367,hypothetical protein
+NC_007604,2433493,+,-,Synpcc7942_R0013,His tRNA
+NC_007604,2433890,+,-,Synpcc7942_2368,secretion protein HlyD
+NC_007604,2435041,+,-,Synpcc7942_2369,hydrophobe/amphiphile efflux-1 HAE1
+NC_007604,2438232,+,-,Synpcc7942_2370,hypothetical protein
+NC_007604,2439246,-,-,Synpcc7942_2371,UDP-N-acetylglucosamine acyltransferase
+NC_007604,2440336,-,-,Synpcc7942_2372,hypothetical protein
+NC_007604,2441373,-,-,Synpcc7942_2373,hypothetical protein
+NC_007604,2441447,+,-,Synpcc7942_2374,(dimethylallyl)adenosine tRNA methylthiotransferase
+NC_007604,2442837,+,ddl,Synpcc7942_2375,D-alanyl-alanine synthetase A
+NC_007604,2443884,+,-,Synpcc7942_2376,hypothetical protein
+NC_007604,2444319,+,-,Synpcc7942_2377,cell division protein FtsQ
+NC_007604,2445387,+,-,Synpcc7942_2378,cell division protein FtsZ
+NC_007604,2446568,+,-,Synpcc7942_2379,phosphomethylpyrimidine kinase
+NC_007604,2447772,-,-,Synpcc7942_2380,hypothetical protein
+NC_007604,2447996,-,ffs,Synpcc7942_R0047,-
+NC_007604,2448076,+,panB,Synpcc7942_2381,3-methyl-2-oxobutanoate hydroxymethyltransferase
+NC_007604,2450069,-,-,Synpcc7942_2382,coproporphyrinogen III oxidase
+NC_007604,2450109,+,-,Synpcc7942_2383,"nucleotide binding protein, PINc"
+NC_007604,2451384,+,-,Synpcc7942_2384,pyruvate:ferredoxin (flavodoxin) oxidoreductase
+NC_007604,2454974,+,-,Synpcc7942_2385,dihydroorotate dehydrogenase 2
+NC_007604,2455998,+,-,Synpcc7942_2386,hydrogenase expression/formation protein HypD
+NC_007604,2459118,-,-,Synpcc7942_2387,hypothetical protein
+NC_007604,2460331,-,-,Synpcc7942_2388,oxalate decarboxylase
+NC_007604,2461442,-,-,Synpcc7942_2389,molecular chaperone DnaJ
+NC_007604,2461433,+,-,Synpcc7942_2390,5-oxoprolinase
+NC_007604,2465228,+,-,Synpcc7942_2391,oxidoreductase-like protein
+NC_007604,2466011,+,-,Synpcc7942_2392,hypothetical protein
+NC_007604,2467637,+,gltX,Synpcc7942_2393,glutamyl-tRNA synthetase
+NC_007604,2470835,-,-,Synpcc7942_2394,Na+/H+ antiporter
+NC_007604,2471140,-,-,Synpcc7942_2395,hypothetical protein
+NC_007604,2471930,-,-,Synpcc7942_2396,HAD family phosphatase
+NC_007604,2472461,-,-,Synpcc7942_2397,hypothetical protein
+NC_007604,2472916,-,-,Synpcc7942_2398,Holliday junction resolvase-like protein
+NC_007604,2474135,-,-,Synpcc7942_2399,hypothetical protein
+NC_007604,2475316,-,-,Synpcc7942_2400,hypothetical protein
+NC_007604,2475944,-,-,Synpcc7942_2401,heat shock protein Hsp20
+NC_007604,2476025,+,-,Synpcc7942_2402,hypothetical protein
+NC_007604,2477425,+,-,Synpcc7942_2403,hypothetical protein
+NC_007604,2477807,+,-,Synpcc7942_2404,hypothetical protein
+NC_007604,2478513,+,-,Synpcc7942_R0014,Phe tRNA
+NC_007604,2478993,-,-,Synpcc7942_2405,hypothetical protein
+NC_007604,2479051,+,-,Synpcc7942_2406,FAD dependent oxidoreductase
+NC_007604,2480159,+,-,Synpcc7942_2407,hypothetical protein
+NC_007604,2481395,-,-,Synpcc7942_2408,hypothetical protein
+NC_007604,2482805,-,-,Synpcc7942_2409,adenylosuccinate synthetase
+NC_007604,2482991,+,-,Synpcc7942_2410,adenosine deaminase
+NC_007604,2484137,+,-,Synpcc7942_2411,hypothetical protein
+NC_007604,2485251,-,-,Synpcc7942_2412,SPFH domain-containing protein/band 7 family protein
+NC_007604,2485527,-,-,Synpcc7942_2413,hypothetical protein
+NC_007604,2486650,-,-,Synpcc7942_2414,hypothetical protein
+NC_007604,2488370,-,lysS,Synpcc7942_2415,lysyl-tRNA synthetase
+NC_007604,2489207,-,-,Synpcc7942_2416,two component transcriptional regulator
+NC_007604,2490579,-,-,Synpcc7942_2417,"transcriptional regulator, ABC transporter"
+NC_007604,2491517,-,-,Synpcc7942_2418,transcriptional regulator
+NC_007604,2491630,+,-,Synpcc7942_2419,hypothetical protein
+NC_007604,2492215,+,-,Synpcc7942_2420,serine O-acetyltransferase
+NC_007604,2493897,-,-,Synpcc7942_2421,high-affinity iron transporter
+NC_007604,2494867,-,-,Synpcc7942_2422,hypothetical protein
+NC_007604,2496775,-,-,Synpcc7942_2423,tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA
+NC_007604,2497690,-,-,Synpcc7942_2424,hypothetical protein
+NC_007604,2498661,-,-,Synpcc7942_2425,chaperon-like protein for quinone binding in photosystem II
+NC_007604,2498921,-,petM,Synpcc7942_2426,cytochrome b6-f complex subunit PetM
+NC_007604,2498972,+,-,Synpcc7942_2427,3-mercaptopyruvate sulfurtransferase
+NC_007604,2500277,-,-,Synpcc7942_2428,biopolymer transport ExbD like protein
+NC_007604,2500928,-,-,Synpcc7942_2429,biopolymer transport ExbB like protein
+NC_007604,2502112,-,-,Synpcc7942_2430,"N(2),N(2)-dimethylguanosine tRNA methyltransferase"
+NC_007604,2505955,-,-,Synpcc7942_2431,hypothetical protein
+NC_007604,2506121,+,-,Synpcc7942_2432,hypothetical protein
+NC_007604,2506726,+,-,Synpcc7942_2433,hypothetical protein
+NC_007604,2507663,+,ilvH,Synpcc7942_2434,acetolactate synthase 3 regulatory subunit
+NC_007604,2508185,+,-,Synpcc7942_2435,hypothetical protein
+NC_007604,2509445,-,-,Synpcc7942_2436,peptide methionine sulfoxide reductase
+NC_007604,2512368,-,ileS,Synpcc7942_2437,isoleucyl-tRNA synthetase
+NC_007604,2513873,-,-,Synpcc7942_2438,CheA signal transduction histidine kinase
+NC_007604,2513976,+,-,Synpcc7942_R0015,Leu tRNA
+NC_007604,2514197,+,-,Synpcc7942_2439,beta-carotene hydroxylase
+NC_007604,2517694,-,-,Synpcc7942_2440,polynucleotide phosphorylase
+NC_007604,2518697,-,-,Synpcc7942_2441,phosphate transporter ATP-binding protein
+NC_007604,2519609,-,-,Synpcc7942_2442,phosphate ABC transporter permease
+NC_007604,2520594,-,-,Synpcc7942_2443,phosphate ABC transporter permease
+NC_007604,2521919,-,-,Synpcc7942_2444,phosphate binding protein
+NC_007604,2522933,-,-,Synpcc7942_2445,phosphate binding protein
+NC_007604,2523919,-,-,Synpcc7942_2446,methionine aminopeptidase
+NC_007604,2524094,+,-,Synpcc7942_2447,hypothetical protein
+NC_007604,2524429,+,-,Synpcc7942_2448,GTP-binding protein HflX
+NC_007604,2526169,+,-,Synpcc7942_2449,1-Cys peroxiredoxin
+NC_007604,2529307,-,-,Synpcc7942_2450,general secretion pathway protein D
+NC_007604,2530163,-,-,Synpcc7942_2451,type IV pilus assembly protein PilO
+NC_007604,2530878,-,-,Synpcc7942_2452,Tfp pilus assembly protein PilN-like protein
+NC_007604,2531958,-,-,Synpcc7942_2453,type IV pilus assembly protein PilM
+NC_007604,2533374,-,-,Synpcc7942_2454,adenine phosphoribosyltransferase
+NC_007604,2533536,+,-,Synpcc7942_2455,hypothetical protein
+NC_007604,2534175,+,-,Synpcc7942_2456,hypothetical protein
+NC_007604,2535240,+,glyQ,Synpcc7942_2457,glycyl-tRNA synthetase subunit alpha
+NC_007604,2536184,+,-,Synpcc7942_2458,ComEC/Rec2-like protein
+NC_007604,2538396,+,-,Synpcc7942_R0016,Ser tRNA
+NC_007604,2538483,+,-,Synpcc7942_2459,hypothetical protein
+NC_007604,2541181,-,-,Synpcc7942_2460,DNA-cytosine methyltransferase
+NC_007604,2542737,-,-,Synpcc7942_2461,hypothetical protein
+NC_007604,2544106,-,-,Synpcc7942_2462,sugar kinase
+NC_007604,2545371,-,-,Synpcc7942_2463,S-adenosylmethionine synthetase
+NC_007604,2546213,-,-,Synpcc7942_2464,N-acetylmannosamine-6-phosphate 2-epimerase
+NC_007604,2546633,-,-,Synpcc7942_2465,hypothetical protein
+NC_007604,2546850,+,-,Synpcc7942_2466,two component transcriptional regulator
+NC_007604,2548443,-,aroE,Synpcc7942_2467,shikimate 5-dehydrogenase
+NC_007604,2548584,+,dnaK,Synpcc7942_2468,molecular chaperone DnaK
+NC_007604,2550704,+,-,Synpcc7942_2469,hypothetical protein
+NC_007604,2551697,+,-,Synpcc7942_2470,hypothetical protein
+NC_007604,2552611,+,nusB,Synpcc7942_2471,transcription antitermination protein NusB
+NC_007604,2553267,+,-,Synpcc7942_2472,signal recognition particle-docking protein FtsY
+NC_007604,2555003,+,-,Synpcc7942_2473,serine phosphatase
+NC_007604,2556447,+,-,Synpcc7942_2474,hypothetical protein
+NC_007604,2556692,+,-,Synpcc7942_2475,argininosuccinate lyase
+NC_007604,2558256,+,-,Synpcc7942_2476,hypothetical protein
+NC_007604,2559484,-,-,Synpcc7942_2477,hypothetical protein
+NC_007604,2559874,-,-,Synpcc7942_2478,photosystem II reaction center W protein
+NC_007604,2560375,+,-,Synpcc7942_2479,pilin-like protein
+NC_007604,2561848,-,-,Synpcc7942_2480,prolyl 4-hydroxylase subunit alpha
+NC_007604,2563068,-,-,Synpcc7942_2481,hypothetical protein
+NC_007604,2563704,-,-,Synpcc7942_2482,hypothetical protein
+NC_007604,2565170,-,-,Synpcc7942_2483,hypothetical protein
+NC_007604,2565998,-,-,Synpcc7942_2484,hypothetical protein
+NC_007604,2566728,-,-,Synpcc7942_2485,hypothetical protein
+NC_007604,2568305,-,-,Synpcc7942_2486,hypothetical protein
+NC_007604,2568613,+,-,Synpcc7942_2487,hypothetical protein
+NC_007604,2568903,+,-,Synpcc7942_2488,hypothetical protein
+NC_007604,2569594,+,-,Synpcc7942_2489,hypothetical protein
+NC_007604,2570884,-,miaA,Synpcc7942_2490,tRNA delta(2)-isopentenylpyrophosphate transferase
+NC_007604,2571012,+,gyrB,Synpcc7942_2491,DNA gyrase subunit B
+NC_007604,2574068,-,-,Synpcc7942_2492,ATPase
+NC_007604,2574822,-,-,Synpcc7942_2493,ATPase
+NC_007604,2575742,-,-,Synpcc7942_2494,branched-chain amino acid ABC transporter permease
+NC_007604,2576687,-,-,Synpcc7942_2495,integral membrane protein of the ABC-type Nat permease for neutral amino acids NatD
+NC_007604,2577886,-,-,Synpcc7942_2496,branched-chain amino-acid ABC transport system periplasmic binding protein
+NC_007604,2578371,-,ndk,Synpcc7942_2497,nucleoside diphosphate kinase
+NC_007604,2579715,-,-,Synpcc7942_2498,hypothetical protein
+NC_007604,2581095,-,-,Synpcc7942_2499,hypothetical protein
+NC_007604,2581716,-,-,Synpcc7942_2500,hypothetical protein
+NC_007604,2581939,+,-,Synpcc7942_2501,phospho-2-dehydro-3-deoxyheptonate aldolase
+NC_007604,2584313,-,-,Synpcc7942_2502,hypothetical protein
+NC_007604,2585460,-,-,Synpcc7942_2503,protochlorophyllide oxidoreductase
+NC_007604,2586072,-,-,Synpcc7942_2504,hypothetical protein
+NC_007604,2586130,+,-,Synpcc7942_2505,caffeoyl-CoA O-methyltransferase
+NC_007604,2587497,-,-,Synpcc7942_2506,phosphoadenosine phosphosulfate reductase
+NC_007604,2587797,-,-,Synpcc7942_2507,hypothetical protein
+NC_007604,2588028,+,-,Synpcc7942_2508,type 2 NADH dehydrogenase NdbB
+NC_007604,2589225,+,-,Synpcc7942_2509,HAD family hydrolase
+NC_007604,2589959,+,-,Synpcc7942_2510,translation initiation factor 1
+NC_007604,2590759,-,-,Synpcc7942_2511,hypothetical protein
+NC_007604,2592131,-,-,Synpcc7942_2512,hypothetical protein
+NC_007604,2592285,+,-,Synpcc7942_2513,photosystem I assembly BtpA
+NC_007604,2593241,+,-,Synpcc7942_2514,ornithine carbamoyltransferase
+NC_007604,2596459,-,-,Synpcc7942_2515,DNA helicase
+NC_007604,2596584,+,-,Synpcc7942_R0018,Ala tRNA
+NC_007604,2596965,-,-,Synpcc7942_2516,hypothetical protein
+NC_007604,2597729,-,-,Synpcc7942_2517,hypothetical protein
+NC_007604,2599148,-,glgA,Synpcc7942_2518,glycogen synthase
+NC_007604,2601896,-,-,Synpcc7942_2519,diguanylate cyclase/phosphodiesterase
+NC_007604,2602689,-,-,Synpcc7942_2520,hypothetical protein
+NC_007604,2604026,-,-,Synpcc7942_2521,"nucleotide binding protein, PINc"
+NC_007604,2605010,-,-,Synpcc7942_2522,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase
+NC_007604,2605009,+,-,Synpcc7942_2523,hypothetical protein
+NC_007604,2605267,+,tig,Synpcc7942_2524,trigger factor
+NC_007604,2606764,+,-,Synpcc7942_2525,ATP-dependent Clp protease proteolytic subunit
+NC_007604,2607529,+,clpX,Synpcc7942_2526,ATP-dependent protease ATP-binding subunit ClpX
+NC_007604,2608875,+,-,Synpcc7942_2527,esterase
+NC_007604,2609741,+,-,Synpcc7942_2528,hypothetical protein
+NC_007604,2611092,-,-,Synpcc7942_2529,hypothetical protein
+NC_007604,2611328,+,rpsB,Synpcc7942_2530,30S ribosomal protein S2
+NC_007604,2612193,+,tsf,Synpcc7942_2531,elongation factor Ts
+NC_007604,2613889,-,-,Synpcc7942_2532,hypothetical protein
+NC_007604,2613998,+,-,Synpcc7942_2533,hypothetical protein
+NC_007604,2615748,-,-,Synpcc7942_2534,GAF sensor-containing diguanylate cyclase
+NC_007604,2615811,+,-,Synpcc7942_2535,diguanylate cyclase
+NC_007604,2619626,-,-,Synpcc7942_2536,molecular chaperone DnaJ
+NC_007604,2620273,-,clpP,Synpcc7942_2537,ATP-dependent Clp protease proteolytic subunit
+NC_007604,2620960,-,-,Synpcc7942_2538,ATP-dependent Clp protease-like protein
+NC_007604,2621671,-,-,Synpcc7942_2539,hypothetical protein
+NC_007604,2622298,-,-,Synpcc7942_2540,blue-copper-protein-like protein
+NC_007604,2622353,+,rplS,Synpcc7942_2541,50S ribosomal protein L19
+NC_007604,2622812,+,-,Synpcc7942_R0019,Trp tRNA
+NC_007604,2623091,+,-,Synpcc7942_R0020,Asp tRNA
+NC_007604,2623725,-,-,Synpcc7942_2542,cytochrome C6-2
+NC_007604,2624449,-,-,Synpcc7942_2543,phage SPO1 DNA polymerase-like protein
+NC_007604,2624868,-,-,Synpcc7942_2544,hypothetical protein
+NC_007604,2624982,+,-,Synpcc7942_2545,aspartate aminotransferase
+NC_007604,2626237,+,-,Synpcc7942_2546,hypothetical protein
+NC_007604,2627005,+,-,Synpcc7942_2547,hypothetical protein
+NC_007604,2627407,+,leuD,Synpcc7942_2548,isopropylmalate isomerase small subunit
+NC_007604,2628358,-,-,Synpcc7942_2549,hypothetical protein
+NC_007604,2628487,+,-,Synpcc7942_2550,hypothetical protein
+NC_007604,2632062,-,-,Synpcc7942_2551,(NiFe) hydrogenase maturation protein HypF
+NC_007604,2632862,-,-,Synpcc7942_2552,hydrogenase accessory protein HypB
+NC_007604,2633201,-,-,Synpcc7942_2553,hydrogenase nickel insertion protein HypA
+NC_007604,2633647,-,-,Synpcc7942_2554,hypothetical protein
+NC_007604,2635095,-,-,Synpcc7942_2555,NAD-reducing hydrogenase HoxS subunit beta
+NC_007604,2635650,-,-,Synpcc7942_2556,NAD-reducing hydrogenase HoxS delta subunit
+NC_007604,2636354,-,-,Synpcc7942_2557,bidirectional hydrogenase complex protein HoxU
+NC_007604,2636518,+,-,Synpcc7942_2558,cysteine desulfurase
+NC_007604,2638384,-,rplI,Synpcc7942_2559,50S ribosomal protein L9
+NC_007604,2638476,+,-,Synpcc7942_2560,acetyltransferase
+NC_007604,2640226,-,-,Synpcc7942_2561,delta-9 acyl-phospholipid desaturase
+NC_007604,2640073,+,-,Synpcc7942_2562,aluminum resistance protein
+NC_007604,2641349,+,-,Synpcc7942_2563,exonuclease SbcC
+NC_007604,2644800,-,-,Synpcc7942_2564,biotin carboxyl carrier protein
+NC_007604,2645392,-,-,Synpcc7942_2565,elongation factor P
+NC_007604,2645522,+,-,Synpcc7942_2566,peptidyl-prolyl cis-trans isomerase
+NC_007604,2646633,+,-,Synpcc7942_2567,thiamine monophosphate kinase
+NC_007604,2648101,-,-,Synpcc7942_2568,hypothetical protein
+NC_007604,2648820,-,-,Synpcc7942_2569,orotidine 5'-phosphate decarboxylase
+NC_007604,2650032,-,-,Synpcc7942_2570,tyrosyl-tRNA synthetase
+NC_007604,2650102,+,-,Synpcc7942_2571,penicillin-binding protein 1A
+NC_007604,2652377,-,-,Synpcc7942_2572,hypothetical protein
+NC_007604,2653346,-,-,Synpcc7942_2573,manganese transport system membrane protein MntB
+NC_007604,2654102,-,-,Synpcc7942_2574,ATPase
+NC_007604,2654163,+,-,Synpcc7942_2575,Mn transporter MntC
+NC_007604,2655349,-,-,Synpcc7942_R0050,5S ribosomal RNA
+NC_007604,2658297,-,-,Synpcc7942_R0051,23S ribosomal RNA
+NC_007604,2658574,-,-,Synpcc7942_R0021,Ala tRNA
+NC_007604,2658681,-,-,Synpcc7942_R0022,Ile tRNA
+NC_007604,2660332,-,-,Synpcc7942_R0052,16S ribosomal RNA
+NC_007604,2662110,-,-,Synpcc7942_2576,hypothetical protein
+NC_007604,2663092,-,murQ,Synpcc7942_2577,N-acetylmuramic acid-6-phosphate etherase
+NC_007604,2663566,-,-,Synpcc7942_2578,hypothetical protein
+NC_007604,2664450,-,-,Synpcc7942_2579,molecular chaperone DnaJ
+NC_007604,2666709,-,-,Synpcc7942_2580,molecular chaperone DnaK
+NC_007604,2666924,-,-,Synpcc7942_R0023,Ser tRNA
+NC_007604,2667018,+,-,Synpcc7942_2581,ferredoxin (2Fe-2S)
+NC_007604,2667390,+,-,Synpcc7942_2582,myo-inositol-1(or 4)-monophosphatase
+NC_007604,2668299,+,-,Synpcc7942_2583,hypothetical protein
+NC_007604,2668941,+,-,Synpcc7942_2584,short chain dehydrogenase
+NC_007604,2670228,-,-,Synpcc7942_2585,BadM/Rrf2 family transcriptional regulator
+NC_007604,2670355,+,-,Synpcc7942_2586,hypothetical protein
+NC_007604,2671393,-,-,Synpcc7942_2587,hypothetical protein
+NC_007604,2672932,-,-,Synpcc7942_2588,3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+NC_007604,2673063,+,-,Synpcc7942_2589,2-phosphosulfolactate phosphatase
+NC_007604,2674093,+,-,Synpcc7942_2590,pilin-like protein
+NC_007604,2674605,+,-,Synpcc7942_2591,hypothetical protein
+NC_007604,2675925,-,pyrE,Synpcc7942_2592,orotate phosphoribosyltransferase
+NC_007604,2676025,+,-,Synpcc7942_2593,hypothetical protein
+NC_007604,2676678,-,-,Synpcc7942_R0024,Met tRNA
+NC_007604,2676752,+,-,Synpcc7942_2594,hypothetical protein
+NC_007604,2677372,+,-,Synpcc7942_2595,hypothetical protein
+NC_007604,2678860,+,-,Synpcc7942_2596,oxidoreductase
+NC_007604,2679934,+,-,Synpcc7942_2597,adenylate cyclase
+NC_007604,2681486,-,-,Synpcc7942_2598,hypothetical protein
+NC_007604,2681839,-,-,Synpcc7942_2599,hypothetical protein
+NC_007604,2682813,-,-,Synpcc7942_2600,protoheme IX farnesyltransferase
+NC_007604,2683813,-,-,Synpcc7942_2601,cytochrome aa3 controlling protein
+NC_007604,2684044,+,-,Synpcc7942_2602,cytochrome c oxidase subunit II
+NC_007604,2684995,+,-,Synpcc7942_2603,cytochrome-c oxidase
+NC_007604,2686700,+,-,Synpcc7942_2604,cytochrome c oxidase subunit III
+NC_007604,2688050,-,-,Synpcc7942_2605,hypothetical protein
+NC_007604,2690119,-,thrS,Synpcc7942_2606,threonyl-tRNA synthetase
+NC_007604,2691003,-,-,Synpcc7942_2607,exodeoxyribonuclease III
+NC_007604,2691104,+,-,Synpcc7942_2608,hypothetical protein
+NC_007604,2691626,+,-,Synpcc7942_2609,hypothetical protein
+NC_007604,2692960,-,-,Synpcc7942_2610,uroporphyrin-III C-methyltransferase
+NC_007604,2693757,-,-,Synpcc7942_2611,hypothetical protein
+NC_007604,2693825,+,-,Synpcc7942_2612,threonine synthase
+NC_007604,2695870,-,-,Synpcc7942_2613,phosphoglycolate phosphatase
+NC_007595,394,-,-,Synpcc7942_B2615,hypothetical protein
+NC_007595,1321,-,-,Synpcc7942_B2626,hypothetical protein
+NC_007595,1929,-,-,Synpcc7942_B2637,ParA-like protein
+NC_007595,2063,+,-,Synpcc7942_B2648,hypothetical protein
+NC_007595,2340,+,-,Synpcc7942_B2659,nucleic acid binding protein
+NC_007595,3070,-,-,Synpcc7942_B2654,hypothetical protein
+NC_007595,5040,-,-,Synpcc7942_B2661,cysteine desulfurase
+NC_007595,6195,-,-,Synpcc7942_B2662,major membrane protein I
+NC_007595,7249,-,-,Synpcc7942_B2663,putative serine acetyltransferase
+NC_007595,8235,-,-,Synpcc7942_B2664,cysteine synthase
+NC_007595,8691,+,-,Synpcc7942_B2616,hypothetical protein
+NC_007595,9845,-,-,Synpcc7942_B2617,hypothetical protein
+NC_007595,9947,+,-,Synpcc7942_B2618,BadM/Rrf2 family transcriptional regulator
+NC_007595,10600,+,-,Synpcc7942_B2619,"carbonic anhydrase, putative"
+NC_007595,11202,+,-,Synpcc7942_B2620,putative catalase
+NC_007595,12400,+,-,Synpcc7942_B2621,hypothetical protein
+NC_007595,13100,+,-,Synpcc7942_B2622,chromate transporter
+NC_007595,14412,+,-,Synpcc7942_B2623,cysteine synthase A
+NC_007595,15398,+,-,Synpcc7942_B2624,gamma-glutamyltransferase 2
+NC_007595,17149,+,-,Synpcc7942_B2625,hypothetical protein
+NC_007595,17687,+,-,Synpcc7942_B2627,hypothetical protein
+NC_007595,18745,+,-,Synpcc7942_B2628,"sulfonate ABC transporter, ATP-binding protein, putative"
+NC_007595,19583,+,-,Synpcc7942_B2629,"sulfonate ABC transporter, periplasmic sulfonate-binding protein, putative"
+NC_007595,20808,+,-,Synpcc7942_B2630,"sulfonate ABC transporter, permease protein, putative"
+NC_007595,21934,+,-,Synpcc7942_B2631,hypothetical protein
+NC_007595,22166,+,-,Synpcc7942_B2652,hypothetical protein
+NC_007595,23511,-,-,Synpcc7942_B2655,hypothetical protein
+NC_007595,24160,-,-,Synpcc7942_B2632,hypothetical protein
+NC_007595,24871,+,-,Synpcc7942_B2633,hypothetical protein
+NC_007595,28894,-,-,Synpcc7942_B2656,hypothetical protein
+NC_007595,29365,-,-,Synpcc7942_B2657,hypothetical protein
+NC_007595,31430,-,-,Synpcc7942_B2634,hypothetical protein
+NC_007595,31509,+,-,Synpcc7942_B2635,hypothetical protein
+NC_007595,33473,+,-,Synpcc7942_B2636,hypothetical protein
+NC_007595,34359,-,-,Synpcc7942_B2658,hypothetical protein
+NC_007595,34543,+,-,Synpcc7942_B2638,hypothetical protein
+NC_007595,34802,+,-,Synpcc7942_B2639,hypothetical protein
+NC_007595,36077,-,-,Synpcc7942_B2640,hypothetical protein
+NC_007595,36267,+,-,Synpcc7942_B2641,hypothetical protein
+NC_007595,37493,-,-,Synpcc7942_B2642,putative zinc-binding oxidoreductase
+NC_007595,38428,-,-,Synpcc7942_B2643,ThiJ family protein
+NC_007595,38521,+,-,Synpcc7942_B2644,response regulator receiver domain-containing protein
+NC_007595,39571,+,-,Synpcc7942_B2645,hypothetical protein
+NC_007595,41786,-,-,Synpcc7942_B2646,two-component sensor histidine kinase
+NC_007595,42620,-,-,Synpcc7942_B2647,response regulator receiver domain-containing protein
+NC_007595,42652,+,-,Synpcc7942_B2649,hypothetical protein
+NC_007595,43298,+,-,Synpcc7942_B2650,hypothetical protein
+NC_007595,43857,+,-,Synpcc7942_B2660,hypothetical protein
+NC_007595,45741,-,-,Synpcc7942_B2651,integrase/recombinase
+NC_007595,46285,-,-,Synpcc7942_B2653,"transcriptional modulator of MazE/toxin, MazF"
+NC_004990,1137,-,-,ST32046_p3,hypothetical protein
+NC_004990,1485,+,pmaA,ST32046_p4,hypothetical protein
+NC_004990,1938,+,pmaB,ST32046_p5,hypothetical protein
+NC_004990,3159,-,-,ST32046_p6,hypothetical protein
+NC_004990,4040,-,repB,ST32046_p7,hypothetical protein
+NC_004990,6625,-,repA,ST32046_p8,hypothetical protein
+NC_004990,7402,-,-,ST32046_p9,hypothetical protein
+NC_004990,163,-,H,ST32046_p1,hypothetical protein
